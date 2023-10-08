@@ -1,0 +1,2412 @@
+
+@media screen and (min-width: 2000px) {
+.customer-impact::before { 
+min-height: 280px; 
+}
+}
+
+@media screen and (max-width:1600px) {
+   .tabbing-center {
+	min-height: 645px;
+		}
+}
+@media screen and (max-width: 1450px) {
+.wave-bottom { height: 118px; }
+.box-industry1 {
+	margin-bottom: 20px;
+}
+.tool-technologies {
+    padding-top: 11px;
+}
+}
+@media screen and (max-width: 1366px) {
+.slider { min-height: 600px; }
+.wave-bottom { height: 113px; }
+}
+@media screen and (max-width: 1280px) {
+    .seo-services {
+    min-height: 430px;
+}
+.wave-bottom { height: 100px; }
+.slider-content { padding: 15% 0 ; }
+.slider { min-height: 510px; }
+
+.address-detail span { height: 60px; }
+.social-icon a img, .social-icon i { margin-bottom: 10px; }
+.netherlandflag span { height: 100px !important; }
+strong.contactnumb { width: 25%; }
+.iosbutton {
+    width: 79%;
+    float: left;
+}
+.iosbutton img { width: 100%; }
+.menubar ul { padding: 10px 0; }
+.awardboxcont ul li { margin-right: 14px; }
+.application-slider-arrow a.right, .appdevelopment-arrow a.right.carousel-control { right: 0; }
+.appdevelopment-arrow a.left.carousel-control { left: 0; }
+.application-content { padding-right: 35px; }
+.appdevelopment-slider .item { padding: 0 40px; }
+.service-box-content { padding-top: 0px; }
+.solution-image{
+	width: 100%;
+}
+.container.screenshort-container {
+    width: 970px;
+}
+	.leftRight {
+		margin-top: 15px;
+	}
+	.sliderbtn-heading h3 {
+		font-size: 17px;
+	}
+}
+
+@media screen and (max-width: 1100px) {
+.thanks-content {
+    padding: 0px 0;
+}
+
+.thanks-content h1 {
+    line-height: 40px;
+}
+.thanks-content h2 {
+    line-height: 26px;
+}
+.tabbing-center .metoscreen img {
+		width: 95%;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    
+/** Address start **/
+.call-detail, .email-detail
+{
+	font-size: 13px;
+	padding-top: 0;
+}
+.contact-detail .call,.event-header,.growth-content { padding-top: 33px; }
+/** Address end **/
+.career-box1 { min-height: 590px; }
+.industrieslist ul li { width: 33%; }
+.successbox1
+{
+	width: 430px;
+	height: 330px;
+}
+.wave-bottom { height: 88px; }
+.footerimg2 img.nexmologo { width: 127px; }
+img.tiecon2018-logo, img.mwc2018-icon, img.tiecon-logo, img.ctia-logo { width: 140px; }
+.event-header h3
+{
+	margin-top: 15px;
+	margin-bottom: 7px;
+	font-size: 15px;
+}
+.event-bg2 .backimage { height: 170px; }
+.getquotebox a
+{
+	padding: 10px 15px;
+	width: 26%;
+}
+.arya-service-boxs h5
+{
+	line-height: 26px;
+	margin-bottom:5px;
+}
+.feat-item.active .arya-service-boxs,.feat-item.active .service-boxs,.small-height,.event-box1 { height: 475px; }
+.approach-watchout .mobility { height: 400px; }
+.shared-box-content h3 { font-size: 17px; }
+.blockchain-service-boxs,.long-height { height: 610px !important; }
+.arya-about-content ul li
+{
+	height: auto;
+	padding: 16px 18px;
+	line-height: inherit;
+}
+.arya-about-content ul li img
+{
+	width: 72%;
+	margin: auto;
+	text-align: center;
+	display: block;
+}
+.application-slider-arrow a.left { left: 0; }
+.service-page-slider,.service-slider2, .service-slider1 { height: 500px; }
+.service-slider1 .service-slider-content { margin-top: 17px; }
+.arya-service-boxs.development-project { height: 550px; }
+.service-box-content.web-development-content p,.service-content p ,.event-header{ height: auto; }
+.service-content h2 { font-size: 28px; }
+.service-content p{ font-size:20px;}
+.viewtool-btn
+{
+	width: 100%;
+	padding: 12px 10px;
+}
+.testimonial .description { height: 400px; }
+.mobileclear .arya-about-content ul li img { width: 100%; }
+.mobileclear .arya-about-content ul li { height: auto; }
+.service-slider2 .background-content { margin-top: 85px; }
+.arya-service-boxs.mobile-app-services {
+    height: 530px;
+}
+    .social-media {
+    margin: 0px;
+}
+.service-text ul li {
+    font-size: 16px;
+    line-height: 29px;
+}
+.application-secondrow .service-boxs {
+    height: 465px;
+}
+.application-secondrow .active .service-boxs {
+    height: 490px;
+}
+.viewtool-btn span,.event-header h4{ font-size:16px !important;}
+.timentask-approach {
+    min-height: 365px;
+}
+.mobility.meto-approach {
+    min-height: 510px;
+}
+.mobility.staffing-bot-approach {
+    min-height: 430px;
+}
+.erandoo-approach {
+    min-height: 460px;
+}
+.business-growth{ 
+	width:85%;
+}
+.blockchain-development-service .single-iot-services {
+    height: 600px;
+}
+.owl-carousel .ourblog-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.testimonial .title{
+	font-size: 17px;
+}
+.arya-our-services h2{
+	font-size: 33px;
+}
+.solution-image{
+	width: 100%;
+}
+.single-iot-services {
+    margin-top: 40px;
+    position: relative;
+    padding: 27px 20px;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    box-shadow: 0 0 100px rgba(56, 46, 46, 0.2);
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    margin-right: 10px;
+}
+.why-choose-box p {
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    font-size: 15px;
+    color: #5a5959;
+    font-weight: 400;
+    line-height: 32px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    padding: 10px 0px;
+}
+    .service-slider1 .service-slider-content {
+    margin-top: 0px;
+}
+    
+.seo-services {
+    min-height: 470px;
+}
+.inner-address.email-address {
+    width: 100%;
+}
+}
+@media screen and (max-width:1024px) {
+	.section-padding {
+		padding: 25px 0;
+	}
+	.blockchain-development-service .iotservice-descreption ul li {
+		color: #5a5959;
+		list-style: none;
+		display: inline-block;
+		font-size: 14px;
+		line-height: 35px;
+		font-weight: 400;
+	}
+	.iotservice-descreption p {
+		font-size: 10px;
+	line-height: 31px;}
+	.height {
+		height: 392px;
+	}
+.consult-text {
+	 width: 73%; 
+	}
+.inner-address {
+	 width: 181px;
+	 }
+.workbut p
+{
+	width: 89%;
+	margin: 40px auto auto;
+}
+.inner-address
+{
+	float: left;
+	width: 134px;
+}
+.simplefilter { 
+	width: 75%;
+ }
+.successbox1
+{
+	width: 430px;
+	height: 330px;
+}
+.consult-text p {
+	 width: 420px; 
+	}
+.slider {
+	 min-height: 470px; 
+	}
+.slider-content { 
+	padding: 28% 0; 
+}
+.wave-bottom { 
+	height: 84px;
+ }
+.portfolio-content
+{
+	height: 370px;
+	padding: 30px;
+}
+.background-image { top: 120px; }
+.customer-impact::before { height: 270px; }
+.mobileback img { width: 452px !important; }
+.address-detail img
+{
+	width: 20px;
+	height: 20px;
+}
+.industrieslist ul li { width: 32%; }
+strong.contactnumb img { width: 100%; }
+.work_left { margin-bottom: 25px; }
+.appdevelopment-arrow a.right.carousel-control { right: -27px; }
+.appdevelopment-arrow a.left.carousel-control { left: -27px; }
+.inner-challenge-section,.equalspacing { padding: 30px 0 40px; }
+.solution-image{
+	width: 100%;
+}
+.blockchain-development-service .single-iot-services {
+    height: auto;
+}
+.testimonial .title{
+	font-size: 16px;
+}
+strong.contactnumb {
+    width: 100%;
+}
+.features li .count {
+	margin-top:10px}
+
+.owl-carousel .ourblog-item img {
+	height: auto;
+}
+.slider-content h2 {
+    color: #fff;
+    line-height: 52px;
+    font-size: 36px;
+    width: 100%;
+}
+.slider-tagline strong {
+    width: 100%;
+    display: block;
+    font-size: 33px;
+    margin: 10px 0 13px;
+}
+.service-content p {
+    font-size: 12px;
+}
+.inner-address p {
+    color: #333;
+    font-size: 10px;
+}
+.why-choose-box ul li {
+    font-size: 14px;
+    line-height: 38px;
+    color: #1d1818;
+    font-weight: 500;
+    list-style: none;
+}
+.service-slider-content h2 {
+    margin: auto;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 75px;
+}
+.iotservice-heading h5 {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 30px;
+    color: #333;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    margin-top: 22px;
+}
+.usecase-boxs {
+    background: #fff;
+    position: relative;
+    margin-bottom: 30px;
+    padding: 25px 25px;
+    box-shadow: 0 0 15px rgba(173, 173, 173, 0.3);
+    transition: all 0.5s ease;
+    height: 538px;
+}
+}
+@media screen and (max-width:992px) {
+	.iotservice-descreption p {
+		font-size: 17px;
+		padding: 0px 8px;
+	}
+	.tool-technologies {
+		padding-top: 15px;
+	}
+	.menubar li a{
+		font-size: 12px;
+	}
+	.nav>li>a {
+		position: relative;
+		display: block;
+		padding: 10px 9px;
+	}
+.technology li p { width: 81%; }
+.inner-address { width: 122px; }
+strong.contactnumb,.business-growth
+{
+	width: 96%;
+}
+.workwith { padding: 45px 0; }
+.workbut p
+{
+	width: 91%;
+	margin: 27px auto auto;
+	font-size: 16px;
+}
+.portfolio-content p { width: 100%}
+.simplefilter { width: 97%; }
+.successbox1
+{
+	width: 333px;
+	height: 240px;
+}
+.technology h3 { line-height: 28px; }
+.contact-detail .call,.business-growth,.customer-bottom-space { margin-bottom: 20px; }
+.left-padd { padding-left: 15px; }
+.right-padd { padding-right: 15px; }
+.form, .col-lg-7.col-md-7.col-sm-7.consultpaddings, .customer-impact .customer-content, .para2, .mobileclear .arya-about-content ul li img, .consult-text p,.modalchange .modal-content .videopart video ,.tech-img,img.tiecon2018-logo, img.mwc2018-icon, img.tiecon-logo, img.ctia-logo{ width: 100%; }
+.wave-bottom { height: 62px; }
+.slider-content h1 { font-size: 42px; }
+.slider-content { padding: 25% 0 ; }
+.career-box1
+{
+	min-height: 700px;
+	box-shadow: 0px 0px 17px rgba(220, 220, 220, 1);
+}
+.portfolio-content
+{
+	height: 420px;
+	padding: 30px;
+}
+.success2a { margin-top: 70px; }
+.challenge .challenge-heading p { width: 68%; }
+.background-image img { width: 388px; }
+.tech-stack .box-light, .box-light-dark, .box-harddark, .box-dark { width: 156px; }
+.dark-background .background-content h1
+{
+	font-size: 29px;
+	line-height: 42px;
+}
+.mobileback img { width: 370px !important; }
+.address-detail span { height: 80px; }
+.social-icon i { margin-bottom: 10px; }
+.induimages { height: 307px; }
+.industrieslist ul { padding: 10px 0; }
+.industrieslist ul li { width: 43%; }
+.box-light img, .box-dark img, .box-light-dark img, .box-harddark img
+{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.dark-background .background-content { margin-top: 100px; }
+.scheduler img { width: 80%; }
+.nav>li>a { padding: 10px 6px; }
+.maihhead { width: 28%; }
+.maihhead
+{
+	width: 34%;
+	top: 2px;
+}
+.social-icon i
+{
+	font-size: 18px !important;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	padding: 0px 7px;
+	margin-right: 5px;
+}
+.social-icon img { width: 30px; }
+.workbut a { top: 85px; }
+.termscont p i
+{
+	padding-right: 6px;
+	float: left;
+	line-height: 33px;
+	height: 70px;
+}
+.contactmodal { width: 459%; }
+li.locaphoneicon
+{
+	position: relative;
+	height: auto;
+}
+.mobility-box1 { padding: 20px 0 10px; }
+.address-detail.mail12box i { font-size: 34px; }
+.leftslider-content { padding: 5% 15px; }
+.leftslider-content p
+{
+	font-size: 15px;
+	padding-top: 10px;
+	line-height: 25px;
+}
+.timeheading { font-size: 24px !important; }
+.inner-address a { padding: 6px 0; }
+i.fa.fa-google-plus.googleplus,.rating-sec p, .without-rating p,.usecase-boxs p,.event-header h3,.event-header h4 { font-size: 16px !important; }
+li.social-icon.footerimg2.goodfirmsimg,.growth-content ,.customer-content{ padding-top: 0px; }
+.goodfirmsimg img
+{
+	width: 60%;
+	margin-bottom: 0;
+}
+.event-header h3.blue
+{
+	font-size: 18px;
+	margin: 10px auto auto auto;
+}
+.event-header p { font-size: 13px; }
+.backimage { height: 175px; }
+
+.footerimg2 img.nexmologo
+{
+	width: 95px;
+	padding-top: 9px;
+}
+.footerimg2 img.goldlogo { width: 60px; }
+.sbmt
+{
+	width: 21%;
+	text-align: center;
+	display: block;
+	padding: 0;
+}
+.getquotebox a
+{
+	padding: 12px 15px;
+	width: 32%;
+}
+.arya-service-boxs h5 { line-height: 26px; }
+.arya-service-boxs
+{
+	height: 480px;
+	padding: 20px 30px;
+}
+.feat-item.active .arya-service-boxs
+{
+	height: 505px;
+	padding-top: 45px;
+}
+.approach-watchout .mobility,.event-box1.without-view { height: 450px; }
+.feat-item.active .service-boxs,.event-box1 { height: 545px; }
+.service-boxs,.application-secondrow .service-boxs,.small-height { height: 520px; }
+.long-height{ height:700px;}
+.arya-service-boxs,.tech-img,.mobileclear .arya-about-content ul li ,.arya-about-content ul li{ height: auto; }
+.service-small-height { height: 360px !important; }
+.active .service-small-height { height: 385px !important; }
+.arya-about-content ul li
+{
+	width: 45.33%;
+	margin-bottom: 15px;
+	margin-right: 15px;
+	padding: 16px 10px;
+	line-height: 65px;
+}
+.mobileclear:after
+{
+	clear: both;
+	display: block;
+	content: "";
+}
+.blockchain-shared-box { height: 120px; }
+.blockchain-service-boxs { height: 660px !important;}
+.service-slider-content h2
+{
+	font-size: 21px;
+	letter-spacing: 4px;
+	line-height: 53px;
+}
+
+.arya-about-content ul li img
+{
+	width: 72%;
+	margin: auto;
+	text-align: center;
+	display: block;
+}
+.service-page-slider, .service-slider2, .service-slider1
+{
+	height: 400px;
+	padding: 50px 0;
+}
+.service-slider1 .service-slider-content,.event-header h3 { margin-top: 20px; }
+.arya-service-boxs.development-project { height: 600px; }
+.service-box-content.web-development-content p { height:365px; }
+.service-content
+{
+	text-align: center;
+	padding: 0;
+}
+.service-content p { height: auto; }
+.service-content h2,.service-content h2 span { font-size: 25px; }
+.service-content p,.service-box-content h5, .service-boxs h5,.usecase-boxs h3,.mobility h3,.privacycontent strong,.mobility h3{ font-size: 17px; }
+.viewtool-btn
+{
+	width: 299px;
+	height: auto !important;
+	margin: auto;
+}
+.serviceimage img {
+    margin: 35px auto 35px auto;
+}
+
+.service-slider2 .background-content { margin-top:70px; }
+.make-chatbot { padding-top: 15px; }
+.dark-background { min-height: 470px; }
+.menubar li a { font-size: 13px; }
+.event-header{padding:10px 15px; height:210px;}
+.getintouch
+{
+	padding: 10px 8px !important;
+	margin-right: 0px;
+}
+.arya-our-services h2, .arya-about-content h2, .languages-framework h3, .blockchain-framework h3, .arya-our-services h1,.arya-our-services h2 span, .arya-about-content span, .languages-framework h3 b, .blockchain-framework h3 b, .arya-our-services h1 span,.award-accolades h3,.leverage-heading,
+.common-heading h3,.success-stories h3,.digitalize-heading h3,.getquotebox h3,.form-page h3{font-size:26px;}
+.award-accolades p,.arya-our-services p{ font-size:20px;}
+.timentask-approach {
+    min-height: 419px;
+}
+.mobility.meto-approach {
+    min-height: 660px;
+}
+.mobility.staffing-bot-approach,.erandoo-approach {
+    min-height: 530px;
+}
+.service-content h2 span {
+    clear: inherit;
+    display: inline-block;
+}
+.service-text12 ul li {
+    list-style: none;
+    color: #ccc;
+}
+.dark-text {
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 35px;
+    color: #333;
+    width: 100%;
+}
+.service-text .service-heading h3 {
+    color: #333;
+
+	font-weight: 700;
+	font-size: 24px;
+}
+.service-text12 .service-heading h3 {
+    color: #fff;
+
+	font-weight: 700;
+	font-size: 24px;
+}
+.service-text12 i {
+    font-size: 16px;
+}
+.service-text i {
+    font-size: 16px;
+}
+.service-image {
+    text-align: center;
+    width: 100%;
+}
+.project-feature-item img,.project-feature-item .item-img{
+    width: 100%;
+}
+.mt-40{margin-top: 20px;}
+.section-padding {
+    padding: 30px 0;
+}
+.testimonial .description{
+	height: auto;
+}
+.features li .count {
+	margin-top:10px
+}
+	.success2a {
+		margin-top: 0px;
+	}
+	.slider-content h2 {
+		color: #fff;
+		line-height: 52px;
+		font-size: 28px;
+		width: 85%;
+	}
+	.box-industry1 {margin-bottom: 10px;
+}
+.project-feature-box {
+    padding: 50px 0px;
+}
+
+.thanks-image{
+	margin: auto;
+	text-align: center;
+}
+.thanks-image img {
+    width: 90%;
+}
+.appscreen-slider .app-slider-arrow-prev {
+    left: 10px;
+}
+.container.screenshort-container {
+     width: 750px; 
+}
+.alltabbing a.mobile-tabs, a#insuranceTab1 {
+		display: inline-block;
+	}
+	.alltabbing a {
+		font-size: 17px;
+		padding: 14px 8px;
+		display: inline-block;
+		width: 48%;
+		margin-right: 2%;
+	}
+	.inner-address a {
+		font-size: 14px;
+	}
+	.mobile-left-tab {
+		float: left;
+		width: 100%;
+	}
+	.mobilediv-none {
+		float: right;
+		width: 100%;
+	}
+	.mobilefull-manage {
+		clear: both;
+		display: block;
+		width:100%;
+	}
+	.alltabbing a:hover {
+		transform: scale(1);
+	}
+	.alltabbing a:nth-child(2), .alltabbing a:nth-child(4), .righttabbing a:nth-child(2), .righttabbing a:nth-child(4), .alltabbing a:nth-child(6) {
+		margin-right: 0;
+		float: right;
+	}
+	.tabbing-center {
+		min-height: auto;
+	}
+	
+	.sliderbtn-box {
+		padding: 24px 13px;
+	}
+	.sliderbtn-heading h3 {
+		font-size: 14px;
+		line-height: 23px;
+	}
+	.sliderbtn-heading img {
+		width: 34px;
+		height: 34px;
+		line-height: 34px;
+	}
+
+}
+@media screen and (max-width:850px) {
+	.testimonial{
+		height: 512px;
+	}
+	.iotservice-descreption p {
+		font-size: 16px;
+		padding: 0px 8px;
+	}
+	.single-iot-services {
+		margin-top: 30px;}
+		.index-service-row {
+			padding-bottom: 0px; 
+		}
+.menubar li a{
+		font-size: 12px;
+	}
+	.height {
+		height: auto;
+	}	
+	.blockchain-development-service .iotservice-descreption ul li {
+		color: #5a5959;
+		list-style: none;
+		display: inline-block;
+		font-size: 14px;
+		line-height: 35px;
+		font-weight: 400;
+	}
+	.why-choose-box ul li {
+		font-size: 14px;
+		line-height: 31px;
+		color: #1d1818;
+		font-weight: 500;
+		list-style: none;
+	}
+	.iotservice-heading h5 {
+		font-weight: 700;
+		font-size: 14px;
+		margin-bottom: 10px;
+		line-height: 30px;
+		color: #333;
+		-webkit-transition: 0.5s;
+		transition: 0.5s;
+		margin-top: 22px;
+	}
+.appdevelopment-arrow a.right.carousel-control { right: 0; }
+.appdevelopment-arrow a.left.carousel-control { left: 0; }
+.expertise-slider {
+	height: 650;
+}
+.service-text .service-descreption p {
+    font-size: 19px;
+    color: #100f0f;
+    line-height: 28px;
+    font-weight: 400;
+    padding: 8px 0px;
+    padding-top: 15px;
+}
+.service-text ul li {
+    list-style: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.service-text12 .service-descreption p {
+    font-size: 14px;
+    color: fff;
+    line-height: 24px;
+    font-weight: 400;
+    padding: 8px 0px;
+    padding-top: 15px;
+}
+.service-text12 ul li {
+    list-style: none;
+    color: #ccc;
+    line-height: 20px;
+}
+.dark-text {
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 35px;
+    color: #333;
+    width: 100%;
+}
+.service-text .service-heading h3 {
+    color: #333;
+    line-height:0px;
+	font-weight: 700;
+	font-size: 19px;
+}
+.service-text12 .service-heading h3 {
+    color: #fff;
+    line-height:0px;
+	font-weight: 700;
+	font-size: 19px;
+}
+.service-text12 i {
+    font-size: 16px;
+}
+.service-text i {
+    font-size: 16px;
+}
+.w-92 {
+    width: 65%;
+}
+.features-solution ul li {
+    font-size: 15px;
+    line-height: 38px;
+    color: #1d1818;
+    font-weight: 500;
+    list-style: none;
+}
+.section-padding {
+    padding: 25px 0;
+}
+.owl-carousel .ourblog-item img {
+	height: auto;
+}
+.solution-image{
+	width: 100%;
+}
+.features li .count {
+	margin-top:10px}
+.success2a {
+		margin-top: 0px;
+	}
+	.slider-content h2 {
+		width: 100%;
+		font-size: 28px;
+	}
+	.usecase-boxs{
+		height: 634px;
+	}
+	.usecase-boxs ul li {
+		font-weight: 600;
+		font-size: 17px;
+		line-height: 30px;
+		color: #333;
+		width: 100%;
+	}
+	.social-media {
+		margin: 0px;
+	}
+.slider-tagline strong {
+		font-size: 27px;
+	}
+	.sliderbtn-box.mb0 {
+		margin-bottom: 0;
+	}
+	.bpo_section .service-slider2 h1{
+		text-align: center;
+		margin-top: 50px;
+	}
+}
+@media screen and (max-width:767px) {
+	.box-industry1 {
+		margin-top: 10px;
+	}
+	.iotservice-heading h5 {
+		font-weight: 700;
+		font-size: 24px;
+		margin-bottom: 10px;
+		line-height: 30px;
+		color: #333;
+		-webkit-transition: 0.5s;
+		transition: 0.5s;
+		margin-top: 22px;
+	}
+	.usecase-boxs{
+		height: auto;
+	}
+	.menubar li a{
+		font-size: 12px;
+		width: 45%;
+		float: left;
+		clear: both;
+	}
+.menubar
+{
+	float: left;
+	overflow: hidden;
+	padding: 0;
+}
+.blockchain-development-service .iotservice-descreption ul li {
+    color: #5a5959;
+    list-style: none;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 35px;
+    font-weight: 400;
+}
+.why-choose-box ul li {
+    font-size: 14px;
+    line-height: 31px;
+    color: #1d1818;
+    font-weight: 500;
+    list-style: none;
+}
+.consult-text { width: 85%; }
+.client-logo, .tagline .tagline-text h1 { margin-bottom: 10px; }
+.service { padding: 20px 0 0; }
+.client-served
+{
+	border-bottom: 2px solid #dddddd;
+	height: auto;
+	padding: 15px 0 28px;
+	width: 45%;
+	border-right: 0;
+	margin: auto;
+}
+.technology li p { width: 93%; }
+.technology img
+{
+	display: block;
+	clear: both;
+	float: left;
+	height: auto;
+	width: 28px;
+}
+.social-icon img { width: 30px; }
+.copyright { bottom: -26px; }
+.inner-address { width: 80%; }
+
+.simplefilter { width: 99%; }
+.workbut p
+{
+	width: 96%;
+	margin: 25px auto auto;
+	font-size: 22px;
+}
+/** Address start **/
+.consult-text,.served-client { padding-top: 12px; }
+.consult-text h3
+{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 0;
+}
+.consult-text p
+{
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 25px;
+}
+.btn-blue
+{
+	font-size: 14px;
+	padding: 0 15px;
+	line-height: 40px;
+	height: 42px;
+}
+.call-detail { padding-left: 0; }
+.call-detail, .email-detail
+{
+	font-size: 16px;
+	padding-top: 10px;
+}
+.contact-detail .call,section.digitalize.wave.animated.fadeIn.getin-touch-form { padding-top: 33px; }
+/** Address end **/
+.slider-content { padding: 22% 0; }
+.slider-content h1 { font-size: 33px; }
+.slider-content p
+{
+	font-size: 19px;
+	margin-bottom: 20px;
+}
+.testimonial .description
+{
+	font-size: 20px;
+	line-height: 30px;
+}
+.slider { min-height: 380px; }
+.shared-box-content h3, .testimonial span, .customer-impact2 .para2 h4, .tagline .tagline-text h1, .customer-content h4,.usecase-boxs h3{ font-size: 18px; }
+.getquotebox h3 { font-size: 23px; }
+.mobility p, .simplefilter li, .customer-impact .para p, .para2 p,.viewmore span, .get-touch-btn span ,.digitalize-heading p,.success-stories p,.service-boxs ul li,
+.application-content p,.privacycontent li { font-size: 12px; }
+.workbut a { top: 284px; }
+.portfolio-content { padding: 30px 30px; }
+.content .apply-btn { position: relative; }
+.career-box1 ,.event-content p,.timentask-approach,.mobility.meto-approach,.mobility.staffing-bot-approach,.erandoo-approach { min-height: auto; }
+.content .aply { padding: 0px 53px; }
+#map { height: 280px; }
+.margintop
+{
+	margin-top: 35px;
+	padding: 35px 0;
+}
+.portfolio-content
+{
+	height: auto;
+	padding: 30px;
+}
+.work-content img, .portfolio-content p, .servicetab li a, .scheduler img, .engerdybox img, .gray-box2.bestway img, .arya-about-content ul li img, .arya-our-services p { width: 100%; }
+footer { padding: 20px 0 90px !important; }
+.customer-impact2 { padding: 60px 0; }
+.customer-impact2 .para2 h4 { margin-top: 50px; }
+.tagline .tagline-text ul li
+{
+	display: block;
+	border-bottom: 1px solid #fff;
+}
+.tagline .tagline-text ul li:last-child, .workbox { border-bottom: none; }
+.tagline-text li:after, li.locaphoneicon, .iosbutton, .appdevelopment-arrow, .application-slider-arrow { display: none; }
+.dark-background .background-content
+{
+	text-align: center;
+}
+.background-image
+{
+	margin-top: 20px;
+}
+.customer-impact
+{
+	padding: 127px 0 50px;
+	height: 485px;
+}
+.tech-stack { padding-bottom: 0; }
+nav.navbar.navbar-fixed-top { padding: 0 10px; }
+.responsivemenu { float: right; }
+.iosbutton2
+{
+	display: block;
+	text-align: right;
+}
+.iosbutton2 img { width: 76%; }
+.rightnavbar
+{
+	float: left;
+	background: #fff;
+	width: 100%;
+	padding: 0 0px;
+}
+.dark-background .background-content h1
+{
+	font-size: 24px;
+	line-height: 39px;
+	letter-spacing: 4px;
+}
+.customer-impact::before { height: 200px; }
+.tech-stack-list ,.tech-stack-list,.menubar ul{ padding-left: 7px; }
+.mobileback img { width: 340px !important; }
+.social-icon
+{
+	display: inline-block;
+	float: left;
+}
+.iconweb { margin-right: 0 !important; }
+.address-detail span
+{
+	height: 38px;
+	padding-right: 0px;
+}
+.industrieslist li span img
+{
+	padding-right: 10px;
+	width: auto;
+}
+.industrieslist ul { padding: 10px 10px; }
+.scheduler
+{
+	background: none !important;
+	text-align: center;
+}
+.gray-box2.scheduler.producti, .feat-item.active .arya-service-boxs, .feat-item.active .service-boxs, .service-slider1 .service-slider-content, .application-content-slider, .service-slider2 .background-content, .customer-impact2 .para2 h4, .copyright { margin-top: 0; }
+.industrieslist ul li { width: 33%; }
+.induimages { height: 188px; }
+.navbar-nav { margin: 7.5px 0px; }
+.termscont p i
+{
+	padding-right: 6px;
+	line-height: 36px;
+	height: 75px;
+}
+.outerbox2
+{
+	display: block;
+	position: absolute;
+	top: 23px;
+	right: 65px;
+	float: right;
+}
+.responmodal
+{
+	width: 226px;
+	top: 37px;
+	right: -18px;
+	display: none;
+}
+.responmodal ul li a { color: #333; }
+.overLayFile { padding: 2px 5px; }
+.engagementModell h4,.dark-background .background-content ul li span,.dark-background .background-content ul li p
+{
+	font-size: 15px;
+	font-weight: 400;
+}
+.inner-address a { padding: 7px 0 0 15px; }
+.videopart video
+{
+	border: 1px solid #ccc;
+	height: auto;
+}
+.leftslider-content
+{
+	padding: 3% 26px;
+	clear: both;
+	display: block;
+	height: auto;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev,.slider-tagline strong { font-size: 27px; }
+.activities1, .service-boxs, .blockchain-logo, .mobile-app-development img.img-responsive, .scheduler { margin-bottom: 25px; }
+.activpadding { padding: 0 15px; }
+.address-detail.mail12box { top: 0; }
+strong.contactnumb
+{
+	width: 50px;
+	float: left;
+}
+.goodfirmsimg img
+{
+	width: 85% !important;
+	margin-bottom: 0 !important;
+}
+.footerlogo li
+{
+	display: block !important;
+	float: left;
+	text-align: center;
+	width: 19%;
+	margin-right: 35px;
+	margin: auto;
+}
+.footerimg2 img.nexmologo
+{
+	width: 100% !important;
+	padding-top: 25px;
+}
+.backimage
+{
+	width: 100%;
+	height: auto;
+}
+.event-box1
+{
+	margin-top: 0;
+	width: 60%;
+	height: auto;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+}
+img.tiecon2018-logo, img.mwc2018-icon, img.tiecon-logo, img.ctia-logo { width: auto; }
+.event-header h3
+{
+	font-size: 18px;
+	line-height: 26px;
+}
+.digitalize-heading { padding-bottom: 20px; }
+.teiconmin-box
+{
+	float: none;
+	margin-bottom: 20px;
+}
+.eventright-sidebar iframe
+{
+	height: 187px;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	display: block;
+}
+.file-upload,.arya-our-services h2 { margin-bottom: 20px; }
+.phonenumber { width: 85% !important; }
+.arya-service-boxs h5 { line-height: 26px; }
+.arya-service-boxs, .feat-item.active .arya-service-boxs
+{
+	height: auto;
+	padding: 20px 30px;
+	margin-bottom: 30px;
+}
+.column-border:nth-child(2), .column-border:nth-child(3), .bottom-border { border: 0; }
+.column-border, .feat-item { padding: 0 15px; }
+.rating-sec, .without-rating
+{
+	height: auto;
+	border-bottom: 1px solid #f1f1f1;
+}
+.leverage-heading
+{
+	font-size: 25px;
+	line-height: 40px;
+}
+.testimonial .description,.ourteam-item .info span,.service-box-content p, .service-boxs p { font-size: 15px; }
+.feat-item.active .service-boxs, .approach-watchout .mobility, .blockchain-shared-box, .service-box-content.web-development-content p, .arya-service-boxs.development-project, .testimonial .description, .service-page-slider, .service-slider2, .service-slider1, .service-boxs,.service-boxs, .application-secondrow .service-boxs { height: auto; }
+.column-right-border { border-right: 0; }
+.service-small-height, .active .service-small-height
+{
+	height: auto !important;
+	padding: 15px 30px;
+}
+.service-boxs span { margin: auto; }
+.our-services-row { margin: 30px 0 0; }
+.languages-framework { margin-top: 30px; }
+.blockchain-service-boxs, .small-height, .long-height,.event-header ,.approach-watchout .mobility, .event-box1.without-view{ height: auto !important; }
+.arya-our-services h2, .arya-about-content h2, .languages-framework h3, .blockchain-framework h3, .languages-framework p, .arya-our-services h1, .top-slider ol.carousel-indicators, .service-slider-content h2, .customer-impact .customer-content, .para2,.blockchain-detail p { text-align: center; }
+.arya-about-content ul li
+{
+	width: 30.33%;
+
+}
+.service-box-content,.challenge-video { padding-top: 0; }
+.application-content
+{
+	padding-right: 0;
+	text-align: center;
+	padding-top: 30px;
+}
+.arya-our-services p {
+    width: 100%;
+    margin-bottom: 20px;
+	margin-top: 0;
+	padding: 0px 2px;
+}
+.customer-impact
+{
+	padding: 127px 0 50px;
+	height: auto;
+}
+.appdevelopment-slider .item,.challenge, .approach, .tech-stack, .tagline { padding: 0; }
+.features-solution { padding: 30px 0; }
+.service-box-content.web-development-content{ margin-top: 20px; }
+.service-content h2,.service-content h2 span
+{
+	font-size: 22px;
+	line-height:30px;
+}
+.challenge-content h3, .solution-content h4,.ourteam-item h6 { font-size: 20px; }
+.challenge-content p, .tech-stack-list ul li, .service-content p,.usecase-boxs p,.usecase-boxs ul li
+{
+	font-size: 16px;
+	line-height: 30px;
+}
+.challenge .challenge-heading h3, .tech-stack h3, .customer-impact h3,.common-heading h3 { font-size: 27px; }
+.solution-content
+{
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.dark-background { min-height: 575px; }
+.success-heading { left: 0; }
+.viewtool-btn span,.get-started-btn span,.award-accolades p,.blockchain-framework p,.mobility a{
+    font-size: 16px !important;
+}
+.wave-top{ height:80px;}
+.blockchain-shared .arya-our-services p ,.blockchain-usecases .arya-our-services.text-center p,.shared-box-content ul li {
+    line-height: 30px;
+    font-size: 16px;
+}
+.rating-sec {
+    padding: 20px 15px 10px;
+}
+.without-rating {
+    padding: 35px 20px 15px;
+}
+.tech-bottom-margin {
+    margin-bottom: 70px;
+}
+.ourblog-item {
+	height: auto;
+}
+.service-text {
+    width: 100%;
+	padding-top: 31px;
+	text-align: center;
+}
+.services-bg {
+    padding: 35px 0px;
+    text-align: left;
+}
+.expertise-slider{height: auto;}
+.mt-40{ margin-top: 0px;}
+.services-bg1 {text-align: center;}
+.box-industry{
+	margin: 20px 50px;
+	padding: 34px 10px;
+}
+.single-iot-services {
+    height: auto;
+}
+.iot-services-area .shape1, .iot-services-area .shape2, .iot-services-area .shape4, .iot-services-area .shape5, .iot-services-area .shape6, .iot-services-area .shape7, .iot-services-area .shape8 {
+    display: none;
+}
+.mt-40{margin-top: 20px;}
+.features-solution ul li {
+    color: #1d1818;
+    font-weight: 500;
+    list-style: none;
+}
+.solution-image{
+	width: 100%;
+}
+.solution-content1{
+	text-align: center;
+}
+.testimonial {
+	height: 427px;
+}
+.testimonial .title{
+	font-size: 17px;
+}
+div#navbar {
+    width: 100%;
+}
+.features li .count {
+	margin-top:10px}
+.owl-carousel .ourblog-item img {
+	height: auto;
+}
+.success2a {
+	margin-top: 0px;
+}
+.slider-content h2 {
+    color: #fff;
+    line-height: 52px;
+    font-size: 28px;
+    width: 100%;
+}
+.career-slider-contant {
+    padding: 20px 0px;
+    margin-top: 0px;
+}
+    .social-media {
+    margin: 0px;
+}
+.optimization-details {
+    text-align: left !important;
+}
+.seo-services {
+    min-height: auto;
+}
+.optimization-marketing {
+    width: 50%;
+    margin: 0px;
+    padding: 20px;
+}
+.thanks-content h1 {
+    font-size: 23px;
+}
+.thanks-content h2 {
+    font-size: 18px;
+}
+.thanks-content h3 {
+    font-size: 25px;
+    margin: 23px 0;
+}
+.container.screenshort-container {
+		width: 75%;
+		margin: auto;
+	}
+	.getaquotation {
+		height: 580px;
+	}
+	.inner-service-paragraph h2 {
+		line-height: 35px;
+	}
+	.contact-heading h2 {
+    font-size: 25px;
+}
+.inner-address p {
+    color: #333;
+    font-size: 14px;
+}
+.inner-address.email-address {
+    display: inline-flex;
+}
+.inner-address.email-address a {
+    display: block;
+    padding-left: 10px;
+}
+.extraspace {
+		margin-top: 20px;
+	}
+	section.sliderbutton-section {
+		margin-bottom: 0;
+		bottom: inherit;
+		position: inherit;
+		margin-top: 30px;
+	}
+	.sliderbtn-box {
+		width: 60%;
+		margin: auto auto 30px auto;
+	}
+	.sliderbtn-heading h2 {
+		color: #333;
+	}
+	.sliderbtn-heading h3 {
+		font-size: 16px;
+		line-height: 25px;
+	}
+
+}
+@media screen and (max-width:670px) {
+.wave-bottom { height: 54px; }
+.portfolio-content
+{
+	padding: 20px 10px;
+	margin-bottom: 50px;
+}
+.tech-img
+{
+	width: 60%;
+	height: auto;
+}
+.maihhead
+{
+	width: 42%;
+	top: 2px;
+}
+.slider-content { padding: 25% 0; }
+.videopart video
+{
+	border: 1px solid #ccc;
+	width: 100%;
+}
+.backimage
+{
+	width: 100%;
+	height: 220px;
+}
+.getquotebox a { width: 41%; }
+.usecase-boxs h3
+{
+	font-size: 17px;
+	line-height:28px;
+}
+.usecase-boxs p, .usecase-boxs ul li
+{
+	font-size: 16px;
+}
+.services-bg {
+    padding: 20px 0px;
+    text-align: left;
+}
+.service-image {
+    text-align: center;
+    margin-top: 36px;
+}
+.expertise-slider{
+	height: 460px;
+}
+.mt-40{ margin-top: 20px;}
+.services-bg1 {text-align: center;}
+.box-industry{
+	margin: 20px 50px;
+	padding: 34px 10px;
+}
+.single-iot-services {
+    height: auto;
+}
+.solution-content1{
+	text-align: center;
+}
+.owl-carousel .ourblog-item img {
+	height: auto;
+}
+.success2a {
+	margin-top: 0px;
+}
+.career-slider-contant {
+	padding: 10px 0px;
+	margin-top: 0px;
+}
+.slider-content h2 {
+    color: #fff;
+    line-height: 52px;
+    font-size: 24px;
+    width: 100%;
+}
+.getquotation {
+    top: -100px;
+    }
+.tabbing-center img {
+		width: 95%;
+	}
+	.sliderbtn-box {
+		width: 50%;
+		margin: auto auto 30px auto;
+	}
+}
+
+@media screen and (max-width:640px) {
+.slider-content { padding: 22% 0; }
+.slider-content h1
+{
+	font-size: 32px;
+	line-height: 44px;
+}
+.slider-content p { font-size: 18px; }
+.slider-content a
+{
+	font-size: 16px;
+	width: 140px;
+	height: 42px;
+	line-height: 40px;
+}
+.service { padding: 20px 0 0; }
+.service-content { padding-bottom: 10px; }
+.testimonial .description { line-height: 24px; }
+.owl-theme .owl-controls { margin-top: 10px !important; }
+.testimonial-slider { padding: 20px 0 35px; }
+.wave-bottom { height: 48px; }
+footer
+{
+	background: #f7f7f7;
+	padding: 20px 0 35px;
+}
+.testimonial span { font-size: 16px; }
+.top-quote
+{
+	text-align: center;
+	padding: 15px 0;
+}
+.consult-text { width: 86%; }
+.industrieslist ul li { width: 45%; }
+.induimages { height: 307px; }
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev
+{
+	display: none;
+}
+.ourblog-item {
+	height: 420px;
+}
+.services-bg {
+    padding: 20px 0px;
+    text-align: center;
+}
+.solution-image{
+	width: 100%;
+}
+.service-image {
+    text-align: center;
+    margin-top: 36px;
+}
+.expertise-slider{
+	height: auto;
+}
+.mt-40{ margin-top: 20px;}
+.services-bg1 {text-align: center;}
+.box-industry{
+	margin: 20px 50px;
+	padding: 34px 10px;
+}
+.single-iot-services {
+    height: auto;
+}
+.solution-content1{
+	text-align: center;
+}
+.owl-carousel .ourblog-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.success2a {
+	margin-top: 0px;
+}
+.career-slider-contant {
+	padding: 10px 0px;
+	margin-top: 0px;
+}
+.slick-slide img {
+		display: block;
+		box-shadow: 0 0 5px #9c9a9a;
+		border: 2px solid #dbf0f9;
+		margin: auto;
+	}
+	.container.screenshort-container {
+		width: 100%;
+	}
+	.appscreen-boxs {
+		box-shadow: none;
+		border: 0;
+	}
+.tabbing-contentbox ul {
+		text-align: left;
+	}
+.tabbing-contentbox ul li {
+		margin-bottom: 10px;
+	}
+}
+
+@media screen and (max-width:570px) {
+	.inner-address p {
+		font-size: 14px;
+	}
+.simplefilter li
+{
+	font-size: 14px;
+	padding: 0 8px 6px;
+}
+.portfolio-content h3 { font-size: 22px; }
+.iconright1a, .iconleft1a { margin-top: 10px; }
+.ftboxcont
+{
+	padding: 0px 15px 20px;
+	text-align: center;
+	margin: auto;
+}
+.successbox1
+{
+	width: 100%;
+	height: 350px;
+}
+/** Address start **/
+
+.call-detail { padding-left: 0; }
+.contact-detail .email { padding: 6px 6px; }
+.displaynone-column { display: none; }
+.fullwidth-column
+{
+	width: 100%;
+	margin-right: 0;
+}
+.call-detail, .email-detail
+{
+	font-size: 15px;
+	padding-top: 0;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.email-detail
+{
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+}
+.contact-detail .call
+{
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 15px;
+}
+/** Address end **/
+.wave-bottom { height: 46px; }
+.client-served h3
+{
+	font-size: 20px;
+	line-height: 30px;
+}
+.maihhead
+{
+	width: 52%;
+	top: 2px;
+}
+.responmodal { right: -47px; }
+.leftslider-content a { margin: 2px 0 26px 0; }
+.carousel-indicators { bottom: -3px; }
+.footerimg2 img.nexmologo { padding-top: 20px; }
+.footerlogo li { width: 22%; }
+.event-box1 { width: 90%; }
+.backimage { height: 210px; }
+.event-header h3
+{
+	font-size: 17px;
+	line-height: 26px;
+}
+.phonenumber { width: 84% !important; }
+.getquotebox a { width: 50%; }
+.industries { padding: 60px 0 0px; }
+.industrieslist li span { width: 183px; }
+.arya-why-choose-content p { width: 100%; }
+.arya-why-choose-content ul { padding: 0 0 0 20px; }
+.arya-why-choose-content ul li
+{
+	display: block;
+	padding-right: 0px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+.arya-about-content ul li
+{
+	width: 46.33%;
+	line-height: inherit;
+}
+.shared-icon span
+{
+	height: 55px;
+	width: 55px;
+}
+.shared-icon i { line-height: 52px; }
+.blockchain-framework-logo .col-xs-4 ,.industrieslist ul li { width: 49%; }
+.arya-our-services h2, .arya-about-content h2, .award-accolades h3, .languages-framework h3, .blockchain-framework h3, .arya-our-services h2 span,
+ .arya-about-content span, .languages-framework h3 b, .arya-our-services h2 span, .arya-about-content span, .languages-framework h3 b, .blockchain-framework h3 b,
+  .arya-our-services h1, .arya-our-services h1 span,.digitalize-heading h3, .success-stories h3,.form-page h3 { font-size: 25px;
+	line-height: 30px;
+ }
+.award-accolades p, .portfolio-content p { font-size: 15px; }
+.solution-content h4
+{
+	font-size: 19px;
+	line-height: 29px;
+}
+.success-heading.rightsucched
+{
+	right: 0;
+	left: auto;
+	text-align: center;
+}
+.services-bg {
+    padding: 20px 0px;
+    text-align: center;
+}
+.service-image {
+    text-align: center;
+    margin-top: 36px;
+}
+.industry-boxes {
+    padding: 0px;
+}
+.box-industry {
+    background: #fff;
+    text-align: center;
+    padding: 12px;
+    box-shadow: 0 0 9px rgba(206, 204, 204, 0.5);
+    border-radius: 8px;
+	margin: 10px;
+}
+.expertise-slider{
+	height: auto;
+}
+.digitalize-heading {padding-bottom: 0px;}
+.services-bg1{
+text-align: center;
+}
+.box-industry {
+	margin: 17px 50px;
+}
+.single-iot-services {
+    height: auto;
+}
+.project-feature-item-txt {
+    padding: 0px 12px;
+}
+.solution-content1{
+	text-align: center;
+}
+.owl-carousel .ourblog-item img {
+	height: auto;
+}
+.box-light img, .box-dark img, .box-light-dark img, .box-harddark img {
+	width: 100px;
+	padding: 10px;
+	height: 95px;
+}
+.tech-stack .box-light, .box-light-dark, .box-harddark, .box-dark {
+	height: 98px;
+	width: 106px;
+	border-radius: 8px;
+}
+.success2a {
+	margin-top: 0px;
+}
+.success-stories {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.section-padding {
+    padding: 20px 0;
+}
+.slider-content p {
+    font-size: 12px;
+}
+.ai-powered-section {
+    margin: 0;
+}
+.career-slider-contant {
+	padding: 10px 0px;
+	margin-top: 0px;
+}
+.slider-content h2 {
+    color: #fff;
+    line-height: 52px;
+    font-size: 28px;
+    width: 100%;
+}
+.testimonial {
+    height: 455px;
+}
+.thanks-content ul li {
+    width: 100%;
+}
+}
+
+@media screen and (max-width:480px) {
+.alltabbing a {
+		font-size: 13px;
+		padding: 14px 4px;
+	}
+	.tabheader-left h2 {
+		font-size: 22px;
+	}
+	.tabheader-left h4 {
+		font-size: 16px;
+	}
+	.tabbing-center img {
+		width: 100%;
+	}
+	.tabheader-right img {
+		width: 104px !important;
+	}
+	.tabheader-right img.web-icon {
+		width: 39.5px !important;
+	}
+	.alltabbing a {
+		font-size: 12px;
+	}
+	.sliderbtn-box {
+		width: 80%;
+	}
+	.sliderbtn-heading h2 {
+		font-size: 24px;
+		
+	}
+.outerbox2:hover .responmodal{
+    right: -47px;
+    display: block;
+}
+#modalresponsive:hover{
+    right: -47px;
+    display: block;
+}
+.topmargin {
+    margin-top: 40px !important;
+}
+}
+
+
+@media screen and (max-width:430px) {
+	.slider-content h2 {
+		color: #fff;
+		line-height: 27px;
+		font-size: 14px;
+		width: 100%;
+	}
+	.box-industry1 {
+		margin-top:0px;
+	}
+.slider-content h1
+{
+	font-size: 24px;
+	line-height: 30px;
+}
+.slider-content p {
+	 font-size: 12px; 
+	}
+.technology li p { 
+	width: 91%; 
+}
+.copyright
+{
+	bottom: -5px;
+	margin-top: 20px;
+}
+.consult-text h3
+{
+	font-size: 21px;
+	margin: 0;
+}
+.workbut p
+{
+	width: 96%;
+	margin: 9px auto auto;
+	font-size: 12px;
+}
+.wave-bottom { 
+	height: 34px; 
+}
+.workbut a { 
+	top: 144px;
+ }
+.successbox1 { 
+	height: 275px;
+ }
+.slider { 
+	min-height: 320px;
+ }
+.slider-content { 
+	padding: 27% 0; 
+}
+.sbmt {
+	 width: 35%; 
+	}
+.challenge .challenge-heading p, .btn-blue {
+	 width: 100%; 
+	}
+.wave-bottom { 
+	height: 30px; 
+}
+.tech-stack .box-light, .box-light-dark, .box-harddark, .box-dark
+{
+	height: 110px;
+	width: 130px;
+	border-radius: 8px;
+}
+nav.navbar.navbar-fixed-top { 
+	padding: 0px;
+ }
+.tech-img,.arya-about-content ul li
+{
+	width: 100% !important;
+	height: auto;
+}
+.scheduler
+{
+	background: none !important;
+	text-align: center;
+}
+.industrieslist ul li, .getquotebox a,.arya-about-content ul li img,.arya-about .arya-about-content ul li img { 
+	width: 68%; 
+}
+.induimages { 
+	height: 537px; 
+}
+.maihhead
+{
+	width: 65%;
+	top: 2px;
+}
+.dark-background .background-content ul li
+{
+	margin-right: 35px;
+	text-align: center;
+}
+.responmodal {
+	 right: -125px;
+	 }
+.videopart video
+{
+	width: 100%;
+	height: 302px;
+}
+.footerlogo li {
+	 width: 30%; 
+	}
+.getquotebox h3
+{
+	font-size: 18px;
+	line-height: 31px;
+}
+.industrieslist li span {
+	 width: auto;
+	 }
+.client-served {
+	 width: 80%;
+	 }
+.arya-about-content ul li {
+	 width: 45.33%; 
+	}
+.service-slider-content h2
+{
+	font-size: 23px;
+	line-height: 36px;
+}
+.shared-icon-column { 
+	width: 25%;
+ }
+.shared-cont-column {
+	 width: 75%; 
+	}
+.mobileclear .arya-about-content ul li
+{
+	height: auto;
+	padding: 10px;
+}
+.dark-background {
+	 min-height: 550px; 
+	}
+.services-bg {
+    text-align: center;
+}
+.service-image {
+    text-align: center;
+}
+.expertise-slider {
+	height: auto;
+}
+.service-text{
+	margin-top: 0px;
+}
+.services-bg1{
+	text-align: center;
+	margin-bottom: 0px;
+}
+.box-industry {
+    background: #fff;
+    text-align: center;
+    padding: 12px;
+    box-shadow: 0 0 9px rgba(206, 204, 204, 0.5);
+    border-radius: 8px;
+    margin: 20px 50px;
+}
+.single-iot-services {
+    height: auto;
+}
+.ml{
+	margin-left: 0px;
+}
+.project-feature-item:hover .project-feature-item-txt:before,.item-logo{
+	 display:none;
+	} 
+.project-feature-item-txt p {
+    font-size: 12px !important;
+    line-height: 16px !important;
+}
+.project-feature-item-txt h5 {
+    font-size: 15px !important;
+    margin-bottom: 0;
+}
+.project-feature-item-txt .service-box-content a {
+    font-size: 14px;
+    margin: 0;
+}
+.features-solution ul li {
+    font-size: 13px;
+    line-height: 30px;
+}
+.solution-image{
+	width: 100%;
+}.solution-image{
+	width: 100%;
+}
+.solution-content1{
+	text-align: center;
+}
+.owl-carousel .ourblog-item img {
+	height: auto;
+}
+.success2a {
+	margin-top: 0px;
+}
+.iotservice-heading h5 {
+    font-weight: 700;
+    font-size: 22px;
+    margin-bottom: 10px;
+    line-height: 37px;
+    color: #333;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    margin-top: 22px;
+}
+.career-slider-contant {
+	padding: 10px 0px;
+	margin-top: 0px;
+}
+.topmargin {
+	margin-top: 0px;
+}
+.contact-form {
+    padding: 20px 7px;
+}
+.getquotation {
+    width: 100%;
+}
+.long-button {
+    width: 200px;
+
+}
+}
+@media screen and (max-width:360px) {
+	
+	.slider-content h2 {
+		color: #fff;
+		line-height: 27px;
+		font-size: 14px;
+		width: 100%;
+	}
+.technology li p {
+	 width: 90%;
+	 }
+.simplefilter { 
+	width: auto;
+ }
+.simplefilter li
+{
+	font-size: 11px;
+	padding: 0px 6px 6px;
+}
+.wave-bottom {
+	 height: 26px; 
+	}
+.workbut a { 
+	top: 120px; 
+}
+.successbox1 { 
+	height: 235px; 
+}
+.top-quote span i:before
+{
+	width: 100px;
+	right: -120px;
+}
+.top-quote span i:after
+{
+	width: 100px;
+	left: -122px;
+}
+.iosbutton2 {
+	 display: none; 
+	}
+.responsivemenu
+{
+	float: right;
+	width: 81%;
+}
+.tech-img, .event-box1 { 
+	width: 100%; 
+}
+.inner-address {
+	 width: 75%;
+	 }
+.address-detail img
+{
+	width: 30px !important;
+	height: 30px !important;
+}
+.industrieslist li span img
+{
+	padding-right: 7px;
+	width: 29px;
+}
+.maihhead
+{
+	width: 84%;
+	top: 2px;
+}
+.producti img
+{
+	width: 100%;
+	margin-top: 36px;
+}
+.dark-background .background-content ul li
+{
+	margin-right: 23px;
+	text-align: center;
+}
+section.challenge.animated.fadeIn {
+	 padding-top: 60px;
+	 }
+.outerbox2 {
+	 right: 70px;
+	 }
+.responmodal { 
+	right: -45px;
+ }
+.inner-address a {
+	 padding: 12px 0 0 0px;
+	 }
+.address-detail span
+{
+	height: 38px;
+	padding-right: 15px;
+}
+.footerlogo li {
+	 width: 35%; 
+	}
+.event-header h3 { 
+	font-size: 15px;
+ }
+.phonenumber { 
+	width: 80% !important;
+ }
+.phonecodeinput { 
+	width: 18% !important; 
+}
+.getquotebox a { 
+	width: 85%; 
+}
+.awardboxcont ul li { 
+	margin-right: 0px; 
+}
+.ourvaluescont h3, .awardboxcont h3, .portfolio-content i { 
+	font-size: 20px; 
+}
+.btn-blue span, .viewmore span, .get-touch-btn span, .shared-box-content h3 {
+	 font-size: 16px;
+	 }
+.get-touch-btn
+{
+	padding: 12px 12px;
+	width: 100%;
+	margin: auto;
+}
+.arya-about-content ul li
+{
+	width: 100%;
+	height: inherit;
+	line-height: inherit;
+	padding: 10px 0;
+}
+.arya-about-content ul li img
+{
+	width: 70%;
+	margin: auto;
+	display: block;
+}
+.framework-logo
+{
+	padding: 0px 15px;
+	margin: 0;
+}
+.shared-box-content li:after {
+	 top: 11px; 
+	}
+.service-box-content p, .service-boxs p
+{
+	font-size: 14px;
+	line-height: 24px;
+}
+.ourblog-item {
+	height: 400px;
+}
+.services-bg {
+    padding: 20px 0px;
+    text-align: center;
+}
+.service-image {
+    text-align: center;
+    margin-top: 36px;
+}
+.industry-boxes {
+    padding: 0px;
+}
+.box-industry {
+    background: #fff;
+    text-align: center;
+    padding: 12px;
+    box-shadow: 0 0 9px rgba(206, 204, 204, 0.5);
+    border-radius: 8px;
+	margin: 20px 50px;
+}
+.artifical-challange {
+    padding: 7px 0;
+}
+.solution-content1 {
+    text-align: center;
+}
+.mt-40{
+margin-top: 20px;
+}
+.expertise-slider {
+	width: 100%;
+	 height: auto;
+}
+.slider-content h1 {
+    font-size: 21px;
+}
+.Services-box {
+	padding: 10px 0px;
+}
+.service-text {
+		padding-top: 0px;
+	}
+	.services-bg1 {
+		text-align: center;
+	}
+	.single-iot-services{
+		height: auto;
+	}
+	.iot-services-area, .why-choose-us {
+		padding: 20px 0px;
+	}
+	.w-50 {
+		width: 75%; 
+	}	
+    .why-choose-us h3{
+		font-size: 17px;
+	}
+	.solution-image{
+		width: 100%;
+	}
+	.solution-image1 {
+		width: 100%;
+		margin-top: 20px;
+	}
+	.solution-content1{
+		text-align: center;
+	}
+	.owl-carousel .ourblog-item img {
+		height: auto;
+	}
+	.features li .text h5 {
+		font-size: 18px;
+	}
+	.h2{
+		font-size: 20px;
+	}
+	.box-light img, .box-dark img, .box-light-dark img, .box-harddark img {
+		width: 100px;
+		padding: 10px;
+		height: 95px;
+	}
+	.tech-stack .box-light, .box-light-dark, .box-harddark, .box-dark {
+		height: 97px;
+		width: 102px;
+		border-radius: 8px;
+	}
+	.success2a {
+		margin-top: 0px;
+	}
+	.topmargin {
+		margin-top: 0px;
+	}
+	.slider-content h2 {
+		color: #fff;
+		line-height: 28px;
+		font-size: 12px;		
+		padding: 0;
+	}
+	.arya-our-services p {
+		width: 100%;
+		margin-bottom: 0px;
+		margin-top: 0;
+		font-size: 14px;
+		line-height: 25px;
+	}
+	.career-slider-contant {
+		padding: 10px 0px;
+		margin-top: 0px;
+	}
+	.alltabbing a {
+		font-size: 13px;
+		padding: 13px 4px;
+		width: 100%;
+		margin-bottom: 13px;
+	}
+	.tabheader-right img {
+		width: 100px;
+	}
+	.tabheader-right img {
+		width: 81px !important;
+	}
+	.tabheader-right img.web-icon {
+		width: 31.5px !important;
+	}
+	.sliderbtn-box {
+		width: 100%;
+	}
+	.sliderbtn-heading h3 {
+		padding-right: 10px;
+		font-size: 16px;
+	}
+	
+
+}
+.locaphoneicon-1 svg
+{
+	height: auto;
+	width: 20px;
+}

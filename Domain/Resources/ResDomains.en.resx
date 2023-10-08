@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lbFacebook" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="lbFirstName" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="lbLastName" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="lbMobile" xml:space="preserve">
+    <value>Mobile</value>
+  </data>
+  <data name="lbWebsite" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="MsgChangeFail" xml:space="preserve">
+    <value>The password was not changed</value>
+  </data>
+  <data name="MsgChangesuccess" xml:space="preserve">
+    <value>Password changed successfully</value>
+  </data>
+  <data name="MsgSavedError" xml:space="preserve">
+    <value>A problem occurred while saving</value>
+  </data>
+  <data name="MsgSavedFailed" xml:space="preserve">
+    <value>Not saved</value>
+  </data>
+  <data name="MsgSavedSuccessfully" xml:space="preserve">
+    <value>Saved successfully</value>
+  </data>
+  <data name="vMsgAddressReq" xml:space="preserve">
+    <value>Address must be entered</value>
+  </data>
+  <data name="vMsgAdsMethodReq" xml:space="preserve">
+    <value>You must choose the advertising medium</value>
+  </data>
+  <data name="vMsgAnswerReq" xml:space="preserve">
+    <value>The answer must be entered</value>
+  </data>
+  <data name="vMsgArNameReq" xml:space="preserve">
+    <value>The name must be entered Arabic</value>
+  </data>
+  <data name="vMsgArPaymentReq" xml:space="preserve">
+    <value>Please enter the payment name in Arabic</value>
+  </data>
+  <data name="vMsgArShortDesReq" xml:space="preserve">
+    <value>The short description must be entered in Arabic</value>
+  </data>
+  <data name="vMsgArticleReq" xml:space="preserve">
+    <value>An article must be selected</value>
+  </data>
+  <data name="vMsgArTitleReq" xml:space="preserve">
+    <value>The title must be entered in Arabic</value>
+  </data>
+  <data name="vMsgBodyReq" xml:space="preserve">
+    <value>Message content must be entered</value>
+  </data>
+  <data name="vMsgBookingPriceReq" xml:space="preserve">
+    <value>The reservation price must be entered</value>
+  </data>
+  <data name="vMsgCategoryReq" xml:space="preserve">
+    <value>Category must be specified</value>
+  </data>
+  <data name="vMsgChannelLinkReq" xml:space="preserve">
+    <value>The channel link must be entered</value>
+  </data>
+  <data name="vMsgCodeReq" xml:space="preserve">
+    <value>The course code must be entered</value>
+  </data>
+  <data name="vMsgCourseReq" xml:space="preserve">
+    <value>Please choose a course</value>
+  </data>
+  <data name="vMsgCourseTypeReq" xml:space="preserve">
+    <value>The course type must be selected</value>
+  </data>
+  <data name="vMsgDepartmentOrderint" xml:space="preserve">
+    <value>Department order must be a valid number</value>
+  </data>
+  <data name="vMsgDepartmentOrderReq" xml:space="preserve">
+    <value>Department Order must be entered</value>
+  </data>
+  <data name="vMsgDescriptionArReq" xml:space="preserve">
+    <value>The arabic description must be entered</value>
+  </data>
+  <data name="vMsgDescriptionEnReq" xml:space="preserve">
+    <value>The english description must be entered</value>
+  </data>
+  <data name="vMsgDescriptionReq" xml:space="preserve">
+    <value>The description must be entered</value>
+  </data>
+  <data name="vMsgDisountReq" xml:space="preserve">
+    <value>The discount value must be entered</value>
+  </data>
+  <data name="vMsgEmailExist" xml:space="preserve">
+    <value>Email is already registered</value>
+  </data>
+  <data name="vMsgEmailIncorrect" xml:space="preserve">
+    <value>Please enter a valid email</value>
+  </data>
+  <data name="vMsgEmailNotCorrect" xml:space="preserve">
+    <value>Email is invalid</value>
+  </data>
+  <data name="vMsgEmailReq" xml:space="preserve">
+    <value>Please enter email</value>
+  </data>
+  <data name="vMsgEnNameReq" xml:space="preserve">
+    <value>The name must be English</value>
+  </data>
+  <data name="vMsgEnPaymentReq" xml:space="preserve">
+    <value>Please enter the payment name in English</value>
+  </data>
+  <data name="vMsgEnShortDesReq" xml:space="preserve">
+    <value>The short description must be entered in English</value>
+  </data>
+  <data name="vMsgEnterCorrectAmount" xml:space="preserve">
+    <value>Enter a valid amount</value>
+  </data>
+  <data name="vMsgEnTitleReq" xml:space="preserve">
+    <value>English title must be entered</value>
+  </data>
+  <data name="vMsgFacebookReq" xml:space="preserve">
+    <value>Facebook must be entered</value>
+  </data>
+  <data name="vMsgFeatureTextArReq" xml:space="preserve">
+    <value>Arabic feature text is required</value>
+  </data>
+  <data name="vMsgFeatureTextEnReq" xml:space="preserve">
+    <value>English feature text is required</value>
+  </data>
+  <data name="vMsgfileReq" xml:space="preserve">
+    <value>Please choose a file</value>
+  </data>
+  <data name="vMsgFristNameReq" xml:space="preserve">
+    <value>The first name must be entered</value>
+  </data>
+  <data name="vMsgFullNameReq" xml:space="preserve">
+    <value>Name is required</value>
+  </data>
+  <data name="vMsgGooglePlusReq" xml:space="preserve">
+    <value>Google Plus must be entered</value>
+  </data>
+  <data name="vMsgIconReq" xml:space="preserve">
+    <value>An icon must be selected</value>
+  </data>
+  <data name="vMsgImageOrderReq" xml:space="preserve">
+    <value>Image order must be entered</value>
+  </data>
+  <data name="vMsgImagePathReq" xml:space="preserve">
+    <value>You must choose an image</value>
+  </data>
+  <data name="vMsgImageReq" xml:space="preserve">
+    <value>You must choose an image</value>
+  </data>
+  <data name="vMsgImagesReq" xml:space="preserve">
+    <value>Photos must be selected</value>
+  </data>
+  <data name="vMsgImageTextArReq" xml:space="preserve">
+    <value>The arabic image description must be entered</value>
+  </data>
+  <data name="vMsgImageTextEnReq" xml:space="preserve">
+    <value>The english image description must be entered</value>
+  </data>
+  <data name="vMsgIncorrectDate" xml:space="preserve">
+    <value>Incorrect date of birth</value>
+  </data>
+  <data name="vMsgInstagramReq" xml:space="preserve">
+    <value>You must enter Instagram</value>
+  </data>
+  <data name="vMsgInterestDegreeReq" xml:space="preserve">
+    <value>please choose the degree of interest</value>
+  </data>
+  <data name="vMsgInvalidImage" xml:space="preserve">
+    <value>Incorrect file type Allows you to choose only an image</value>
+  </data>
+  <data name="vMsgLastNameReq" xml:space="preserve">
+    <value>The last name must be entered</value>
+  </data>
+  <data name="vMsgLeadReq" xml:space="preserve">
+    <value>Please select a client</value>
+  </data>
+  <data name="vMsgLinkedinReq" xml:space="preserve">
+    <value>You must enter LinkedIn</value>
+  </data>
+  <data name="vMsgLinkReq" xml:space="preserve">
+    <value>Please enter the link</value>
+  </data>
+  <data name="vMsgLocationUrlReq" xml:space="preserve">
+    <value>Location URL is required</value>
+  </data>
+  <data name="vMsgLogoReq" xml:space="preserve">
+    <value>Logo must be chosen</value>
+  </data>
+  <data name="vMsgMainVideoReq" xml:space="preserve">
+    <value>The main page video must be entered</value>
+  </data>
+  <data name="vMsgMaxLength100" xml:space="preserve">
+    <value>The maximum number of characters is 100</value>
+  </data>
+  <data name="vMsgMaxLength150" xml:space="preserve">
+    <value>The maximum number of characters is 150</value>
+  </data>
+  <data name="vMsgMaxLength200" xml:space="preserve">
+    <value>The maximum number of characters is 200</value>
+  </data>
+  <data name="vMsgMaxLength250" xml:space="preserve">
+    <value>The maximum allowed for the link is 250 characters</value>
+  </data>
+  <data name="vMsgMaxLength300" xml:space="preserve">
+    <value>Maximum 300 characters</value>
+  </data>
+  <data name="vMsgMaxLength50" xml:space="preserve">
+    <value>The maximum number of characters is 50</value>
+  </data>
+  <data name="vMsgMaxLength500" xml:space="preserve">
+    <value>The maximum number of characters is 500 characters</value>
+  </data>
+  <data name="vMsgMaxLength600" xml:space="preserve">
+    <value>The maximum number of characters is 600 characters</value>
+  </data>
+  <data name="vMsgMediaTypeReq" xml:space="preserve">
+    <value>The file type must be selected</value>
+  </data>
+  <data name="vMsgMessageReq" xml:space="preserve">
+    <value>Please enter the message text</value>
+  </data>
+  <data name="vMsgMetaDescriptionReq" xml:space="preserve">
+    <value>Search engine description is required</value>
+  </data>
+  <data name="vMsgMetaTagsReq" xml:space="preserve">
+    <value>Keywords must be entered</value>
+  </data>
+  <data name="vMsgMobileReq" xml:space="preserve">
+    <value>You must enter the phone number</value>
+  </data>
+  <data name="vMsgModuleReq" xml:space="preserve">
+    <value>The module must be selected</value>
+  </data>
+  <data name="vMsgNameReq" xml:space="preserve">
+    <value>Name is required</value>
+  </data>
+  <data name="vMsgNoSpace" xml:space="preserve">
+    <value>Space is not allowed in the username</value>
+  </data>
+  <data name="vMsgOrderReq" xml:space="preserve">
+    <value>The order must be entered</value>
+  </data>
+  <data name="vMsgParagraphReq" xml:space="preserve">
+    <value>Please enter paragraph order</value>
+  </data>
+  <data name="vMsgPasswordRange" xml:space="preserve">
+    <value>Password must be no less than 6 and no more than 50 characters long</value>
+  </data>
+  <data name="vMsgPasswordReq" xml:space="preserve">
+    <value>Password is required</value>
+  </data>
+  <data name="vMsgPathOrLinkReq" xml:space="preserve">
+    <value>You must enter a path or link to the file</value>
+  </data>
+  <data name="vMsgPaymentLinkReq" xml:space="preserve">
+    <value>You must enter the payment link</value>
+  </data>
+  <data name="vMsgPermissionReq" xml:space="preserve">
+    <value>Please select the permissions</value>
+  </data>
+  <data name="vMsgPgeOrderint" xml:space="preserve">
+    <value>Page order must be a valid number</value>
+  </data>
+  <data name="vMsgPgeOrderReq" xml:space="preserve">
+    <value>Page order must be entered</value>
+  </data>
+  <data name="vMsgPhoneExists" xml:space="preserve">
+    <value>The phone number is already registered</value>
+  </data>
+  <data name="vMsgPhoneIncorrect" xml:space="preserve">
+    <value>Incorrect phone number</value>
+  </data>
+  <data name="vMsgPlayerReq" xml:space="preserve">
+    <value>The video player must be selected</value>
+  </data>
+  <data name="vMsgPriceReq" xml:space="preserve">
+    <value>The price must be entered</value>
+  </data>
+  <data name="vMsgQuestionReq" xml:space="preserve">
+    <value>Question must be entered</value>
+  </data>
+  <data name="vMsgRateReq" xml:space="preserve">
+    <value>Please select a rate</value>
+  </data>
+  <data name="vMsgShortDescriptionArReq" xml:space="preserve">
+    <value>The arabic short description is required</value>
+  </data>
+  <data name="vMsgShortDescriptionEnReq" xml:space="preserve">
+    <value>The english short description is required</value>
+  </data>
+  <data name="vMsgShortDescriptionReq" xml:space="preserve">
+    <value>The short description is required</value>
+  </data>
+  <data name="vMsgSiteNameArReq" xml:space="preserve">
+    <value>The arabic website name must be entered</value>
+  </data>
+  <data name="vMsgSiteNameEnReq" xml:space="preserve">
+    <value>The english website name must be entered</value>
+  </data>
+  <data name="vMsgSiteNameReq" xml:space="preserve">
+    <value>The website name must be entered</value>
+  </data>
+  <data name="vMsgSnapchatReq" xml:space="preserve">
+    <value>You must enter Snapchat</value>
+  </data>
+  <data name="vMsgSoundCloudReq" xml:space="preserve">
+    <value>Soundcloud must be entered</value>
+  </data>
+  <data name="vMsgTitleReq" xml:space="preserve">
+    <value>Address must be entered</value>
+  </data>
+  <data name="vMsgTrackingDateReq" xml:space="preserve">
+    <value>Please enter the connection date</value>
+  </data>
+  <data name="vMsgTwitterReq" xml:space="preserve">
+    <value>Twitter must be entered</value>
+  </data>
+  <data name="vMsgTypeReq" xml:space="preserve">
+    <value>Type must be selected</value>
+  </data>
+  <data name="vMsgUrlIncorrect" xml:space="preserve">
+    <value>Please enter a valid link</value>
+  </data>
+  <data name="vMsgUserGroupReq" xml:space="preserve">
+    <value>Please select a group</value>
+  </data>
+  <data name="vMsgUserNameExists" xml:space="preserve">
+    <value>Username already exists</value>
+  </data>
+  <data name="vMsgUserNameMustBe6" xml:space="preserve">
+    <value>Username must be at least 6 characters long</value>
+  </data>
+  <data name="vMsgUserNameMustContainsLettersAndNums" xml:space="preserve">
+    <value>The username must contain English letters and numbers and begin with a letter</value>
+  </data>
+  <data name="vMsgUserNameMustStartWithLetter" xml:space="preserve">
+    <value>Username must begin with a letter</value>
+  </data>
+  <data name="vMsgUserNameReq" xml:space="preserve">
+    <value>Username is required</value>
+  </data>
+  <data name="vMsgWhatsAppReq" xml:space="preserve">
+    <value>WhatsApp number must be entered</value>
+  </data>
+  <data name="vMsgYoutubeReq" xml:space="preserve">
+    <value>You must enter a YouTube link</value>
+  </data>
+</root>

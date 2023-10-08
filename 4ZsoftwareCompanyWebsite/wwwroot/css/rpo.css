@@ -1,0 +1,41 @@
+body{margin:0;padding:0;font-family:'Roboto',sans-serif}
+img{max-width:100%}
+ul{padding:0;margin:0}
+li{list-style:none}
+a{text-decoration:none;cursor:pointer;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;transition:all .3s ease}
+a:focus,a:active{outline:0;color:#666;text-decoration:none}
+a:hover{text-decoration:none}
+.center-align{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-flex-align:center;-ms-flex-aligan:center;-webkit-align-items:center;align-items:center}
+.banner{background-image:url(../images/rpo/background-min.png); width:100%; height:100%; background-size:cover;}
+.banner_rpotext{padding:60px;}
+.banner_rpotext h1{color:#03A5D8;font-weight:bold; font-size:50px;}
+.banner_rpotext P{margin-top:30PX; text-align:justify; font-size:14px; color:#2E2E2E;}
+.sub_heading h2{font-size:36px; color:#2E2E2E; font-weight:600;}
+.sub_heading span{color:#03A5D8;}
+.sub_heading P{margin-top:30PX; text-align:justify; font-size:14px; color:#2E2E2E; line-height:24px;}
+.box_rpo{background: linear-gradient(180deg, rgba(5,204,208,1) 0%, rgba(3,165,208,1) 100%); padding:30px; color:#FFFFFF; border-radius:30px; box-shadow: 0px 0px 31px -11px rgba(0,0,0,0.37); margin:40px 0; line-height:30px; }
+.box_rpo ul li{list-style:disc; color:#FFFFFF; margin-left:15px;}
+.step .sub_heading{text-align:center;}
+.step_image img{margin-top:70px;}
+.Process_img img{margin-top:70px;}
+.hiring_area{background:#FFFFFF; padding:50px; border:1px solid #03B3DA; border-radius: 80px 0px 80px 0px; margin-top:70px; box-shadow: 2px 1px 18px -7px rgb(3 165 216); transition: all .2s ease-in-out;}
+.hiring_area:hover{transform:rotate(20deg);  transition-delay: 0.2s; }
+.Team .box_rpo{background:#FFFFFF;}
+.Team .box_rpo ul li{color:#2E2E2E; list-style:none; margin-left:0px; line-height:50px;}
+.Team .box_rpo ul li i{font-size:10px; margin-right:10px; color:#03A5D8;}
+.Arya .box_rpo{background:#FFFFFF; color:#000000;}
+.Arya .box_rpo h4{margin-top:30px; font-size:20px;}
+.Arya .box_rpo p{color:#2E2E2E; list-style:none; margin-left:0px; line-height:30px;}
+
+
+@media (max-width: 467px)
+{
+.banner_rpotext h1{font-size:30px;}
+.banner_rpotext P {font-size:10px;}
+.sub_heading h2 {font-size:20px;}
+.sub_heading  p{font-size:10px; margin-top:15px;}
+.box_rpo h3{font-size:20px;}
+.box_rpo ul li{font-size:10px; line-height:20px}
+.Team .box_rpo ul li {font-size:10px; line-height:20px}
+.Team .box_rpo ul li i{font-size:8px; margin-right:10px;}
+}

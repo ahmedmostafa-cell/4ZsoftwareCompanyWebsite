@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lbLanguage" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="lbFrench" xml:space="preserve">
+    <value>Arabic</value>
+  </data>
+  <data name="lbGet In Touch" xml:space="preserve">
+    <value>Get In Touch</value>
+  </data>
+  <data name="lbcustom software development" xml:space="preserve">
+    <value>Custom Software Development</value>
+  </data>
+  <data name="lbDigital Marketing Solutions" xml:space="preserve">
+    <value>Digital Marketing Solutions</value>
+  </data>
+  <data name="lbMobile App Development" xml:space="preserve">
+    <value>Mobile App Development</value>
+  </data>
+  <data name="lbA leading" xml:space="preserve">
+    <value>A leading mobile app development company since 2009, we code in Native &amp; Hybrid mode with advanced tools and technology for variant consumer needs and enterprises.</value>
+  </data>
+  <data name="lbClient Testimonials" xml:space="preserve">
+    <value>Client Testimonials</value>
+  </data>
+  <data name="lbClientele" xml:space="preserve">
+    <value>Clientele</value>
+  </data>
+  <data name="lbCLIENTS SERVED" xml:space="preserve">
+    <value>CLIENTS SERVED</value>
+  </data>
+  <data name="lbCollaborate" xml:space="preserve">
+    <value>Collaborate with our 20+ years of experienced IT team to discover technical problems, design and visualize a product roadmap, and develop a product that aligns with business goals.</value>
+  </data>
+  <data name="lbCONNECT WITH US" xml:space="preserve">
+    <value>CONNECT WITH US</value>
+  </data>
+  <data name="lbCore Services" xml:space="preserve">
+    <value>Core Services</value>
+  </data>
+  <data name="lbCreative Team" xml:space="preserve">
+    <value>Creative Team</value>
+  </data>
+  <data name="lbCreativity" xml:space="preserve">
+    <value>Creativity is Our Passion, Your Success is Our Goal</value>
+  </data>
+  <data name="lbDiscover" xml:space="preserve">
+    <value>Discover, Design, Develop</value>
+  </data>
+  <data name="lbEndpoint App Development Solution" xml:space="preserve">
+    <value>Endpoint App Development Solution</value>
+  </data>
+  <data name="lbEnglish" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="lbGet A Free Quote" xml:space="preserve">
+    <value>Get A Free Quote</value>
+  </data>
+  <data name="lbGET STARTED" xml:space="preserve">
+    <value>GET STARTED</value>
+  </data>
+  <data name="lbLet" xml:space="preserve">
+    <value>Let's Discuss &amp; Get Started</value>
+  </data>
+  <data name="lbOur Approach" xml:space="preserve">
+    <value>Our Approach</value>
+  </data>
+  <data name="lbOurcustom" xml:space="preserve">
+    <value>Our custom website development services build efficient and innovative digital tools for your company, clients, and customers to solve business challenges and transform business operations.</value>
+  </data>
+  <data name="lbOur Solutions Enable Startups And Enterprises To Scale" xml:space="preserve">
+    <value>Our Solutions Enable Startups And Enterprises To Scale</value>
+  </data>
+  <data name="lbOur work reflects" xml:space="preserve">
+    <value>Our work reflects our quality, reliability, and our cognizance of latest technologies.</value>
+  </data>
+  <data name="lbOur Work Showcase" xml:space="preserve">
+    <value>Our Work Showcase</value>
+  </data>
+  <data name="lbREPEAT CUSTOMERS" xml:space="preserve">
+    <value>REPEAT CUSTOMERS</value>
+  </data>
+  <data name="lbRight" xml:space="preserve">
+    <value>Right from wireframing to prototyping the MVP, our team of programmers builds on-demand industry-specific solutions with a multi-device seamless experience. Get the best mobile technology for your business.</value>
+  </data>
+  <data name="lbSERVICES" xml:space="preserve">
+    <value>SERVICES</value>
+  </data>
+  <data name="lbStartup Consulting" xml:space="preserve">
+    <value>Startup Consulting</value>
+  </data>
+  <data name="lbTOP CUSTOM WEB AND MOBILE APP DEVELOPMENT COMPANY" xml:space="preserve">
+    <value>TOP CUSTOM WEB AND MOBILE APP DEVELOPMENT COMPANY</value>
+  </data>
+  <data name="lbWe create powerful" xml:space="preserve">
+    <value>We create powerful, beautiful, seamless, and scalable digital experiences with our professional web designers. Our design solution builds trust and confidence in your brand image and value and differentiates you from competitors.</value>
+  </data>
+  <data name="lbWebsite Design" xml:space="preserve">
+    <value>Website Design</value>
+  </data>
+  <data name="lbWebsite Development" xml:space="preserve">
+    <value>Website Development</value>
+  </data>
+  <data name="lbWhat We Do" xml:space="preserve">
+    <value>What We Do</value>
+  </data>
+  <data name="lbWORK HOURS" xml:space="preserve">
+    <value>WORK HOURS</value>
+  </data>
+  <data name="lbYEARS OF EXPERIENCE" xml:space="preserve">
+    <value>YEARS OF EXPERIENCE</value>
+  </data>
+  <data name="lb1st" xml:space="preserve">
+    <value>1st page Google results on chosen keywords</value>
+  </data>
+  <data name="lb200+ Mobile Apps Delivered" xml:space="preserve">
+    <value>200+ Mobile Apps Delivered</value>
+  </data>
+  <data name="lbdelivers" xml:space="preserve">
+    <value>4Z Software delivers custom mobile app development services in Egypt for both Android and iOS development stacks. We build truly global and scalable mobile apps across multiple industrial verticals, with an experienced team possessing years of combined technical expertise.</value>
+  </data>
+  <data name="lbprovider" xml:space="preserve">
+    <value>4Z Software is a provider of custom software development services in Egypt that engineers scalable and flexible software products for the web and the mobile. Our custom software and application development services involve full-cycle software delivery, from ideation to post-handover continued support.</value>
+  </data>
+  <data name="lboffers" xml:space="preserve">
+    <value>4Z Software offers custom software development services in Egypt for both B2C and B2B purposes.</value>
+  </data>
+  <data name="lb4" xml:space="preserve">
+    <value>4Z Software offers goal-oriented digital marketing services. The primary focus is to help brands gain a significant digital presence and amplify conversion opportunities. Our team comprises digital marketing professionals with 11+ years of industry experience. We work with the latest digital marketing trends and innovations to ensure our custom digital marketing framework matches search engine guidelines.</value>
+  </data>
+  <data name="lb4Z Software provides world-class mobile application development services for iOS ( iPhone / iPad ), Android and develop cross-platform apps." xml:space="preserve">
+    <value>4Z Software provides world-class mobile application development services for iOS ( iPhone / iPad ), Android and develop cross-platform apps.</value>
+  </data>
+  <data name="lb85" xml:space="preserve">
+    <value>85% Repeat Clients</value>
+  </data>
+  <data name="lb95" xml:space="preserve">
+    <value>95% Projects Launched</value>
+  </data>
+  <data name="lbAffordable digital marketing services" xml:space="preserve">
+    <value>Affordable digital marketing services</value>
+  </data>
+  <data name="lbAgile Development" xml:space="preserve">
+    <value>Agile Development</value>
+  </data>
+  <data name="lbAll" xml:space="preserve">
+    <value>All-round 5-star rated multi-platform mobile app development services to suit the technical requirement of businesses across all industries.</value>
+  </data>
+  <data name="lbAlready have" xml:space="preserve">
+    <value>Already have software and require maintenance? Reach out to our engineers for a consulting session to understand how our support services can help.</value>
+  </data>
+  <data name="lbApp Design" xml:space="preserve">
+    <value>App Design &amp; Development for iOS/Android/Web</value>
+  </data>
+  <data name="lbApp Development" xml:space="preserve">
+    <value>App Development</value>
+  </data>
+  <data name="lbAppear" xml:space="preserve">
+    <value>Appear on the 1st page of Google for chosen search phrases via paid ads and organic ranking campaigns.</value>
+  </data>
+  <data name="lbChosen handful projects highlighting our technological expertise in assisting clients to turn their ideas into reality." xml:space="preserve">
+    <value>Chosen handful projects highlighting our technological expertise in assisting clients to turn their ideas into reality.</value>
+  </data>
+  <data name="lbCloud Migration and Support" xml:space="preserve">
+    <value>Cloud Migration and Support</value>
+  </data>
+  <data name="lbCMS Platforms" xml:space="preserve">
+    <value>CMS Platforms</value>
+  </data>
+  <data name="lbCombine" xml:space="preserve">
+    <value>Combine crucial business processes with our ERP custom software development services in Egypt to manage workflows and workforce and manufacturing processes.</value>
+  </data>
+  <data name="lbConnectivity Platforms" xml:space="preserve">
+    <value>Connectivity Platforms</value>
+  </data>
+  <data name="lbConsultation" xml:space="preserve">
+    <value>Consultation</value>
+  </data>
+  <data name="lbCONTENT MARKETING" xml:space="preserve">
+    <value>CONTENT MARKETING</value>
+  </data>
+  <data name="lbCONVERSION RATE" xml:space="preserve">
+    <value>CONVERSION RATE</value>
+  </data>
+  <data name="lbConvert" xml:space="preserve">
+    <value>Convert your ideas into profitable software.</value>
+  </data>
+  <data name="lbCost-effective outsourcing vs. in-house team hiring" xml:space="preserve">
+    <value>Cost-effective outsourcing vs. in-house team hiring</value>
+  </data>
+  <data name="lbCreate" xml:space="preserve">
+    <value>Create brand image identifiers enabling consumers to recognize and connect with the company, boost sales and revenue.</value>
+  </data>
+  <data name="lbCRM Platforms" xml:space="preserve">
+    <value>CRM Platforms</value>
+  </data>
+  <data name="lbCRO" xml:space="preserve">
+    <value>CRO is a system that helps in increasing the percentage of visitors to a website that converts into customers.</value>
+  </data>
+  <data name="lbCustom Mobile" xml:space="preserve">
+    <value>Custom Mobile App Development Services</value>
+  </data>
+  <data name="lbCustom Software and Application Development Services" xml:space="preserve">
+    <value>Custom Software and Application Development Services</value>
+  </data>
+  <data name="lbCustom Software Development Services" xml:space="preserve">
+    <value>Custom Software Development Services</value>
+  </data>
+  <data name="lbDevelopment" xml:space="preserve">
+    <value>Development</value>
+  </data>
+  <data name="lbDigital Marketing: Give" xml:space="preserve">
+    <value>Digital Marketing: Give A New Flight To Your Business</value>
+  </data>
+  <data name="lbDirect Marketing" xml:space="preserve">
+    <value>Direct Marketing</value>
+  </data>
+  <data name="lbERP Systems" xml:space="preserve">
+    <value>ERP Systems</value>
+  </data>
+  <data name="lbFeatured Mobile Solutions" xml:space="preserve">
+    <value>Featured Mobile Solutions</value>
+  </data>
+  <data name="lbFeatured Projects" xml:space="preserve">
+    <value>Featured Projects</value>
+  </data>
+  <data name="lbGain" xml:space="preserve">
+    <value>Gain social traction for brand product/service with creative copy and paid ads on trending social media platforms.</value>
+  </data>
+  <data name="lbGlimpse of Projects" xml:space="preserve">
+    <value>Glimpse of Projects</value>
+  </data>
+  <data name="lbHardware Integration" xml:space="preserve">
+    <value>Hardware Integration</value>
+  </data>
+  <data name="lbHow" xml:space="preserve">
+    <value>How our digital marketing services benefits?</value>
+  </data>
+  <data name="lbIndustry We Serve" xml:space="preserve">
+    <value>Industry We Serve</value>
+  </data>
+  <data name="lbIntegration" xml:space="preserve">
+    <value>Integration</value>
+  </data>
+  <data name="lbLanguages Framework" xml:space="preserve">
+    <value>Languages Framework</value>
+  </data>
+  <data name="lblong" xml:space="preserve">
+    <value>More leads = more sales = more revenue: that's the digital marketing services from ( 4Z Software), in brief. We are a data-driven and performance-driven digital marketing agency that helps a brand to gain web visibility, improve conversions and brand awareness.</value>
+  </data>
+  <data name="lbMaintenance" xml:space="preserve">
+    <value>Maintenance</value>
+  </data>
+  <data name="lbMaintenance and Support" xml:space="preserve">
+    <value>Maintenance and Support</value>
+  </data>
+  <data name="lbMeet Your" xml:space="preserve">
+    <value>Meet Your Data-Driven Digital Marketing Services Company 4Z software</value>
+  </data>
+  <data name="lbMigrate" xml:space="preserve">
+    <value>Migrate digital business assets to the cloud computing environment and protect with firewall. Achieve digital transformation and unlock growth opportunities.</value>
+  </data>
+  <data name="lbMobile Application Services" xml:space="preserve">
+    <value>Mobile Application Services</value>
+  </data>
+  <data name="lbOnline Branding" xml:space="preserve">
+    <value>Online Branding</value>
+  </data>
+  <data name="lbOur Marketing Services" xml:space="preserve">
+    <value>Our Marketing Services</value>
+  </data>
+  <data name="lbOur team" xml:space="preserve">
+    <value>Our team consists of numerous developers specializing in various programming languages.</value>
+  </data>
+  <data name="lbOutreach" xml:space="preserve">
+    <value>Outreach campaigns for a filtered audience, organically and directly, who are seeking the product/service provided by the business.</value>
+  </data>
+  <data name="lbPerformance" xml:space="preserve">
+    <value>Performance-driven and data-oriented with measurable reporting</value>
+  </data>
+  <data name="lbPutting" xml:space="preserve">
+    <value>Putting two concepts (SEO &amp; Content) Content created with the goal of charming search engine traffic.</value>
+  </data>
+  <data name="lbQualified and targeted traffic delivered; no bot traffic" xml:space="preserve">
+    <value>Qualified and targeted traffic delivered; no bot traffic</value>
+  </data>
+  <data name="lbReact Native App Development" xml:space="preserve">
+    <value>React Native App Development</value>
+  </data>
+  <data name="lbSearch Engine Optimization &amp; Marketing" xml:space="preserve">
+    <value>Search Engine Optimization &amp; Marketing</value>
+  </data>
+  <data name="lbSearch" xml:space="preserve">
+    <value>Search Engine Optimization (SEO)</value>
+  </data>
+  <data name="lbSocial Media Marketing" xml:space="preserve">
+    <value>Social Media Marketing</value>
+  </data>
+  <data name="lbSocial Media Marketing (SMM)" xml:space="preserve">
+    <value>Social Media Marketing (SMM)</value>
+  </data>
+  <data name="lbSpecialized assistance in recovering your website ranking." xml:space="preserve">
+    <value>Specialized assistance in recovering your website ranking.</value>
+  </data>
+  <data name="lbStartup" xml:space="preserve">
+    <value>Startup's One-Stop Software Development Partner</value>
+  </data>
+  <data name="lbStrategic Consulting" xml:space="preserve">
+    <value>Strategic Consulting</value>
+  </data>
+  <data name="lbThe" xml:space="preserve">
+    <value>The goal is to generate targeted traffic to the website and generate a positive conversation about your brand.</value>
+  </data>
+  <data name="lbThe hardware" xml:space="preserve">
+    <value>The hardware integration team of engineers works with clients to process existing data stored in specialist hardware tools, assisting with component obsolescence, performance, system efficiency, validation testing, 3rd party software integration, backup and recovery, media duplication, support and maintenance.</value>
+  </data>
+  <data name="lbTools &amp; Technologies" xml:space="preserve">
+    <value>Tools &amp; Technologies</value>
+  </data>
+  <data name="lbTop Digital" xml:space="preserve">
+    <value>Top Digital Marketing Agency in Egypt</value>
+  </data>
+  <data name="lbTop Mobile" xml:space="preserve">
+    <value>Top Mobile App Development Services in Egypt</value>
+  </data>
+  <data name="lbTrust us to give 100% commitment to the success of your brand." xml:space="preserve">
+    <value>Trust us to give 100% commitment to the success of your brand.</value>
+  </data>
+  <data name="lbUI" xml:space="preserve">
+    <value>UI/UX Design</value>
+  </data>
+  <data name="lbUse" xml:space="preserve">
+    <value>Use our custom software and application development services to build user-oriented community platforms or social networking platforms with ease.</value>
+  </data>
+  <data name="lbVideo" xml:space="preserve">
+    <value>Video has a huge online value. By floating clips, you can demonstrate your products and services in a more presentable way</value>
+  </data>
+  <data name="lbVIDEO MARKETING" xml:space="preserve">
+    <value>VIDEO MARKETING</value>
+  </data>
+  <data name="lbWe are a full-service digital marketing agency; from improving search engine ranking to conversion analysis, our expert digital marketing team handles all. Find your digital marketing specialist among our team today!" xml:space="preserve">
+    <value>We are a full-service digital marketing agency; from improving search engine ranking to conversion analysis, our expert digital marketing team handles all. Find your digital marketing specialist among our team today!</value>
+  </data>
+  <data name="lbWe have" xml:space="preserve">
+    <value>We have developed web applications for the custom business requirements</value>
+  </data>
+  <data name="lbWe help companies" xml:space="preserve">
+    <value>We help companies build new technical capabilities, improve user relationships, and enter new global markets with our bespoke iOS mobile app development services in Egypt. Our vetted iOS developers create clean and scalable code in-house and provide personalized maintenance and support.</value>
+  </data>
+  <data name="lbWe companies" xml:space="preserve">
+    <value>We help companies build new technical capabilities, improve user relationships, and enternew global markets with our bespoke iOS mobile app development services in Egypt. Ourvetted iOS developers create clean and scalable code in-house and provide personalizedmaintenance and support.</value>
+  </data>
+  <data name="lbWEBSITE AUDIT" xml:space="preserve">
+    <value>WEBSITE AUDIT</value>
+  </data>
+  <data name="lbWhat We've Done" xml:space="preserve">
+    <value>What We've Done</value>
+  </data>
+  <data name="lbWhy Choose Us" xml:space="preserve">
+    <value>Why Choose Us</value>
+  </data>
+  <data name="lbIntelligent" xml:space="preserve">
+    <value>Intelligent and passionate people that believe in creating enterprise-level advanced and affordable technology solutions for startups and Fortune 500 companies.</value>
+  </data>
+  <data name="lbWe are a leading" xml:space="preserve">
+    <value>We are a leading tech-startup consulting service provider to funded startups. Leading tech solutions in IoT, AI, and data analysis, and expertise over multiple industry domains make us a trusted startup consulting partner.</value>
+  </data>
+  <data name="lbWe Build Products" xml:space="preserve">
+    <value>We Build Products</value>
+  </data>
+  <data name="lbWe rely" xml:space="preserve">
+    <value>We rely on lean and agile morals to continue supporting brands after launch through product upgrades and digital marketing solutions.</value>
+  </data>
+  <data name="lbWe Support" xml:space="preserve">
+    <value>We Support</value>
+  </data>
+  <data name="lbWe Transform Brands" xml:space="preserve">
+    <value>We Transform Brands</value>
+  </data>
+  <data name="lbYour business knowledge" xml:space="preserve">
+    <value>Your business knowledge and our technology acumen with proven methodologies combine to convert business ideas into beautiful code.</value>
+  </data>
+  <data name="lbYour trusted" xml:space="preserve">
+    <value>Your trusted agile &amp; innovative top-tier digital product development partner.</value>
+  </data>
+  <data name="lbaddress" xml:space="preserve">
+    <value>Address business objectives or consult with our high-end and precision-oriented custom
+                                CRM development services and improve business output and efficiency.</value>
+  </data>
+  <data name="lbCombinename" xml:space="preserve">
+    <value>Combine</value>
+  </data>
+  <data name="lbIntegrity" xml:space="preserve">
+    <value>Integrity On-Demand is a service marketplace where clients post their requirements and professional
+                                        search for jobs. Outsource errands, outsource tasks, delivery help, personal assistants, personal
+                                        concierge, and personal helper</value>
+  </data>
+  <data name="lbOur" xml:space="preserve">
+    <value>Our CMS development engineers design and integrate content frameworks with the existing
+                                business structure to build a streamlined workflow process.</value>
+  </data>
+  <data name="lbPlateRate" xml:space="preserve">
+    <value>Plate Rate</value>
+  </data>
+  <data name="lbPlateRate is" xml:space="preserve">
+    <value>PlateRate is a great app to help you find food you love wherever you are! PlateRate help you find
+                                        better food, through menu item reviews and dietary preference tracking. PlateRate combines food and
+                                        drink review and rating with search ability based on your food preferences and flavor match.</value>
+  </data>
+  <data name="lbWatchOut" xml:space="preserve">
+    <value>WatchOut providing an Interface with all the Tracking functionalities and emergency assist button
+                                        in case of a panic situation while traveling in a vehicle. Lowering the crime rate
+                                        within the City and getting proper help even if the connectivity is poor in the area where the
+                                        problem has occurred.</value>
+  </data>
+  <data name="lbCost" xml:space="preserve">
+    <value>Cost-effective outsourcing vs. in-house team hiring</value>
+  </data>
+  <data name="lbMoree" xml:space="preserve">
+    <value>More leads = more sales = more revenue: that's the digital marketing services from
+                                        4Z Software, in brief. We are a data-driven and performance-driven digital marketing agency
+                                        that helps a brand to gain web visibility, improve conversions and brand awareness.</value>
+  </data>
+  <data name="lbQualified" xml:space="preserve">
+    <value>Qualified and targeted traffic delivered; no bot traffic</value>
+  </data>
+  <data name="lbSe" xml:space="preserve">
+    <value>Search Engine Optimization_(SEO)</value>
+  </data>
+  <data name="lbSpecialized" xml:space="preserve">
+    <value>Specialized assistance in recovering your website ranking.</value>
+  </data>
+  <data name="lbweare" xml:space="preserve">
+    <value>We are a full-service digital marketing agency; from improving search engine ranking to
+                                        conversion analysis, our expert digital marketing team handles all. Find your digital
+                                        marketing specialist among our team today!</value>
+  </data>
+  <data name="lbchosen" xml:space="preserve">
+    <value>Chosen handful projects highlighting our technological expertise in assisting clients to turn their ideas into reality.</value>
+  </data>
+</root>

@@ -1,0 +1,170 @@
+body{margin:0;padding:0;font-family:'Roboto',sans-serif}
+img{max-width:100%}
+ul{padding:0;margin:0}
+li{list-style:none}
+a{text-decoration:none;cursor:pointer;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;transition:all .3s ease}
+a:focus,a:active{outline:0;color:#666;text-decoration:none}
+a:hover{text-decoration:none}
+.center-align{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-flex-align:center;-ms-flex-aligan:center;-webkit-align-items:center;align-items:center}
+.banner_rpo{background: #d3fbf3}
+.banner_bpotext { padding:185px}
+.banner_bpotext h1{font-size:55px; font-weight: 700; text-align: left;}
+.banner_bpotext h6 {color:#3980a8; font-size: 27px;font-weight: 300;}
+.sub_heading_bpo h2{font-size: 55px; font-weight: 700;}
+.sub_heading_bpo p{font-size:14px;     margin-bottom: 20px;}
+.sub_heading_bpo h4{text-transform: uppercase; font-size: 20px;}
+.Quality_bpo {padding: 50px 0;}
+.Outsourcing_bpo {padding: 50px 0;}
+.BPO_Services {padding: 50px 0;}
+.RPO_bpoarea {padding: 50px 0;}
+.Telecom {padding: 50px 0;}
+.Achievement {padding: 50px 0;}
+.BankingandFinance {padding: 50px 0;}
+.Debt {padding: 50px 0;}
+.Quality_bpo img{width:40%; margin-top: 70px;}
+.Quality_bpo img:hover{transform:rotate(20deg)}
+.Outsourcing_bpo {background:#f4f4f4; }
+.Outsourcing_bpo .sub_heading_bpo h2{margin-bottom:-25px;}
+.Outsourcing_bpo .sub_heading_bpo h6{text-align:right; margin: 0px; margin-right: 35px; font-size: 15px;}
+.Outsourcing_bpo .sub_heading_bpo h4{font-size:29px; margin-top: 10px;}
+.bpo_btn{background:#0098cd; padding: 10px 40px; border-radius:30px; display: inline-block; color:#fff !important; font-size: 14px; text-align:center; width: 100%;text-transform: uppercase; margin-bottom: 20px; font-weight: 600; }	
+.Outsourcing_bpo img{width:70%;}
+.BPO_Services {background-image: url(../images/bpo/bpo_service.jpg); width: 100%; height: 100%; background-repeat: no-repeat;background-position: center; background-size:  cover;}
+.BPO_Services .sub_heading_bpo h2{margin-bottom: 70px;}
+.BPO_Services h4{margin:20px 0; font-size: 16px;font-weight: 700;}
+.BPO_Services_imgarea{margin-top: 50px;}
+.securityright_area {
+    padding: 0px;
+}
+.banner_rpo_area{padding:0px;}
+.BPO_Services_imgarea_meg {
+    margin-left: 40vh;}
+@keyframes bounce {
+    0%,  
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+.BPO_Services img:hover {animation: bounce 2.5s infinite; -webkit-animation: bounce 2.5s infinite; -moz-animation: bounce 2.5s infinite; -o-animation: bounce 2.5s infinite;}
+.RPO_bpoarea h4{text-transform: uppercase; margin-bottom: 70px;}
+.RPO_bpoarea {background:#f4f4f4; text-align: center;}
+.arrow{margin-top:50px;}
+.RPO_bpoarea h5{margin-top: 20px; font-size:14px; text-transform: uppercase; font-weight: 700; text-align: center;  }
+.RPO_bpoarea img:hover{transform: rotate(-10deg)}
+.button_area{margin-top:70px; text-align:center}
+.button_area .bpo_btn{width:30p% !imporatnat; height:auto; }
+.Specialized {background-image: url(../images/bpo/highlight_bg.png); background-size: cover; padding:50px; text-align: center; color: #fff;background-repeat:  no-repeat; }
+.Specialized h2{font-size: 30px !important;  line-height: 40px;}
+.Specialized span{color: #00aeef; font-size: 30px !important; }
+.hiring{background-image: url(../images/bpo/hiring_bg.jpg); background-size: cover; padding: 150px; background-repeat:  no-repeat;}
+.hiring h2{font-size: 40px; font-weight: 700; margin-bottom: 70px; text-align: left;}
+@keyframes swinging{0%{transform: rotate(0deg);}
+    25%{transform: rotate(10deg);}
+    75%{transform: rotate(-10deg);}
+    100%{transform: rotate(0deg);}
+}
+.hiring img:hover  { -webkit-transform-origin: 50% 0; transform-origin: 50% 0;-webkit-animation: swinging 2s ease-in-out forwards infinite;animation: swinging 2s ease-in-out forwards infinite;}
+.Sales_Process {background:#d3daff;padding: 50px;}
+.Sales_Process img{margin-top: 70px;}
+.Sales_Process h5{text-transform: uppercase; margin: 50px 0; font-size: 18px;}
+.Sales_Process span{color: #b1bacb;font-size:50px; text-align: center; font-weight: 300;}
+.colorbox{background-image: url(../images/bpo/color_bg.png);   padding: 40px; background-repeat:  no-repeat; background-size: cover;}
+.colorbox h5{color:#fff; font-size: 18px; }
+.colorbox_area{margin-left: 30px;}
+.Telecom h2{margin-bottom: 70px;}
+.Telecom h6{margin-top: 20px; font-size:16px; text-transform: uppercase; font-weight: 700;}
+.Telecom img:hover{transform: rotate(-10deg)}
+.telecome_area {background:#e2eeff; padding: 40px; }
+.telecome_area h4{color:#175f92; font-size:25px; text-align: center; }
+.telecome_area span{color: #b1bacb;font-size:50px; text-align: center; font-weight: 300; margin-left: 20px; }
+.Achievement_area{background-image: url(../images/bpo/Achievement-.png); background-size: cover; padding: 45px; background-repeat:  no-repeat; min-height: 266px; margin-top: 70px; }
+.Achievement_area h5{color: #9e6d2d; font-size:30px; font-weight: 200; margin-top: 30px; }
+.Achievement_area h5:nth-child(2){margin: auto;}
+.Achievement_area h3{color: #9e6d2d; font-size:25px; font-weight: 600; }
+.Achievement_area p{font-size:12px; font-weight: 300;  }
+.Achievement_area span h3{margin-top: 30px;}
+.BankingandFinance {color:#fff; background: radial-gradient(circle, rgba(94,0,251,1) 0%, rgba(94,0,224,1) 100%);}
+.BankingandFinance img {margin-top: 50px;}
+.BankingandFinance h5{text-transform: uppercase; margin-top: 40px; font-size: 18px;}
+.Debt img{margin-top: 70px;}
+.Debt h6{ font-size:16px; text-transform: uppercase; font-weight: 700; margin-top: 40px;}
+.left_security {background: radial-gradient(circle, rgba(33,103,174,1) 0%, rgba(21,70,141,1) 100%); padding: 50px; color: #fff; text-align: center; height:100vh}
+.left_security img{margin-top: 70px; width: 71%; padding: 52px;}
+.right_security{ padding: 70px; color: #fff;}
+.right_security h2{font-size: 30px; margin-bottom: 40px;}
+.right_security h4{font-size:20px; margin:20px 0;}
+.right_security ul li{font-size: 14px;}
+.right_security ul li i{font-size:8px; margin-right: 5px; }
+.right_security ul {margin-bottom: 30px;}
+.securityright_area{background:  radial-gradient(circle, rgba(6,35,93,1) 0%, rgba(5,34,93,1) 100%); height:100vh}
+.bg-dark {background-color: #f6f5f5 !important;}
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+.banner_bpotext {    padding: 70px 30px;}
+.Quality_bpo img {width: 60%; margin-top:40px;}
+.BPO_Services .sub_heading_bpo h2 { margin-bottom: 70px;}
+.RPO_bpoarea img{margin-top: 30px;}
+.hiring{padding: 30px;}	
+.hiring h2{text-align: center;}	
+.Sales_Process h5 {text-transform: uppercase; margin: 30px 0;font-size: 20px;}
+.colorbox_area{margin-left: 0px;}	
+.bpo_btn {font-size: 5px;}
+.colorbox{background: #ff4258}
+.Achievement_area p{font-size:8px; }
+.Achievement_area h3{font-size:12px; }
+.Achievement_area h5 {font-size:16px;     margin-top: 42px; }
+.Achievement_area {padding: 5px; min-height:160px; }
+.Achievement_area span h3{margin-top: 45px;}
+.left_security{min-height:73.5vh }
+.BPO_Services_imgarea_meg {
+    margin-left: 17vh;}
+.left_security img{width:100%;}
+}
+
+@media (max-width:768px)
+{	
+.left_security { min-height: 134.5vh;}	
+.BPO_Services_imgarea_meg {
+    margin-left: 0vh;}	
+    .Specialized h2 {
+    font-size: 22px !important;
+    }
+    .Specialized span {
+    color: #00aeef;
+    font-size: 22px !important;}
+    .telecome_area span{text-align:center !important;}
+    .Sales_Process img{width:80%;}
+}
+
+
+@media (max-width: 467px)
+{
+.banner_bpotext {padding: 10px;}
+.Quality_bpo img {width: 60%; margin-top:40px;}
+.BPO_Services .sub_heading_bpo h2 {margin-bottom: 70px;}
+.RPO_bpoarea img{margin-top: 30px;}
+.arrow {transform: rotate(90deg);text-align: center;}
+.hiring{padding: 30px 0;}	
+.hiring h2{text-align: center;}
+.Sales_Process h5 {text-transform: uppercase; margin: 30px 0; font-size: 20px;}
+.colorbox_area{margin-left: 0px;}
+.telecome_area span {margin-left: 0px; display: flow-root;}
+.left_security {min-height: auto;}
+.left_security img{width: 100%;}
+.BPO_Services_imgarea_meg {
+    margin-left: 0vh;}	
+}
+@media (max-width:360px)
+{
+.sub_heading_bpo h2{font-size:25px}	
+.Achievement_area {padding: 10px; min-height: 216px;}	
+.Achievement_area h3 {color: #9e6d2d; font-size: 16px; font-weight: 600;}
+.Achievement_area span h3 {margin-top: 60px;}
+.Achievement_area h5 {margin-top: 42px;}
+.BPO_Services_imgarea_meg {
+    margin-left: 0vh;}	
+}
+
+

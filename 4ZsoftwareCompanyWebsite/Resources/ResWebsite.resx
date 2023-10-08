@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lb1st" xml:space="preserve">
+    <value>ظهور نتائج الصفحة ف نتائج البحث الاولى</value>
+  </data>
+  <data name="lb200+ Mobile Apps Delivered" xml:space="preserve">
+    <value>تم تسليم 200+ تطبيقات الهاتف المحمول</value>
+  </data>
+  <data name="lb4" xml:space="preserve">
+    <value>يقدم برنامج 4Z خدمات التسويق الرقمي الموجهة نحو الأهداف. ينصب التركيز الأساسي على مساعدة العلامات التجارية على الحصول على وجود رقمي كبير وتضخيم فرص التحويل. يضم فريقنا من محترفي التسويق الرقمي مع خبرة 11 عامًا في الصناعة. نحن نعمل مع أحدث اتجاهات التسويق الرقمي والابتكارات لضمان تطابق إطار التسويق الرقمي المخصص لإرشادات محرك البحث.</value>
+  </data>
+  <data name="lb4Z Software provides world-class mobile application development services for iOS ( iPhone / iPad ), Android and develop cross-platform apps." xml:space="preserve">
+    <value>نقدم خدمات تطوير تطبيقات الهواتف المحمولة في جميع انحاء العالم على جميع المنصات 
+iOS (iPhone / iPad) و Androidــ</value>
+  </data>
+  <data name="lb85" xml:space="preserve">
+    <value>85٪ عملاء متكررين</value>
+  </data>
+  <data name="lb95" xml:space="preserve">
+    <value>إطلاق 95٪ من المشاريع</value>
+  </data>
+  <data name="lbA leading" xml:space="preserve">
+    <value>شركة رائدة لتطوير تطبيقات الأجهزة المحمولة منذ عام 2009 ، نقوم بتطوير التطبيقات مع أدوات وتكنولوجيا متقدمة لتلبية احتياجات المستهلكين والمؤسسات.</value>
+  </data>
+  <data name="lbaddress" xml:space="preserve">
+    <value>حدد أهداف العمل أو استشر عاداتنا عالية الجودة والموجهة نحو الدقة
+                                خدمات تطوير CRM وتحسين مخرجات الأعمال وكفاءتها.</value>
+  </data>
+  <data name="lbAffordable digital marketing services" xml:space="preserve">
+    <value>خدمات التسويق الرقمي بأسعار معقولة</value>
+  </data>
+  <data name="lbAgile Development" xml:space="preserve">
+    <value>تطوير البرامج بتقنية أجيل</value>
+  </data>
+  <data name="lbAll" xml:space="preserve">
+    <value>نقدم خدمات تطوير تطبيقات الهاتف المحمول متعددة المنصات من فئة 5 نجوم لتناسب المتطلبات التقنية للشركات في جميع الصناعات.</value>
+  </data>
+  <data name="lbAlready have" xml:space="preserve">
+    <value>لديك بالفعل برامج وتتطلب الصيانة؟ تواصل مع مهندسينا لجلسة استشارية لفهم كيف يمكن أن تساعد خدمات الدعم لدينا.</value>
+  </data>
+  <data name="lbApp Design" xml:space="preserve">
+    <value>تصميم التطبيقات وتطويرها لنظام التشغيل iOS/Android/Web</value>
+  </data>
+  <data name="lbApp Development" xml:space="preserve">
+    <value>تطوير التطبيقات</value>
+  </data>
+  <data name="lbAppear" xml:space="preserve">
+    <value>ظهر في الصفحة الأولى من Google للحصول على عبارات البحث التي تم اختيارها عبر الإعلانات المدفوعة وحملات التصنيف العضوي.</value>
+  </data>
+  <data name="lbchosen" xml:space="preserve">
+    <value>تم اختيار المشاريع التي تم اختيارها لتسليط الضوء على خبرتنا التكنولوجية في مساعدة العملاء على تحويل أفكارهم إلى حقيقة واقعة.</value>
+  </data>
+  <data name="lbChosen handful projects highlighting our technological expertise in assisting clients to turn their ideas into reality." xml:space="preserve">
+    <value>تم اختيار المشاريع التي تم اختيارها لتسليط الضوء على خبرتنا التكنولوجية في مساعدة العملاء على تحويل أفكارهم إلى حقيقة واقعة.</value>
+  </data>
+  <data name="lbClient Testimonials" xml:space="preserve">
+    <value>شهادات العملاء</value>
+  </data>
+  <data name="lbClientele" xml:space="preserve">
+    <value>العملاء</value>
+  </data>
+  <data name="lbCLIENTS SERVED" xml:space="preserve">
+    <value>خدمة العملاء</value>
+  </data>
+  <data name="lbCloud Migration and Support" xml:space="preserve">
+    <value>معالجة أهداف العمل أو التشاور مع خدمات تطوير CRM المخصصة المخصصة المخصصة للدقة وتحسين ناتج الأعمال وكفاءتها.</value>
+  </data>
+  <data name="lbCMS Platforms" xml:space="preserve">
+    <value>CMS Platforms</value>
+  </data>
+  <data name="lbCollaborate" xml:space="preserve">
+    <value>نحن فريق تكنولوجيا المعلومات خبره على مدار 50 عاما لاكتشاف المشكلات التقنية وتصميم خريطة طريق المنتج وتصورها وتطوير منتج يتوافق مع أهداف العمل.</value>
+  </data>
+  <data name="lbCombine" xml:space="preserve">
+    <value>اجمع بين العمليات التجارية الحاسمة مع خدمات تطوير البرمجيات المخصصة لتخطيط موارد المؤسسات في مصر لإدارة تدفقات العمل والقوى العاملة وعمليات التصنيع.</value>
+  </data>
+  <data name="lbCombinename" xml:space="preserve">
+    <value>Combine</value>
+  </data>
+  <data name="lbCONNECT WITH US" xml:space="preserve">
+    <value>اتصل بنا</value>
+  </data>
+  <data name="lbConnectivity Platforms" xml:space="preserve">
+    <value>منصات الاتصال</value>
+  </data>
+  <data name="lbConsultation" xml:space="preserve">
+    <value>التشاور</value>
+  </data>
+  <data name="lbCONTENT MARKETING" xml:space="preserve">
+    <value>تسويق المحتوى</value>
+  </data>
+  <data name="lbCONVERSION RATE" xml:space="preserve">
+    <value>معدل التحويل</value>
+  </data>
+  <data name="lbConvert" xml:space="preserve">
+    <value>تحويل أفكارك إلى برامج مربحة.</value>
+  </data>
+  <data name="lbCore Services" xml:space="preserve">
+    <value>الخدمات الأساسية</value>
+  </data>
+  <data name="lbCost" xml:space="preserve">
+    <value>الاستعانة بمصادر خارجية فعالة من حيث التكلفة مقابل تعيين فريق داخلي</value>
+  </data>
+  <data name="lbCost-effective outsourcing vs. in-house team hiring" xml:space="preserve">
+    <value>الاستعانة بمصادر خارجية فعالة من حيث التكلفة مقابل توظيف الفريق الداخلي</value>
+  </data>
+  <data name="lbCreate" xml:space="preserve">
+    <value>قم بإنشاء معرفات صور العلامة التجارية التي تمكن المستهلكين من التعرف على الشركة والتواصل معها ، وتعزيز المبيعات والإيرادات.</value>
+  </data>
+  <data name="lbCreative Team" xml:space="preserve">
+    <value>تعرف علي فريق العمل</value>
+  </data>
+  <data name="lbCreativity" xml:space="preserve">
+    <value>الإبداع هو شغفنا ، نجاحك هو هدفنا</value>
+  </data>
+  <data name="lbCRM Platforms" xml:space="preserve">
+    <value>معالجة أهداف العمل أو التشاور مع خدمات تطوير CRM المخصصة المخصصة المخصصة للدقة وتحسين ناتج الأعمال وكفاءتها.</value>
+  </data>
+  <data name="lbCRO" xml:space="preserve">
+    <value>CRO هو نظام يساعد في زيادة النسبة المئوية للزوار إلى موقع ويب يتحول إلى عملاء.</value>
+  </data>
+  <data name="lbCustom Mobile" xml:space="preserve">
+    <value>خدمات تطوير تطبيقات الهاتف المحمول المخصصة</value>
+  </data>
+  <data name="lbCustom Software and Application Development Services" xml:space="preserve">
+    <value>خدمات تطوير البرمجيات والتطبيقات المخصصة</value>
+  </data>
+  <data name="lbcustom software development" xml:space="preserve">
+    <value>تطوير البرمجيات</value>
+  </data>
+  <data name="lbCustom Software Development Services" xml:space="preserve">
+    <value>خدمات تطوير البرمجيات المخصصة</value>
+  </data>
+  <data name="lbdelivers" xml:space="preserve">
+    <value>صممنا مئات من تطبيقات الجوال الإحترافية بأكثر من لغة ولعملاءنا المنتشرين فى دول العالم المختلفة , برمجنا العديد من المشروعات الكبرى المعتمدة على تطبيقات وأنظمة الجوال , ونسعى لتغيير واقع تطبيقات الجوال فى العالم العربي وجعلها بالفعل سهلة ومتاحة للجميع</value>
+  </data>
+  <data name="lbDevelopment" xml:space="preserve">
+    <value>تطوير</value>
+  </data>
+  <data name="lbDigital Marketin" xml:space="preserve">
+    <value>التسويق الرقمي: امنح رحلة جديدة لعملك</value>
+  </data>
+  <data name="lbDigital Marketing Solutions" xml:space="preserve">
+    <value>التسوق الشبكي</value>
+  </data>
+  <data name="lbDirect Marketing" xml:space="preserve">
+    <value>التسويق المباشر</value>
+  </data>
+  <data name="lbDiscover" xml:space="preserve">
+    <value>اكتشاف، تصميم، تطوير</value>
+  </data>
+  <data name="lbEndpoint App Development Solution" xml:space="preserve">
+    <value>حلول تطوير التطبيقات</value>
+  </data>
+  <data name="lbEnglish" xml:space="preserve">
+    <value>الإنجليزية</value>
+  </data>
+  <data name="lbERP Systems" xml:space="preserve">
+    <value>ERP Systems</value>
+  </data>
+  <data name="lbFeatured Mobile Solutions" xml:space="preserve">
+    <value>حلول الجوال المميزة</value>
+  </data>
+  <data name="lbFeatured Projects" xml:space="preserve">
+    <value>مشاريع مميزة</value>
+  </data>
+  <data name="lbFrench" xml:space="preserve">
+    <value>العربية</value>
+  </data>
+  <data name="lbGain" xml:space="preserve">
+    <value>اكتساب الجر الاجتماعي لمنتج/خدمة العلامة التجارية مع نسخة إبداعية وإعلانات مدفوعة على منصات التواصل الاجتماعي.</value>
+  </data>
+  <data name="lbGet A Free Quote" xml:space="preserve">
+    <value>احصل على عرض أسعار مجاني</value>
+  </data>
+  <data name="lbGet In Touch" xml:space="preserve">
+    <value>ابقى على تواصل</value>
+  </data>
+  <data name="lbGET STARTED" xml:space="preserve">
+    <value>البدء</value>
+  </data>
+  <data name="lbGlimpse of Projects" xml:space="preserve">
+    <value>لمحة عن المشاريع</value>
+  </data>
+  <data name="lbHardware Integration" xml:space="preserve">
+    <value>تكامل الأجهزة</value>
+  </data>
+  <data name="lbHow" xml:space="preserve">
+    <value>مميزات خدمات التسويق الرقمي لدينا؟</value>
+  </data>
+  <data name="lbIndustry We Serve" xml:space="preserve">
+    <value>الصناعة التي نخدمها</value>
+  </data>
+  <data name="lbIntegration" xml:space="preserve">
+    <value>اندماج</value>
+  </data>
+  <data name="lbIntegrity" xml:space="preserve">
+    <value>هو سوق للخدمات حيث يقوم العملاء بنشر متطلباتهم والمهنية
+                                        البحث عن وظائف. مهمات الاستعانة بمصادر خارجية ، مهام الاستعانة بمصادر خارجية ، المساعدة في التوصيل ، المساعدين الشخصيين ، الشخصيين
+                                        بواب ومساعد شخصي</value>
+  </data>
+  <data name="lbIntelligent" xml:space="preserve">
+    <value>أشخاص أذكياء ومتحمسون يؤمنون بإنشاء حلول تقنية متقدمة على مستوى المؤسسة وبأسعار معقولة للشركات الناشئة وشركات Fortune 500.</value>
+  </data>
+  <data name="lbLanguage" xml:space="preserve">
+    <value>اللغة</value>
+  </data>
+  <data name="lbLanguages Framework" xml:space="preserve">
+    <value>إطار اللغات</value>
+  </data>
+  <data name="lbLet" xml:space="preserve">
+    <value>تواصل معنا &amp; ابدأ</value>
+  </data>
+  <data name="lblong" xml:space="preserve">
+    <value>المزيد من العملاء المتوقعين = المزيد من المبيعات = المزيد من الإيرادات: هذه هي خدمات التسويق الرقمي من
+(4Z Software)  
+، باختصار. نحن وكالة تسويق رقمية تعتمد على البيانات والتي تعتمد على الأداء وتساعد العلامة التجارية على الحصول على رؤية الويب وتحسين التحويلات والوعي بالعلامة التجارية.</value>
+  </data>
+  <data name="lbMaintenance" xml:space="preserve">
+    <value>اعمال صيانة</value>
+  </data>
+  <data name="lbMaintenance and Support" xml:space="preserve">
+    <value>الصيانة والدعم</value>
+  </data>
+  <data name="lbMeet Your" xml:space="preserve">
+    <value>تعرف على برنامج شركة لخدمات التسويق الرقمي القائمة على البيانات</value>
+  </data>
+  <data name="lbMigrate" xml:space="preserve">
+    <value>ترحيل أصول الأعمال الرقمية إلى بيئة الحوسبة السحابية وحماية مع جدار الحماية. تحقيق التحول الرقمي وفتح فرص النمو.</value>
+  </data>
+  <data name="lbMobile App Development" xml:space="preserve">
+    <value>تطوير تطبيقات الهاتف المحمول</value>
+  </data>
+  <data name="lbMobile Application Services" xml:space="preserve">
+    <value>خدمات تطبيقات الهاتف المحمول</value>
+  </data>
+  <data name="lbMoree" xml:space="preserve">
+    <value>المزيد من العملاء المتوقعين = المزيد من المبيعات = المزيد من الإيرادات: هذه هي خدمات التسويق الرقمي من
+                                        4Z Software ، باختصار. نحن وكالة تسويق رقمية تعتمد على البيانات والأداء
+                                        يساعد العلامة التجارية في الحصول على رؤية على شبكة الإنترنت ، وتحسين التحويلات والوعي بالعلامة التجارية.</value>
+  </data>
+  <data name="lboffers" xml:space="preserve">
+    <value>يقدم برنامج 4Z خدمات تطوير برامج مخصصة في مصر لكل من أغراض B2C و B2B.</value>
+  </data>
+  <data name="lbOnline Branding" xml:space="preserve">
+    <value>العلامات التجارية عبر الإنترنت</value>
+  </data>
+  <data name="lbOur" xml:space="preserve">
+    <value>يقوم مهندسو تطوير CMS لدينا بتصميم ودمج أطر عمل المحتوى مع
+                                هيكل الأعمال لبناء عملية سير عمل مبسطة.</value>
+  </data>
+  <data name="lbOur Approach" xml:space="preserve">
+    <value>اهدافنا</value>
+  </data>
+  <data name="lbOur Marketing Services" xml:space="preserve">
+    <value>خدمات التسويق لدينا</value>
+  </data>
+  <data name="lbOur Solutions Enable Startups And Enterprises To Scale" xml:space="preserve">
+    <value>تمكن حلولنا الشركات الناشئة والمؤسسات من التوسع</value>
+  </data>
+  <data name="lbOur team" xml:space="preserve">
+    <value>يتكون فريقنا من العديد من المطورين المتخصصين في لغات البرمجة المختلفة.</value>
+  </data>
+  <data name="lbOur work reflects" xml:space="preserve">
+    <value>يعكس عملنا جودتنا وموثوقيتنا وإدراكنا لأحدث التقنيات.</value>
+  </data>
+  <data name="lbOur Work Showcase" xml:space="preserve">
+    <value>تطبيقات من اعمالنا</value>
+  </data>
+  <data name="lbOurcustom" xml:space="preserve">
+    <value>نقوم بخدمات تطوير موقع الويب المخصصة لدينا ببناء أدوات رقمية فعالة ومبتكرة لشركتك وعملائك وعملائك لحل تحديات الأعمال وتحويل العمليات التجارية.
+نحن نقدم خدمات تطوير مواقع الويب المخصصة ببناء وتصميم و تطوير الويب بجودة عالية للعملاء في جميع انواع المجالات</value>
+  </data>
+  <data name="lbOutreach" xml:space="preserve">
+    <value>حملات التوعية لجمهور تمت تصفيته ، عضويا ومباشرًا ، يبحثون عن المنتج/الخدمة التي توفرها الشركة.</value>
+  </data>
+  <data name="lbPerformance" xml:space="preserve">
+    <value>يحركه الأداء والموجهة نحو البيانات مع تقارير قابلة للقياس</value>
+  </data>
+  <data name="lbPlateRate" xml:space="preserve">
+    <value>Plate Rate</value>
+  </data>
+  <data name="lbPlateRate is" xml:space="preserve">
+    <value>PlateRate هو تطبيق رائع لمساعدتك في العثور على الطعام الذي تحبه أينما كنت! PlateRate تساعدك في العثور عليها
+                                        طعام أفضل ، من خلال مراجعات عناصر القائمة وتتبع التفضيلات الغذائية. يجمع PlateRate بين الطعام و
+                                        مراجعة المشروبات وتقييمها مع إمكانية البحث بناءً على تفضيلاتك الغذائية وتطابق النكهة.</value>
+  </data>
+  <data name="lbprovider" xml:space="preserve">
+    <value>Software 4Z 
+هو مزود لخدمات تطوير البرمجيات المخصصة في مصر ، حيث يقوم المهندسون بالتوسع والمرونة منتجات برمجيات للويب والهاتف المحمول. تتضمن خدمات تطوير البرمجيات والتطبيقات المخصصة لدينا تسليم برامج دورة كاملة ، من التفكير إلى الدعم المستمر بعد التسليم.</value>
+  </data>
+  <data name="lbPutting" xml:space="preserve">
+    <value>وضع محتوى مفهومين (SEO والمحتوى) تم إنشاؤه بهدف حركة مرور محرك البحث الساحر.</value>
+  </data>
+  <data name="lbQualified" xml:space="preserve">
+    <value>تم تسليم حركة المرور المؤهلة والمستهدفة ؛ لا حركة روبوت</value>
+  </data>
+  <data name="lbQualified and targeted traffic delivered; no bot traffic" xml:space="preserve">
+    <value>تم تسليم حركة المرور المؤهلة والمستهدفة ؛ لا حركة روبوت</value>
+  </data>
+  <data name="lbReact Native App Development" xml:space="preserve">
+    <value>تطوير التطبيقات React Native</value>
+  </data>
+  <data name="lbREPEAT CUSTOMERS" xml:space="preserve">
+    <value>تكرار العملاء</value>
+  </data>
+  <data name="lbRight" xml:space="preserve">
+    <value>مباشرة من السلكية إلى النماذج الأولية ل MVP ، يبني فريقنا من المبرمجين حلولًا مبتكره بالصناعة مع تجربة سلسة متعددة الأجهزة. احصل على أفضل تقنية متنقلة لعملك.</value>
+  </data>
+  <data name="lbSe" xml:space="preserve">
+    <value>Search Engine Optimization_(SEO)</value>
+  </data>
+  <data name="lbSearch" xml:space="preserve">
+    <value>تحسين محرك البحث (SEO)</value>
+  </data>
+  <data name="lbSearch Engine Optimization &amp; Marketing" xml:space="preserve">
+    <value>تحسين محرك البحث والتسويق</value>
+  </data>
+  <data name="lbSERVICES" xml:space="preserve">
+    <value>خدمات</value>
+  </data>
+  <data name="lbSocial Media Marketing" xml:space="preserve">
+    <value>تسويق وسائل الاعلام الاجتماعية</value>
+  </data>
+  <data name="lbSocial Media Marketing (SMM)" xml:space="preserve">
+    <value>تسويق وسائل التواصل الاجتماعي (SMM)</value>
+  </data>
+  <data name="lbSpecialized" xml:space="preserve">
+    <value>مساعدة متخصصة في استعادة ترتيب موقعك على الويب.</value>
+  </data>
+  <data name="lbSpecialized assistance in recovering your website ranking." xml:space="preserve">
+    <value>المساعدة المتخصصة في استرداد موقع الويب الخاص بك.</value>
+  </data>
+  <data name="lbStartup" xml:space="preserve">
+    <value>شريك تطوير البرمجيات في شركة</value>
+  </data>
+  <data name="lbStartup Consulting" xml:space="preserve">
+    <value>استشارات للشركات الناشئة</value>
+  </data>
+  <data name="lbStrategic Consulting" xml:space="preserve">
+    <value>الاستشارات الاستراتيجية</value>
+  </data>
+  <data name="lbThe" xml:space="preserve">
+    <value>الهدف من ذلك هو توليد حركة مرور مستهدفة إلى موقع الويب وإنشاء محادثة إيجابية حول علامتك التجارية.</value>
+  </data>
+  <data name="lbThe hardware" xml:space="preserve">
+    <value>يعمل فريق من المهندسين مع العملاء لمعالجة البيانات الموجودة في أدوات الأجهزة المتخصصة ، والمساعدة في  رفع الأداء ، وكفاءة النظام ، والنسخ الاحتياطي ، والاسترداد ، وازدواج الوسائط ، ودعمها وصيانتها.</value>
+  </data>
+  <data name="lbTools &amp; Technologies" xml:space="preserve">
+    <value>الأدوات والتقنيات</value>
+  </data>
+  <data name="lbTOP CUSTOM WEB AND MOBILE APP DEVELOPMENT COMPANY" xml:space="preserve">
+    <value>أفضل شركة متخصصة لتطوير تطبيقات الويب والهاتف المحمول</value>
+  </data>
+  <data name="lbTop Digital" xml:space="preserve">
+    <value>أفضل وكالة التسويق الرقمي في مصر</value>
+  </data>
+  <data name="lbTop Mobile" xml:space="preserve">
+    <value>من افضل شركات تطوير تطبيقات الهواتف في مصر</value>
+  </data>
+  <data name="lbTrust us to give 100% commitment to the success of your brand." xml:space="preserve">
+    <value>ثق بنا لإعطاء التزام 100 ٪ بنجاح علامتك التجارية.</value>
+  </data>
+  <data name="lbUI" xml:space="preserve">
+    <value>تصميم UI/UX</value>
+  </data>
+  <data name="lbUse" xml:space="preserve">
+    <value>استخدم خدمات تطوير البرامج والتطبيقات المخصصة لإنشاء منصات مجتمعية موجهة للمستخدمين أو منصات الشبكات الاجتماعية بسهولة.</value>
+  </data>
+  <data name="lbVideo" xml:space="preserve">
+    <value>الفيديو له قيمة ضخمة عبر الإنترنت. من خلال المقاطع العائمة ، يمكنك إظهار منتجاتك وخدماتك بطريقة أكثر قابلية للتقدم</value>
+  </data>
+  <data name="lbVIDEO MARKETING" xml:space="preserve">
+    <value>تسويق الفيديو</value>
+  </data>
+  <data name="lbWatchOut" xml:space="preserve">
+    <value>atchOut توفير واجهة مع جميع وظائف التتبع وزر مساعدة الطوارئ
+                                        في حالة حدوث حالة ذعر أثناء السفر في السيارة. خفض معدل الجريمة
+                                        داخل المدينة والحصول على المساعدة المناسبة حتى لو كان الاتصال ضعيفًا في المنطقة التي يوجد بها
+                                        حدثت مشكلة.</value>
+  </data>
+  <data name="lbWe are a full-service digital marketing agency; from improving search engine ranking to conversion analysis, our expert digital marketing team handles all. Find your digital marketing specialist among our team today!" xml:space="preserve">
+    <value>نحن وكالة تسويق رقمية كاملة الخدمات ؛ من تحسين تصنيف محرك البحث إلى تحليل التحويل ، يتعامل فريق التسويق الرقمي الخبير لدينا جميعًا. ابحث عن أخصائي التسويق الرقمي بين فريقنا اليوم!</value>
+  </data>
+  <data name="lbWe are a leading" xml:space="preserve">
+    <value>نحن شركة رائدة في تقديم خدمات الاستشارات التقنية لبدء التشغيل للشركات الناشئة الممولة. تجعلنا الحلول التقنية الرائدة في إنترنت الأشياء ، والذكاء الاصطناعي ، وتحليل البيانات ، والخبرة في مجالات صناعية متعددة ، شريكًا استشاريًا موثوقًا لبدء التشغيل.</value>
+  </data>
+  <data name="lbWe Build Products" xml:space="preserve">
+    <value>نحن نصنع المنتجات</value>
+  </data>
+  <data name="lbWe companies" xml:space="preserve">
+    <value>نحن نساعد الشركات على بناء قدرات تقنية جديدة ، وتحسين علاقات المستخدمين ، ودخول أسواق عالمية جديدة من خلال خدمات تطوير تطبيقات iOS للجوال المخصصة في مصر. يقوم مطورو iOS الذين تم فحصهم بإنشاء تعليمات برمجية نظيفة وقابلة للتطوير داخل الشركة وتوفير الصيانة والدعم الشخصيين.</value>
+  </data>
+  <data name="lbWe create powerful" xml:space="preserve">
+    <value>نقوم بإنشاء تجارب رقمية قوية وجميلة وسلسة وقابلة للتطوير مع مصممي الويب المحترفين لدينا. يبني حل التصميم الخاص بنا الثقة والثقة في صورة علامتك التجارية وقيمتك ويميزك عن المنافسين</value>
+  </data>
+  <data name="lbWe have" xml:space="preserve">
+    <value>لقد قمنا بتطوير تطبيقات الويب لمتطلبات الأعمال المخصصة</value>
+  </data>
+  <data name="lbWe help companies" xml:space="preserve">
+    <value>نحن نساعد الشركات على القدرة على بناء تقنيات جديدة ، ودخول أسواق عالمية جديدة من خلال خدمات تطوير
+تطبيقات الهواتف المحموله بال React Native</value>
+  </data>
+  <data name="lbWe rely" xml:space="preserve">
+    <value>نعتمد على الأخلاق المرنة والمرنة لمواصلة دعم العلامات التجارية بعد الإطلاق من خلال ترقيات المنتجات وحلول التسويق الرقمي.</value>
+  </data>
+  <data name="lbWe Support" xml:space="preserve">
+    <value>نحن ندعم</value>
+  </data>
+  <data name="lbWe Transform Brands" xml:space="preserve">
+    <value>نحن نغير العلامات التجارية</value>
+  </data>
+  <data name="lbweare" xml:space="preserve">
+    <value>نحن وكالة تسويق رقمية متكاملة الخدمات ؛ من تحسين ترتيب محرك البحث إلى
+                                        تحليل التحويل ، يتولى فريق التسويق الرقمي الخبير لدينا كل شيء. ابحث عن رقمك الرقمي
+                                        أخصائي تسويق بين فريقنا اليوم!</value>
+  </data>
+  <data name="lbWEBSITE AUDIT" xml:space="preserve">
+    <value>تدقيق الموقع</value>
+  </data>
+  <data name="lbWebsite Design" xml:space="preserve">
+    <value>تصميم الموقع</value>
+  </data>
+  <data name="lbWebsite Development" xml:space="preserve">
+    <value>تطوير مواقع الويب</value>
+  </data>
+  <data name="lbWhat We Do" xml:space="preserve">
+    <value>ما الذي نقوم به</value>
+  </data>
+  <data name="lbWhat We've Done" xml:space="preserve">
+    <value>اعمالنا</value>
+  </data>
+  <data name="lbWhy Choose Us" xml:space="preserve">
+    <value>لماذا أخترتنا</value>
+  </data>
+  <data name="lbWORK HOURS" xml:space="preserve">
+    <value>ساعات العمل</value>
+  </data>
+  <data name="lbYEARS OF EXPERIENCE" xml:space="preserve">
+    <value>سنوات من الخبرة</value>
+  </data>
+  <data name="lbYour business knowledge" xml:space="preserve">
+    <value>تتحد معرفتك التجارية وفطنتنا التكنولوجية مع المنهجيات المثبتة لتحويل أفكار العمل إلى كود جميل.</value>
+  </data>
+  <data name="lbYour trusted" xml:space="preserve">
+    <value>شريكك الموثوق به والمبتكر في تطوير المنتجات الرقمية من الدرجة الأولى.</value>
+  </data>
+</root>

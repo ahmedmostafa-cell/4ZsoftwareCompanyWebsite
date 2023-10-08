@@ -1,0 +1,1548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lbAboutSite" xml:space="preserve">
+    <value>نبذة عن الموقع</value>
+  </data>
+  <data name="lbActivateAccount" xml:space="preserve">
+    <value>تفعيل الحساب</value>
+  </data>
+  <data name="lbActive" xml:space="preserve">
+    <value>مفعل</value>
+  </data>
+  <data name="lbActiveStatus" xml:space="preserve">
+    <value>حالة التفعيل</value>
+  </data>
+  <data name="lbAdd" xml:space="preserve">
+    <value>تم اضافة عدد </value>
+  </data>
+  <data name="lbAddress" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="lbAddress1" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="lbAddToCourseMember" xml:space="preserve">
+    <value>اشترك الان</value>
+  </data>
+  <data name="lbAdminPanel" xml:space="preserve">
+    <value> لوحة التحكم</value>
+  </data>
+  <data name="lbAdsData" xml:space="preserve">
+    <value>بيانات الوسيلة الاعلانيه</value>
+  </data>
+  <data name="lbAdsMethod" xml:space="preserve">
+    <value>الوسيلة الاعلانيه</value>
+  </data>
+  <data name="lbAdsMethods" xml:space="preserve">
+    <value>الوسائل الاعلانيه</value>
+  </data>
+  <data name="lbAdsMethodsList" xml:space="preserve">
+    <value>قائمة الوسائل الاعلانيه</value>
+  </data>
+  <data name="lbAll" xml:space="preserve">
+    <value>كل العملاء</value>
+  </data>
+  <data name="lbAnswer" xml:space="preserve">
+    <value>الإجابة</value>
+  </data>
+  <data name="lbApprove" xml:space="preserve">
+    <value>اعتماد التقييم</value>
+  </data>
+  <data name="lbarticle" xml:space="preserve">
+    <value>عنوان المقال</value>
+  </data>
+  <data name="lbArticleData" xml:space="preserve">
+    <value>بيانات المقال</value>
+  </data>
+  <data name="lbArticleDetails" xml:space="preserve">
+    <value>تفاصيل المقال</value>
+  </data>
+  <data name="lbArticleDetailsData" xml:space="preserve">
+    <value>بيانات تفاصيل المقال</value>
+  </data>
+  <data name="lbArticleDetailsList" xml:space="preserve">
+    <value>قائمة تفاصيل المقال</value>
+  </data>
+  <data name="lbArticles" xml:space="preserve">
+    <value>المقالات</value>
+  </data>
+  <data name="lbArticlesDetails" xml:space="preserve">
+    <value>تفاصيل المقالات</value>
+  </data>
+  <data name="lbArticlesMedia" xml:space="preserve">
+    <value>وسائط المقالات</value>
+  </data>
+  <data name="lbAttachements" xml:space="preserve">
+    <value>الملحقات</value>
+  </data>
+  <data name="lbAvailable" xml:space="preserve">
+    <value>المتاحة</value>
+  </data>
+  <data name="lbBackToList" xml:space="preserve">
+    <value>الذهاب الي القائمة</value>
+  </data>
+  <data name="lbBackToList1" xml:space="preserve">
+    <value>الذهاب الي القائمة</value>
+  </data>
+  <data name="lbBlogCategories" xml:space="preserve">
+    <value>اقسام الفيديوهات</value>
+  </data>
+  <data name="lbBlogCategoriesList" xml:space="preserve">
+    <value>قائمة اقسام الفيديوهات</value>
+  </data>
+  <data name="lbBlogCategoryData" xml:space="preserve">
+    <value>بيات القسم</value>
+  </data>
+  <data name="lbBlogMedia" xml:space="preserve">
+    <value>الفيديوهات</value>
+  </data>
+  <data name="lbBlogMediaData" xml:space="preserve">
+    <value>بيانات الفيديو</value>
+  </data>
+  <data name="lbBlogMediaList" xml:space="preserve">
+    <value>قائمة الفيديوهات</value>
+  </data>
+  <data name="lbBookingPrice" xml:space="preserve">
+    <value>سعر الحجز</value>
+  </data>
+  <data name="lbBookNow" xml:space="preserve">
+    <value>اشترك الآن</value>
+  </data>
+  <data name="lbCancel" xml:space="preserve">
+    <value>إغلاق</value>
+  </data>
+  <data name="lbCategory" xml:space="preserve">
+    <value>القسم</value>
+  </data>
+  <data name="lbCategoryCode" xml:space="preserve">
+    <value>كود النوع</value>
+  </data>
+  <data name="lbCategoryParent" xml:space="preserve">
+    <value>اسم القسم الرئيسي</value>
+  </data>
+  <data name="lbCertificate" xml:space="preserve">
+    <value>تاريخ التدريب والشهادات الخاصه</value>
+  </data>
+  <data name="lbChoose" xml:space="preserve">
+    <value>إختر</value>
+  </data>
+  <data name="lbChoose1" xml:space="preserve">
+    <value>إختر</value>
+  </data>
+  <data name="lbChooseIcon" xml:space="preserve">
+    <value>اختار ايقونه من هنا</value>
+  </data>
+  <data name="lbChooseImage" xml:space="preserve">
+    <value>اختر صورة </value>
+  </data>
+  <data name="lbColumns" xml:space="preserve">
+    <value>الاعمدة</value>
+  </data>
+  <data name="lbComment" xml:space="preserve">
+    <value>التعليق</value>
+  </data>
+  <data name="lbConfirmDeleting" xml:space="preserve">
+    <value>تأكيد الحذف!</value>
+  </data>
+  <data name="lbConfirmDeleting1" xml:space="preserve">
+    <value>تأكيد الحذف!</value>
+  </data>
+  <data name="lbcontactInfo" xml:space="preserve">
+    <value>بيانات الاتصال</value>
+  </data>
+  <data name="lbContactUs" xml:space="preserve">
+    <value>اتصل بنا</value>
+  </data>
+  <data name="lbContactUs1" xml:space="preserve">
+    <value>اتصل بنا</value>
+  </data>
+  <data name="lbControlButtons" xml:space="preserve">
+    <value>أزرار التحكم</value>
+  </data>
+  <data name="lbControlButtons1" xml:space="preserve">
+    <value>أزرار التحكم</value>
+  </data>
+  <data name="lbControlPanel" xml:space="preserve">
+    <value>لوحة التحكم</value>
+  </data>
+  <data name="lbCountry" xml:space="preserve">
+    <value>الدولة</value>
+  </data>
+  <data name="lbCountryCode" xml:space="preserve">
+    <value>مفتاح البلد</value>
+  </data>
+  <data name="lbCourse" xml:space="preserve">
+    <value>الكورس</value>
+  </data>
+  <data name="lbCourseCategories" xml:space="preserve">
+    <value>أقسام الكورسات</value>
+  </data>
+  <data name="lbCourseCategoriesList" xml:space="preserve">
+    <value>قائمة أقسام الكورسات</value>
+  </data>
+  <data name="lbCourseCategory" xml:space="preserve">
+    <value>نوع الكورس</value>
+  </data>
+  <data name="lbCourseCode" xml:space="preserve">
+    <value>كود الكورس</value>
+  </data>
+  <data name="lbCourseDetails" xml:space="preserve">
+    <value>تفاصيل الكورس</value>
+  </data>
+  <data name="lbCourseFeatures" xml:space="preserve">
+    <value>مميزات الكورس</value>
+  </data>
+  <data name="lbcourseLeads" xml:space="preserve">
+    <value>عملاء كورسات محتملين</value>
+  </data>
+  <data name="lbcourseLeadsList" xml:space="preserve">
+    <value>قائمة عملاء كورسات محتملين</value>
+  </data>
+  <data name="lbCourseLinks" xml:space="preserve">
+    <value>روابط الكورسات</value>
+  </data>
+  <data name="lbcourseMember" xml:space="preserve">
+    <value>مشترك بالكورس؟</value>
+  </data>
+  <data name="lbCoursePrise" xml:space="preserve">
+    <value>سعر الكورس</value>
+  </data>
+  <data name="lbCourses" xml:space="preserve">
+    <value>الكورسات</value>
+  </data>
+  <data name="lbCoursesData" xml:space="preserve">
+    <value>بيانات الكورسات</value>
+  </data>
+  <data name="lbCoursesList" xml:space="preserve">
+    <value>قائمة الكورسات</value>
+  </data>
+  <data name="lbCoursesPageTitle" xml:space="preserve">
+    <value>خطوه بخطوه هنساعدك توصل لهدفك وتبنى جسمك بطريقه صحيه مفيده</value>
+  </data>
+  <data name="lbCreatedDate" xml:space="preserve">
+    <value>تاريخ الاضافة</value>
+  </data>
+  <data name="lbcustomers" xml:space="preserve">
+    <value>عملائنا</value>
+  </data>
+  <data name="lbDateOfBirth" xml:space="preserve">
+    <value>تاريخ الميلاد</value>
+  </data>
+  <data name="lbDbColumn" xml:space="preserve">
+    <value>ما يقابله</value>
+  </data>
+  <data name="lbDegreeOfInterest" xml:space="preserve">
+    <value>درجة الاهتمام</value>
+  </data>
+  <data name="lbDelete" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="lbDelete1" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="lbDepartmentName" xml:space="preserve">
+    <value>اسم القسم</value>
+  </data>
+  <data name="lbDepartmentOrder" xml:space="preserve">
+    <value>ترتيب القسم</value>
+  </data>
+  <data name="lbDepartments" xml:space="preserve">
+    <value>أقسام الصفحات</value>
+  </data>
+  <data name="lbDescription" xml:space="preserve">
+    <value>الوصف</value>
+  </data>
+  <data name="lbDescriptionAr" xml:space="preserve">
+    <value>الوصف عربي</value>
+  </data>
+  <data name="lbDescriptionEn" xml:space="preserve">
+    <value>الوصف انجليزي</value>
+  </data>
+  <data name="lbDetails" xml:space="preserve">
+    <value>تفاصيل</value>
+  </data>
+  <data name="lbDetails1" xml:space="preserve">
+    <value>تفاصيل</value>
+  </data>
+  <data name="lbDetalis" xml:space="preserve">
+    <value>تفاصيل</value>
+  </data>
+  <data name="lbDiscount" xml:space="preserve">
+    <value>الخصم</value>
+  </data>
+  <data name="lbDiscountPercent" xml:space="preserve">
+    <value>نسبة الخصم</value>
+  </data>
+  <data name="lbDiscounts" xml:space="preserve">
+    <value>الخصومات</value>
+  </data>
+  <data name="lbEdit" xml:space="preserve">
+    <value>تعديل</value>
+  </data>
+  <data name="lbEdit1" xml:space="preserve">
+    <value>تعديل</value>
+  </data>
+  <data name="lbEmail" xml:space="preserve">
+    <value>البريد الالكتروني</value>
+  </data>
+  <data name="lbEmail1" xml:space="preserve">
+    <value>البريد الالكتروني</value>
+  </data>
+  <data name="lbEmailTemplates" xml:space="preserve">
+    <value>قوالب الرسائل</value>
+  </data>
+  <data name="lbEveryone" xml:space="preserve">
+    <value>مجاني</value>
+  </data>
+  <data name="lbExcelColumn" xml:space="preserve">
+    <value>اسم العمود</value>
+  </data>
+  <data name="lbFacebook" xml:space="preserve">
+    <value>فيسبوك</value>
+  </data>
+  <data name="lbFacebook1" xml:space="preserve">
+    <value>فيسبوك</value>
+  </data>
+  <data name="lbFAQ" xml:space="preserve">
+    <value>الأسئلة الشائعه</value>
+  </data>
+  <data name="lbfaqdata" xml:space="preserve">
+    <value>بيانات السؤال</value>
+  </data>
+  <data name="lbFAQsAdd" xml:space="preserve">
+    <value>اضافة / تعديل سؤال</value>
+  </data>
+  <data name="lbFeatureChoose" xml:space="preserve">
+    <value>تختارنا</value>
+  </data>
+  <data name="lbFeatures" xml:space="preserve">
+    <value>مميزات الكورس</value>
+  </data>
+  <data name="lbFeatureWhy" xml:space="preserve">
+    <value>ليه</value>
+  </data>
+  <data name="lbfile" xml:space="preserve">
+    <value>الملف</value>
+  </data>
+  <data name="lbFilePath" xml:space="preserve">
+    <value>مسار الملف</value>
+  </data>
+  <data name="lbFileType" xml:space="preserve">
+    <value>نوع الملف</value>
+  </data>
+  <data name="lbFirstName" xml:space="preserve">
+    <value>الاسم الاول</value>
+  </data>
+  <data name="lbFirstName1" xml:space="preserve">
+    <value>الاسم الاول</value>
+  </data>
+  <data name="lbFree" xml:space="preserve">
+    <value>مجانى</value>
+  </data>
+  <data name="lbFromEgypt" xml:space="preserve">
+    <value>مصر</value>
+  </data>
+  <data name="lbFullName" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="lbFullName1" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="lbGooglePlus" xml:space="preserve">
+    <value>جوجل بلس</value>
+  </data>
+  <data name="lbGoToList" xml:space="preserve">
+    <value>الذهاب الي القائمة</value>
+  </data>
+  <data name="lbHidden" xml:space="preserve">
+    <value>إخفاء</value>
+  </data>
+  <data name="lbHighlyInterested" xml:space="preserve">
+    <value>مهتم جدا</value>
+  </data>
+  <data name="lbHomePage" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="lbHomePage1" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="lbIcon" xml:space="preserve">
+    <value>الايقونة</value>
+  </data>
+  <data name="lbIinks" xml:space="preserve">
+    <value>روابط هامه</value>
+  </data>
+  <data name="lbImage" xml:space="preserve">
+    <value>صورة</value>
+  </data>
+  <data name="lbImage1" xml:space="preserve">
+    <value>صورة</value>
+  </data>
+  <data name="lbImageOrder" xml:space="preserve">
+    <value>ترتيب الصوره</value>
+  </data>
+  <data name="lbImagePath" xml:space="preserve">
+    <value>الصورة</value>
+  </data>
+  <data name="lbImagePath1" xml:space="preserve">
+    <value>الصورة</value>
+  </data>
+  <data name="lbImages" xml:space="preserve">
+    <value>الصور</value>
+  </data>
+  <data name="lbInCourse" xml:space="preserve">
+    <value>فى كورس</value>
+  </data>
+  <data name="lbInstagram" xml:space="preserve">
+    <value>إنستجرام</value>
+  </data>
+  <data name="lbInstagram1" xml:space="preserve">
+    <value>إنستجرام</value>
+  </data>
+  <data name="lbInstructor" xml:space="preserve">
+    <value>المدرب</value>
+  </data>
+  <data name="lbInstructorImage" xml:space="preserve">
+    <value>صورة المدرب</value>
+  </data>
+  <data name="lbInstructors" xml:space="preserve">
+    <value>المدربين</value>
+  </data>
+  <data name="lbInstructorsList" xml:space="preserve">
+    <value>قائمة المدربين</value>
+  </data>
+  <data name="lbInterested" xml:space="preserve">
+    <value>مهتم</value>
+  </data>
+  <data name="lbIsCourseMember" xml:space="preserve">
+    <value>مشترك بالفعل</value>
+  </data>
+  <data name="lbIsDefault" xml:space="preserve">
+    <value>الصورة رئيسية</value>
+  </data>
+  <data name="lbIsExternalLink" xml:space="preserve">
+    <value>رابط خارجي؟</value>
+  </data>
+  <data name="lbIsHeader" xml:space="preserve">
+    <value>صورة الهيدر</value>
+  </data>
+  <data name="lbJob" xml:space="preserve">
+    <value>الوظيفة</value>
+  </data>
+  <data name="lbJoinDate" xml:space="preserve">
+    <value>تاريخ الانضمام</value>
+  </data>
+  <data name="lbJoined" xml:space="preserve">
+    <value>مشترك بالفعل</value>
+  </data>
+  <data name="lbKnowMore" xml:space="preserve">
+    <value>اعرف عن</value>
+  </data>
+  <data name="lbLastName" xml:space="preserve">
+    <value>الاسم الاخير</value>
+  </data>
+  <data name="lbLastName1" xml:space="preserve">
+    <value>الاسم الاخير</value>
+  </data>
+  <data name="lbLatest" xml:space="preserve">
+    <value>اخر</value>
+  </data>
+  <data name="lbLatestNews" xml:space="preserve">
+    <value>اخر الاخبار</value>
+  </data>
+  <data name="lbLeadCategory" xml:space="preserve">
+    <value>تصنيفات العملاء</value>
+  </data>
+  <data name="lbLeadCategoryData" xml:space="preserve">
+    <value>بيانات التصنيف</value>
+  </data>
+  <data name="lbLeadCategoryList" xml:space="preserve">
+    <value>قائمة تصنيفات العملاء</value>
+  </data>
+  <data name="lbLeadData" xml:space="preserve">
+    <value>بيانات العميل المحتمل</value>
+  </data>
+  <data name="lbLeadExists" xml:space="preserve">
+    <value>رقم التليفون مسجل من قبل</value>
+  </data>
+  <data name="lbLeadName" xml:space="preserve">
+    <value>اسم العميل</value>
+  </data>
+  <data name="lbLeads" xml:space="preserve">
+    <value>العملاء المحتملين</value>
+  </data>
+  <data name="lbLeadsList" xml:space="preserve">
+    <value>قائمة العملاء المحتملين</value>
+  </data>
+  <data name="lbleadtrack" xml:space="preserve">
+    <value>متابعة العميل</value>
+  </data>
+  <data name="lbLeadTrackingList" xml:space="preserve">
+    <value>قائمة متابعة العميل</value>
+  </data>
+  <data name="lbLeadType" xml:space="preserve">
+    <value>نوع العملاء</value>
+  </data>
+  <data name="lbLeave" xml:space="preserve">
+    <value>اترك</value>
+  </data>
+  <data name="lbLeaveReview" xml:space="preserve">
+    <value>اترك تقييما</value>
+  </data>
+  <data name="lbLink" xml:space="preserve">
+    <value>الرابط</value>
+  </data>
+  <data name="lbLinkedin" xml:space="preserve">
+    <value>لينكد ان</value>
+  </data>
+  <data name="lbLinks" xml:space="preserve">
+    <value>لينكات هامه</value>
+  </data>
+  <data name="lbLocationUrl" xml:space="preserve">
+    <value>رابط العنوان</value>
+  </data>
+  <data name="lbLogin" xml:space="preserve">
+    <value>تسجيل الدخول</value>
+  </data>
+  <data name="lbLogin1" xml:space="preserve">
+    <value>تسجيل الدخول</value>
+  </data>
+  <data name="lbLogo" xml:space="preserve">
+    <value>اللوجو</value>
+  </data>
+  <data name="lbLogo1" xml:space="preserve">
+    <value>اللوجو</value>
+  </data>
+  <data name="lbLogout" xml:space="preserve">
+    <value>تسجيل خروج</value>
+  </data>
+  <data name="lbLogout1" xml:space="preserve">
+    <value>تسجيل خروج</value>
+  </data>
+  <data name="lbMainCategory" xml:space="preserve">
+    <value>النوع الرئيسي</value>
+  </data>
+  <data name="lbMainImage" xml:space="preserve">
+    <value>الصورة الرئيسية</value>
+  </data>
+  <data name="lbMainVideo" xml:space="preserve">
+    <value>فيديو الصفحة الرئيسية</value>
+  </data>
+  <data name="lbMarketerData" xml:space="preserve">
+    <value>بيانات المسوق</value>
+  </data>
+  <data name="lbMarketerList" xml:space="preserve">
+    <value>قائمة المسوقين</value>
+  </data>
+  <data name="lbMarketerLog" xml:space="preserve">
+    <value>السجل</value>
+  </data>
+  <data name="lbMarketers" xml:space="preserve">
+    <value>المسوقين</value>
+  </data>
+  <data name="lbMedia" xml:space="preserve">
+    <value>وسائط الكورسات</value>
+  </data>
+  <data name="lbMediaList" xml:space="preserve">
+    <value>الوسائط</value>
+  </data>
+  <data name="lbMediaType" xml:space="preserve">
+    <value>نوع الوسائط</value>
+  </data>
+  <data name="lbMember" xml:space="preserve">
+    <value>العضو</value>
+  </data>
+  <data name="lbMemberReviews" xml:space="preserve">
+    <value>ماذا يقال عنا</value>
+  </data>
+  <data name="lbMembers" xml:space="preserve">
+    <value>الاعضاء</value>
+  </data>
+  <data name="lbMemberShips" xml:space="preserve">
+    <value>عضويات الكورسات</value>
+  </data>
+  <data name="lbMembersRegisteredInCourse" xml:space="preserve">
+    <value>الاعضاء المسجلين في كورس:-</value>
+  </data>
+  <data name="lbMessageBody" xml:space="preserve">
+    <value>محتوى الرسالة</value>
+  </data>
+  <data name="lbMessageTitle" xml:space="preserve">
+    <value>عنوان الرسالة</value>
+  </data>
+  <data name="lbMetaContent" xml:space="preserve">
+    <value>محتوى محرك البحث</value>
+  </data>
+  <data name="lbMetaDescription" xml:space="preserve">
+    <value>وصف محرك البحث</value>
+  </data>
+  <data name="lbMetaTags" xml:space="preserve">
+    <value>الكلمات الدلالية </value>
+  </data>
+  <data name="lbMetaTags1" xml:space="preserve">
+    <value>الكلمات الدلالية </value>
+  </data>
+  <data name="lbMiddle" xml:space="preserve">
+    <value>متوسط الاهتمام</value>
+  </data>
+  <data name="lbMobileNumber" xml:space="preserve">
+    <value>رقم الهاتف</value>
+  </data>
+  <data name="lbMobileNumber1" xml:space="preserve">
+    <value>رقم الهاتف</value>
+  </data>
+  <data name="lbmodule" xml:space="preserve">
+    <value>الوحدة</value>
+  </data>
+  <data name="lbModuleData" xml:space="preserve">
+    <value>بيانات الوحده</value>
+  </data>
+  <data name="lbModules" xml:space="preserve">
+    <value>الوحدات</value>
+  </data>
+  <data name="lbModulesList" xml:space="preserve">
+    <value>قائمة الوحدات</value>
+  </data>
+  <data name="lbMoreArticles" xml:space="preserve">
+    <value>المزيد من المقالات</value>
+  </data>
+  <data name="lbMoreCourses" xml:space="preserve">
+    <value>المزيد من الكورسات</value>
+  </data>
+  <data name="lbMoreInfo" xml:space="preserve">
+    <value>عرض تفاصيل</value>
+  </data>
+  <data name="lbMoreInfo1" xml:space="preserve">
+    <value>عرض التفاصيل</value>
+  </data>
+  <data name="lbMsgfrom" xml:space="preserve">
+    <value>رسالة من :</value>
+  </data>
+  <data name="lbMyAccount" xml:space="preserve">
+    <value>حسابي</value>
+  </data>
+  <data name="lbMyCourses" xml:space="preserve">
+    <value>كورساتي</value>
+  </data>
+  <data name="lbNameAr" xml:space="preserve">
+    <value>الاسم عربي</value>
+  </data>
+  <data name="lbNameEn" xml:space="preserve">
+    <value>الاسم انجليزي</value>
+  </data>
+  <data name="lbNew" xml:space="preserve">
+    <value>جديد</value>
+  </data>
+  <data name="lbNew1" xml:space="preserve">
+    <value>جديد</value>
+  </data>
+  <data name="lbNewMember" xml:space="preserve">
+    <value>عضو جديد</value>
+  </data>
+  <data name="lbNews" xml:space="preserve">
+    <value>اخر الاخبار</value>
+  </data>
+  <data name="lbnNewsLetter" xml:space="preserve">
+    <value>القوائم البريدية</value>
+  </data>
+  <data name="lbNo" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="lbNo1" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="lbNoReply" xml:space="preserve">
+    <value>لم يرد</value>
+  </data>
+  <data name="lbNotActive" xml:space="preserve">
+    <value>غير مفعل</value>
+  </data>
+  <data name="lbNotCategoriezed" xml:space="preserve">
+    <value>غير مصنف</value>
+  </data>
+  <data name="lbNotes" xml:space="preserve">
+    <value>ملاحظات</value>
+  </data>
+  <data name="lbNotInterested" xml:space="preserve">
+    <value>غير مهتم</value>
+  </data>
+  <data name="lbNotVerfiedOnly" xml:space="preserve">
+    <value>الغير مفعلين</value>
+  </data>
+  <data name="lbOffer" xml:space="preserve">
+    <value>العرض</value>
+  </data>
+  <data name="lbOfferData" xml:space="preserve">
+    <value>بيانات العرض</value>
+  </data>
+  <data name="lbOfferLeads" xml:space="preserve">
+    <value>المهتمين بالعروض</value>
+  </data>
+  <data name="lbOfferLeadsList" xml:space="preserve">
+    <value>قائمة المهتمين بالعروض</value>
+  </data>
+  <data name="lbOffers" xml:space="preserve">
+    <value>العروض</value>
+  </data>
+  <data name="lbOffersList" xml:space="preserve">
+    <value>قائمة العروض</value>
+  </data>
+  <data name="lbOperationDate" xml:space="preserve">
+    <value>تاريخ العمليه</value>
+  </data>
+  <data name="lbOrder" xml:space="preserve">
+    <value>الترتيب</value>
+  </data>
+  <data name="lbOrder1" xml:space="preserve">
+    <value>الترتيب</value>
+  </data>
+  <data name="lbOther" xml:space="preserve">
+    <value>اخري</value>
+  </data>
+  <data name="lbOther1" xml:space="preserve">
+    <value>اخري</value>
+  </data>
+  <data name="lbOurPartners" xml:space="preserve">
+    <value>الشركاء</value>
+  </data>
+  <data name="lbOurWork" xml:space="preserve">
+    <value>الأعمال</value>
+  </data>
+  <data name="lbOutsideEgypt" xml:space="preserve">
+    <value>خارج مصر</value>
+  </data>
+  <data name="lbPage" xml:space="preserve">
+    <value>بيانات الصفحه</value>
+  </data>
+  <data name="lbPageAdd" xml:space="preserve">
+    <value>اضافة صفحة</value>
+  </data>
+  <data name="lbPageContent" xml:space="preserve">
+    <value>محتوى الصفحة</value>
+  </data>
+  <data name="lbPageDepartment" xml:space="preserve">
+    <value>بيانات القسم</value>
+  </data>
+  <data name="lbPageDetails" xml:space="preserve">
+    <value>بيانات الصفحة</value>
+  </data>
+  <data name="lbPageDetails1" xml:space="preserve">
+    <value>بيانات الصفحة</value>
+  </data>
+  <data name="lbPageEdit" xml:space="preserve">
+    <value>تعديل بيانات الصفحه</value>
+  </data>
+  <data name="lbPageEdit1" xml:space="preserve">
+    <value>تعديل بيانات الصفحه</value>
+  </data>
+  <data name="lbPageOrder" xml:space="preserve">
+    <value>ترتيب الصفحة</value>
+  </data>
+  <data name="lbPageOrder1" xml:space="preserve">
+    <value>ترتيب الصفحة</value>
+  </data>
+  <data name="lbPages" xml:space="preserve">
+    <value>الصفحات</value>
+  </data>
+  <data name="lbPages1" xml:space="preserve">
+    <value>الصفحات</value>
+  </data>
+  <data name="lbPagesList" xml:space="preserve">
+    <value>قائمة الصفحات</value>
+  </data>
+  <data name="lbPagesList1" xml:space="preserve">
+    <value>قائمة الصفحات</value>
+  </data>
+  <data name="lbPagetitle" xml:space="preserve">
+    <value>اسم الصفحة</value>
+  </data>
+  <data name="lbPagetitle1" xml:space="preserve">
+    <value>اسم الصفحة</value>
+  </data>
+  <data name="lbParagraphOrder" xml:space="preserve">
+    <value>ترتيب الفقرة</value>
+  </data>
+  <data name="lbParentCategoryCode" xml:space="preserve">
+    <value>كود النوع التابع له</value>
+  </data>
+  <data name="lbPassword" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="lbPassword1" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="lbPasswordConfirm" xml:space="preserve">
+    <value>تأكيد كلمة المرور</value>
+  </data>
+  <data name="lbPasswordConfirm1" xml:space="preserve">
+    <value>تأكيد كلمة المرور</value>
+  </data>
+  <data name="lbPaymentArea" xml:space="preserve">
+    <value>منطقة الدفع</value>
+  </data>
+  <data name="lbPaymentDate" xml:space="preserve">
+    <value>تاريخ الدفع</value>
+  </data>
+  <data name="lbPaymentDetails" xml:space="preserve">
+    <value>بيانات طريقة الدفع</value>
+  </data>
+  <data name="lbPaymentLink" xml:space="preserve">
+    <value>رابط الدفع</value>
+  </data>
+  <data name="lbPaymentMethod" xml:space="preserve">
+    <value>طريقة الدفع</value>
+  </data>
+  <data name="lbPayments" xml:space="preserve">
+    <value>المدفوعات</value>
+  </data>
+  <data name="lbPaymentValue" xml:space="preserve">
+    <value>المبلغ</value>
+  </data>
+  <data name="lbPhone" xml:space="preserve">
+    <value>رقم التليفون</value>
+  </data>
+  <data name="lbPhone1" xml:space="preserve">
+    <value>رقم التليفون</value>
+  </data>
+  <data name="lbPlayer" xml:space="preserve">
+    <value>مشغل الفديو</value>
+  </data>
+  <data name="lbPlayersList" xml:space="preserve">
+    <value>مشغلات الفديو</value>
+  </data>
+  <data name="lbPortfolioData" xml:space="preserve">
+    <value>بيانات الأعمال</value>
+  </data>
+  <data name="lbPrice" xml:space="preserve">
+    <value>السعر</value>
+  </data>
+  <data name="lbPrograms" xml:space="preserve">
+    <value>الكورسات</value>
+  </data>
+  <data name="lbPromoCode" xml:space="preserve">
+    <value>كود الخصم</value>
+  </data>
+  <data name="lbPromoLink" xml:space="preserve">
+    <value>رابط الخصم</value>
+  </data>
+  <data name="lbQuestion" xml:space="preserve">
+    <value>السؤال</value>
+  </data>
+  <data name="lbRate" xml:space="preserve">
+    <value>التقييم</value>
+  </data>
+  <data name="lbReadMore" xml:space="preserve">
+    <value>قراءة المزيد</value>
+  </data>
+  <data name="lbReadMoreArticles" xml:space="preserve">
+    <value>المزيد من المقالات</value>
+  </data>
+  <data name="lbRecallDate" xml:space="preserve">
+    <value>تاريخ اعادة الاتصال</value>
+  </data>
+  <data name="lbReferToLead" xml:space="preserve">
+    <value>تسجيل بدون حساب</value>
+  </data>
+  <data name="lbRegister" xml:space="preserve">
+    <value>تسجيل</value>
+  </data>
+  <data name="lbRegisterClient" xml:space="preserve">
+    <value>تسجيل</value>
+  </data>
+  <data name="lbRemainingAmount" xml:space="preserve">
+    <value>المتبقي</value>
+  </data>
+  <data name="lbResendActivation" xml:space="preserve">
+    <value>ارسال التفعيل</value>
+  </data>
+  <data name="lbReview" xml:space="preserve">
+    <value>التقييمات</value>
+  </data>
+  <data name="lbReviews" xml:space="preserve">
+    <value>التقييمات</value>
+  </data>
+  <data name="lbReviewtitle" xml:space="preserve">
+    <value>تقييم</value>
+  </data>
+  <data name="lbSave" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="lbSave1" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="lbSaveAndNew" xml:space="preserve">
+    <value>حفظ و جديد</value>
+  </data>
+  <data name="lbSaveAndNew1" xml:space="preserve">
+    <value>حفظ و جديد</value>
+  </data>
+  <data name="lbSearch" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="lbSearch1" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="lbSelectImage" xml:space="preserve">
+    <value>اختر صورة</value>
+  </data>
+  <data name="lbSelectVedioPlayer" xml:space="preserve">
+    <value>احتر مشغل الفديو</value>
+  </data>
+  <data name="lbSend" xml:space="preserve">
+    <value>ارسل</value>
+  </data>
+  <data name="lbSendActivation" xml:space="preserve">
+    <value>ارسال التفعيل</value>
+  </data>
+  <data name="lbSendAndNew" xml:space="preserve">
+    <value>ارسال وجديد</value>
+  </data>
+  <data name="lbSendEmail" xml:space="preserve">
+    <value>ارسال رسالة</value>
+  </data>
+  <data name="lbSendleadMessage" xml:space="preserve">
+    <value>التواصل مع العملاء</value>
+  </data>
+  <data name="lbSendNews" xml:space="preserve">
+    <value>ارسال بريد بأخر الاخبار</value>
+  </data>
+  <data name="lbServiceData" xml:space="preserve">
+    <value>بيانات الخدمة</value>
+  </data>
+  <data name="lbServices" xml:space="preserve">
+    <value>الخدمات</value>
+  </data>
+  <data name="lbServices1" xml:space="preserve">
+    <value>الخدمات</value>
+  </data>
+  <data name="lbServicesList" xml:space="preserve">
+    <value>قائمة الخدمات</value>
+  </data>
+  <data name="lbSettings" xml:space="preserve">
+    <value>إعدادات الموقع</value>
+  </data>
+  <data name="lbSettings1" xml:space="preserve">
+    <value>إعدادات الموقع</value>
+  </data>
+  <data name="lbSettingsAdd" xml:space="preserve">
+    <value>بيانات الموقع</value>
+  </data>
+  <data name="lbSettingsAdd1" xml:space="preserve">
+    <value>بيانات الموقع</value>
+  </data>
+  <data name="lbSettingsList" xml:space="preserve">
+    <value>قائمة الاعدادات</value>
+  </data>
+  <data name="lbSettingsList1" xml:space="preserve">
+    <value>قائمة الاعدادات</value>
+  </data>
+  <data name="lbSettingsMenu" xml:space="preserve">
+    <value>الاعدادات</value>
+  </data>
+  <data name="lbSettingsMenu1" xml:space="preserve">
+    <value>الاعدادات</value>
+  </data>
+  <data name="lbShortDes" xml:space="preserve">
+    <value>الوصف قصير</value>
+  </data>
+  <data name="lbShortDes1" xml:space="preserve">
+    <value>الوصف قصير</value>
+  </data>
+  <data name="lbShortDesAr" xml:space="preserve">
+    <value>الوصف القصير</value>
+  </data>
+  <data name="lbShortDesAr1" xml:space="preserve">
+    <value>الوصف القصير عربي</value>
+  </data>
+  <data name="lbShortDescription" xml:space="preserve">
+    <value>وصف قصير</value>
+  </data>
+  <data name="lbShortDesEn" xml:space="preserve">
+    <value>الوصف القصير انجليزي</value>
+  </data>
+  <data name="lbShow" xml:space="preserve">
+    <value>إظهار</value>
+  </data>
+  <data name="lbShow1" xml:space="preserve">
+    <value>إظهار</value>
+  </data>
+  <data name="lbShowAll" xml:space="preserve">
+    <value>إظهار الكل</value>
+  </data>
+  <data name="lbShowDes" xml:space="preserve">
+    <value>إظهار الوصف</value>
+  </data>
+  <data name="lbShowDes1" xml:space="preserve">
+    <value>إظهار الوصف</value>
+  </data>
+  <data name="lbShowInHomePage" xml:space="preserve">
+    <value>عرض بالصفحة الرئيسيه</value>
+  </data>
+  <data name="lbSiteName" xml:space="preserve">
+    <value>اسم الموقع هنا</value>
+  </data>
+  <data name="lbSiteName1" xml:space="preserve">
+    <value>اسم الموقع هنا</value>
+  </data>
+  <data name="lbSiteNameAr" xml:space="preserve">
+    <value>اسم الموقع عربى</value>
+  </data>
+  <data name="lbSiteNameAr1" xml:space="preserve">
+    <value>اسم الموقع عربي</value>
+  </data>
+  <data name="lbSiteNameEn" xml:space="preserve">
+    <value>اسم الموقع انجليزي</value>
+  </data>
+  <data name="lbSlider" xml:space="preserve">
+    <value>معرض الصور</value>
+  </data>
+  <data name="lbSliderImageData" xml:space="preserve">
+    <value>بيانات الصورة</value>
+  </data>
+  <data name="lbSlogan" xml:space="preserve">
+    <value>معاك خطوه بخطوه</value>
+  </data>
+  <data name="lbSnapchat" xml:space="preserve">
+    <value>سناب شات</value>
+  </data>
+  <data name="lbSound" xml:space="preserve">
+    <value>صوت</value>
+  </data>
+  <data name="lbSoundCloud" xml:space="preserve">
+    <value>ساوند كلاود</value>
+  </data>
+  <data name="lbSpecialization" xml:space="preserve">
+    <value>التخصص</value>
+  </data>
+  <data name="lbSpecializationArName" xml:space="preserve">
+    <value>التخصص عربي</value>
+  </data>
+  <data name="lbSpecializationEnName" xml:space="preserve">
+    <value>التخصص انجليزي</value>
+  </data>
+  <data name="lbState" xml:space="preserve">
+    <value>الحالة</value>
+  </data>
+  <data name="lbsubcribed" xml:space="preserve">
+    <value>مشترك ؟</value>
+  </data>
+  <data name="lbSubscribers" xml:space="preserve">
+    <value>المشتركين</value>
+  </data>
+  <data name="lbSuccess" xml:space="preserve">
+    <value> بنجاح</value>
+  </data>
+  <data name="lbTestmonails" xml:space="preserve">
+    <value>هنكون معاك خطوه بخطوه لحد ما توصل لهدفك</value>
+  </data>
+  <data name="lbTextAr" xml:space="preserve">
+    <value>النص عربي</value>
+  </data>
+  <data name="lbTextEn" xml:space="preserve">
+    <value>النص انجليزي</value>
+  </data>
+  <data name="lbtheLink" xml:space="preserve">
+    <value>رابط تسجيل عميل</value>
+  </data>
+  <data name="lbTilte" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="lbTilte1" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="lbTilteAr" xml:space="preserve">
+    <value>العنوان عربي</value>
+  </data>
+  <data name="lbTilteEn" xml:space="preserve">
+    <value>العنوان انجليزي</value>
+  </data>
+  <data name="lbToLeft" xml:space="preserve">
+    <value>to left</value>
+  </data>
+  <data name="lbToRight" xml:space="preserve">
+    <value>to right</value>
+  </data>
+  <data name="lbTotalPaid" xml:space="preserve">
+    <value>إجمالي المدفوع</value>
+  </data>
+  <data name="lbTrackDate" xml:space="preserve">
+    <value>تاريخ الاتصال</value>
+  </data>
+  <data name="lbTracking" xml:space="preserve">
+    <value>متابعة</value>
+  </data>
+  <data name="lbTwitter" xml:space="preserve">
+    <value>تويتر</value>
+  </data>
+  <data name="lbTwitter1" xml:space="preserve">
+    <value>تويتر</value>
+  </data>
+  <data name="lbUniversity" xml:space="preserve">
+    <value>الجامعة</value>
+  </data>
+  <data name="lbUploadFile" xml:space="preserve">
+    <value>رفع الملف</value>
+  </data>
+  <data name="lbuploadLeads" xml:space="preserve">
+    <value>تحميل ملف</value>
+  </data>
+  <data name="lbUserData" xml:space="preserve">
+    <value>بيانات المستخدم</value>
+  </data>
+  <data name="lbUserData1" xml:space="preserve">
+    <value>بيانات المستخدم</value>
+  </data>
+  <data name="lbUserGroup" xml:space="preserve">
+    <value>مجموعة المستخدم</value>
+  </data>
+  <data name="lbUserGroup1" xml:space="preserve">
+    <value>مجموعة المستخدم</value>
+  </data>
+  <data name="lbUserGroupData" xml:space="preserve">
+    <value>بيانات مجموعة المستخدم</value>
+  </data>
+  <data name="lbUserGroupData1" xml:space="preserve">
+    <value>بيانات مجموعة المستخدم</value>
+  </data>
+  <data name="lbUserGroups" xml:space="preserve">
+    <value>مجموعات المستخدمين</value>
+  </data>
+  <data name="lbUserGroups1" xml:space="preserve">
+    <value>مجموعات المستخدمين</value>
+  </data>
+  <data name="lbUserName" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="lbUserName1" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="lbUsers" xml:space="preserve">
+    <value>المستخدمين</value>
+  </data>
+  <data name="lbUsers1" xml:space="preserve">
+    <value>المستخدمين</value>
+  </data>
+  <data name="lbVerfiedOnly" xml:space="preserve">
+    <value>المفعلين</value>
+  </data>
+  <data name="lbVideo" xml:space="preserve">
+    <value>فيديو</value>
+  </data>
+  <data name="lbVideoData" xml:space="preserve">
+    <value>بيانات الفيديو</value>
+  </data>
+  <data name="lbVideoLink" xml:space="preserve">
+    <value>رابط الفيديو</value>
+  </data>
+  <data name="lbVideos" xml:space="preserve">
+    <value>فيديوهات الوحدات</value>
+  </data>
+  <data name="lbVideosList" xml:space="preserve">
+    <value>قائمة فيديوهات الكورسات</value>
+  </data>
+  <data name="lbViewPermissions" xml:space="preserve">
+    <value>الصلاحيات</value>
+  </data>
+  <data name="lbwebsiteContent" xml:space="preserve">
+    <value>المحتوى</value>
+  </data>
+  <data name="lbWelcome" xml:space="preserve">
+    <value>مرحبا</value>
+  </data>
+  <data name="lbWelcome1" xml:space="preserve">
+    <value>مرحبا</value>
+  </data>
+  <data name="lbWhats" xml:space="preserve">
+    <value>رقم الواتس</value>
+  </data>
+  <data name="lbWhatUWant" xml:space="preserve">
+    <value>ماذا تريد ان تقول</value>
+  </data>
+  <data name="lbWho" xml:space="preserve">
+    <value>من نحن</value>
+  </data>
+  <data name="lbWho1" xml:space="preserve">
+    <value>من نحن</value>
+  </data>
+  <data name="lbWhyUs" xml:space="preserve">
+    <value>ليه تختارنا</value>
+  </data>
+  <data name="lbWithout" xml:space="preserve">
+    <value>بدون</value>
+  </data>
+  <data name="lbYes" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="lbYourMessageHere" xml:space="preserve">
+    <value>اكتب رسالتك هنا...</value>
+  </data>
+  <data name="lbYourMsg" xml:space="preserve">
+    <value>رسالتك</value>
+  </data>
+  <data name="lbYourName" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="lbYourName1" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="lbYoutube" xml:space="preserve">
+    <value>يوتيوب</value>
+  </data>
+  <data name="lbYoutubeChannel" xml:space="preserve">
+    <value>قناة اليوتيوب</value>
+  </data>
+  <data name="lbYoutubeChannelLink" xml:space="preserve">
+    <value>رابط القناة</value>
+  </data>
+  <data name="lbYoutubeChannels" xml:space="preserve">
+    <value>قنوات اليوتيوب</value>
+  </data>
+  <data name="lbYoutubeSpecializations" xml:space="preserve">
+    <value>تخصصات اليوتيوب</value>
+  </data>
+  <data name="lbYoutubSpecialization" xml:space="preserve">
+    <value>تخصص القناة</value>
+  </data>
+  <data name="MsgActivateTitle" xml:space="preserve">
+    <value>تفعيل حسابك على موقع على شاهين</value>
+  </data>
+  <data name="MsgActivation" xml:space="preserve">
+    <value>برجاء الضغط على الرابط التالى لتأكيد حسابكم على موقعنا</value>
+  </data>
+  <data name="MsgAlreadySubscribed" xml:space="preserve">
+    <value>هذا البريد مشترك بالفعل شكرا لك</value>
+  </data>
+  <data name="MsgApprovedSuccessfully" xml:space="preserve">
+    <value>تم اعتماد التقييم</value>
+  </data>
+  <data name="MsgApproveFailed" xml:space="preserve">
+    <value>لم يتم اعتماد التقييم</value>
+  </data>
+  <data name="MsgAreYouSureYouWantToDelete" xml:space="preserve">
+    <value>هل أنت متأكد من الحذف؟</value>
+  </data>
+  <data name="MsgBecameMemberSuccessfully" xml:space="preserve">
+    <value>تم تسجيل عضويتك لدينا  بالبيانات التاليه:</value>
+  </data>
+  <data name="MsgCantDelete" xml:space="preserve">
+    <value>لا يمكن حذف هذه الصفحة</value>
+  </data>
+  <data name="MsgCantDeleteData" xml:space="preserve">
+    <value>لا يكن حذف هذه البيانات حيث انها مرتبطه ببيانات اخرى</value>
+  </data>
+  <data name="MsgDeletedFailed" xml:space="preserve">
+    <value>لم يتم الحذف</value>
+  </data>
+  <data name="MsgDeletedFailed1" xml:space="preserve">
+    <value>لم يتم الحذف</value>
+  </data>
+  <data name="MsgDeletedSuccessfully" xml:space="preserve">
+    <value>تم الحذف بنجاح</value>
+  </data>
+  <data name="MsgDeletedSuccessfully1" xml:space="preserve">
+    <value>تم الحذف بنجاح</value>
+  </data>
+  <data name="MsgEmptyEmail" xml:space="preserve">
+    <value>من فضلك ادخل البريد الالكتروني</value>
+  </data>
+  <data name="MsgEmptyEmail1" xml:space="preserve">
+    <value>من فضلك ادخل البريد الالكتروني</value>
+  </data>
+  <data name="MsgEmptyReview" xml:space="preserve">
+    <value>برجاء ادخال نص التعليق اولا</value>
+  </data>
+  <data name="MsgErrorOccured" xml:space="preserve">
+    <value>حدث خطأ برجاء المحاولة مرة اخرى</value>
+  </data>
+  <data name="MsgFailedSubscibre" xml:space="preserve">
+    <value>لم يتم الاشتراك برجاء المحاولة مره اخرى</value>
+  </data>
+  <data name="MsgFileNotValid" xml:space="preserve">
+    <value>حجم الصورة صغير من فضلك اختر صورة اكبر</value>
+  </data>
+  <data name="MsgGroupDeletedFailed" xml:space="preserve">
+    <value>لا يمكن حذف المجموعة التى تحتوي على اعضاء</value>
+  </data>
+  <data name="MsgInvalidEmail" xml:space="preserve">
+    <value>برجاء ادخال بريد الكتروني صحيح</value>
+  </data>
+  <data name="MsgInvalidFileType" xml:space="preserve">
+    <value>نوع الملف غير صحيح برجاء اخيار ملف اكسل</value>
+  </data>
+  <data name="MsgInvalidLink" xml:space="preserve">
+    <value>رابط الصوت غير صحيح</value>
+  </data>
+  <data name="MsgInvalidYoutubeLink" xml:space="preserve">
+    <value>رابط الفيديو غير صحيح</value>
+  </data>
+  <data name="MsgLoginFailed" xml:space="preserve">
+    <value>من فضلك تأكد من ادخال اسم مستخدم وكلمة مرور صحيحين</value>
+  </data>
+  <data name="MsgLoginFailed1" xml:space="preserve">
+    <value>من فضلك تأكد من ادخال اسم مستخدم وكلمة مرور صحيحين</value>
+  </data>
+  <data name="MsgMarketerTitle" xml:space="preserve">
+    <value>قام عميل بالاشتراك فى كورس </value>
+  </data>
+  <data name="MsgMarkterSubject" xml:space="preserve">
+    <value>مشترك جديد</value>
+  </data>
+  <data name="MsgMarkterUsingLink" xml:space="preserve">
+    <value>باستخدام الرابط الخاص بكم</value>
+  </data>
+  <data name="MsgMemberExist" xml:space="preserve">
+    <value>هذا البريد مسجل من قبل</value>
+  </data>
+  <data name="MsgNoColumns" xml:space="preserve">
+    <value>الملف لا يحتوى على بيانات من فضلك اختر ملف اخر</value>
+  </data>
+  <data name="MsgNotCorrectDataEntry" xml:space="preserve">
+    <value>لم يتم إدخال البيانات بشكل صحيح</value>
+  </data>
+  <data name="MsgOpenFileFailed" xml:space="preserve">
+    <value>فشل فتح الملف برجاء المحاولة مره اخرى</value>
+  </data>
+  <data name="MsgPhoneRequired" xml:space="preserve">
+    <value>من فضلك ادخل رقم التليفون</value>
+  </data>
+  <data name="MsgRegisteredSuccessfully" xml:space="preserve">
+    <value>تم التسجيل بنجاح</value>
+  </data>
+  <data name="MsgRegisterFailed" xml:space="preserve">
+    <value>لم يتم التسجيل </value>
+  </data>
+  <data name="MsgReviewAdded" xml:space="preserve">
+    <value>تم اضافة التقييم شكرا لكم</value>
+  </data>
+  <data name="MsgReviewDisabled" xml:space="preserve">
+    <value>لا يمكنكم اضافة تقييم لكورس غير مشترك به</value>
+  </data>
+  <data name="MsgReviewFailed" xml:space="preserve">
+    <value>لم تتم اضافة التقييم</value>
+  </data>
+  <data name="MsgSavedFailed" xml:space="preserve">
+    <value>لم يتم الحفظ</value>
+  </data>
+  <data name="MsgSavedFailed1" xml:space="preserve">
+    <value>لم يتم الحفظ</value>
+  </data>
+  <data name="MsgSavedSuccessfully" xml:space="preserve">
+    <value>تم الحفظ بنجاح</value>
+  </data>
+  <data name="MsgSavedSuccessfully1" xml:space="preserve">
+    <value>تم الحفظ بنجاح</value>
+  </data>
+  <data name="MsgSendFailed" xml:space="preserve">
+    <value>لم يتم ارسال الرسالة</value>
+  </data>
+  <data name="MsgSendSuccess" xml:space="preserve">
+    <value>تم الارسال</value>
+  </data>
+  <data name="MsgSentNumber" xml:space="preserve">
+    <value>تم ارسال عدد</value>
+  </data>
+  <data name="MsgSentSuccessfully" xml:space="preserve">
+    <value>تم ارسال الرسالة بنجاح</value>
+  </data>
+  <data name="MsgSubscribeSuccessfully" xml:space="preserve">
+    <value>تم الاشتراك بنجاح</value>
+  </data>
+  <data name="MsgSuccessfully" xml:space="preserve">
+    <value>بنجاح</value>
+  </data>
+  <data name="newsletterSubject" xml:space="preserve">
+    <value>على شاهين</value>
+  </data>
+  <data name="priceAfterDiscount" xml:space="preserve">
+    <value>السعر بعد الخصم</value>
+  </data>
+  <data name="vMsgConfirmed" xml:space="preserve">
+    <value>تم تفعيل الحساب</value>
+  </data>
+  <data name="vMsgEnterBody" xml:space="preserve">
+    <value>برجاء ادخال نص الرسالة</value>
+  </data>
+  <data name="vMsgEnterChannelLink" xml:space="preserve">
+    <value>ادخل رابط القناة</value>
+  </data>
+  <data name="vMsgEnterChannelName" xml:space="preserve">
+    <value>ادخل اسم القناة</value>
+  </data>
+  <data name="vMsgEnterTitle" xml:space="preserve">
+    <value>برجاء ادخال عنوان الرسالة</value>
+  </data>
+  <data name="vMsgFieldsReq" xml:space="preserve">
+    <value>هناك حقول مطلوبة</value>
+  </data>
+  <data name="vMsgfilePathRequired" xml:space="preserve">
+    <value>يجب ادخال مسار او رابط الملف</value>
+  </data>
+  <data name="vMsgInvalidChannelLink" xml:space="preserve">
+    <value>رابط القناة غير صحيح</value>
+  </data>
+  <data name="vMsgInvalidInput" xml:space="preserve">
+    <value>برجاء اختيار ملف اولا</value>
+  </data>
+  <data name="vMsgLinkNotValid" xml:space="preserve">
+    <value>برجاء ادخال رابط دفع صحيح</value>
+  </data>
+  <data name="vMsgNoNew" xml:space="preserve">
+    <value>لا يوجد بيانات جديده</value>
+  </data>
+  <data name="vMsgNoSearchResult" xml:space="preserve">
+    <value>لا يوجد عملاء مطابقين لمعطيات البحث</value>
+  </data>
+  <data name="vMsgPasswordConfirmReq" xml:space="preserve">
+    <value>برجاء ادخال تأكيد كلمة المرور</value>
+  </data>
+  <data name="vMsgPasswordConfirmReq1" xml:space="preserve">
+    <value>برجاء ادخال تأكيد كلمة المرور</value>
+  </data>
+  <data name="vMsgPasswordNotMatch" xml:space="preserve">
+    <value>كلمة المرور وتأكيد كلمة المرور غير متطابقان </value>
+  </data>
+  <data name="vMsgPasswordNotMatch1" xml:space="preserve">
+    <value>كلمة المرور وتأكيد كلمة المرور غير متطابقان </value>
+  </data>
+  <data name="vMsgPasswordReq" xml:space="preserve">
+    <value>برجاء ادخال كلمة المرور</value>
+  </data>
+  <data name="vMsgPathRequired" xml:space="preserve">
+    <value>برجاء اختيار صورة</value>
+  </data>
+  <data name="vMsgReconfirm" xml:space="preserve">
+    <value>تم اعادة ارسال رابط التفعيل برجاء مراجعة البريد الالكتروني لتفعيل الحساب</value>
+  </data>
+  <data name="vMsgSelectAtLeastOneSearchCritera" xml:space="preserve">
+    <value>برجاء اختيار على الاقل كورس او تصنيف للبحث </value>
+  </data>
+  <data name="vMsgSelectRate" xml:space="preserve">
+    <value>اختر التقييم</value>
+  </data>
+  <data name="vMsgSelectSpecialization" xml:space="preserve">
+    <value>اختر التخصص</value>
+  </data>
+  <data name="vMsgUserNameExists" xml:space="preserve">
+    <value>اسم المستخدم موجود بالفعل</value>
+  </data>
+  <data name="vMsgUserNameExists1" xml:space="preserve">
+    <value>اسم المستخدم موجود بالفعل</value>
+  </data>
+</root>

@@ -1,0 +1,713 @@
+
+<!DOCTYPE html>
+    <html class="no-js" lang="en-US" dir="ltr">
+
+    <head>
+        <meta charset="UTF-8">
+        
+                        <!--iOS/android/handheld specific -->
+                <link rel="apple-touch-icon" href="apple-touch-icon.png">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                <meta name="apple-mobile-web-app-capable" content="yes">
+                <meta name="apple-mobile-web-app-status-bar-style" content="black">
+                <link rel="shortcut icon" href="https://www.aryausa.com/blog/wp-content/themes/aryablog/favicon.png">
+                <link href='https://fonts.googleapis.com/css?family=Signika:600,700' rel='stylesheet' type='text/css'>
+                <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans">
+                <link rel="stylesheet" type="text/css" media="all" href="https://www.aryausa.com/blog/wp-content/themes/aryablog/style.css" />
+                <script>(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));</script>
+	<!-- This site is optimized with the Yoast SEO plugin v15.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Battery Doctor (Battery Saver)</title>
+	<meta name="description" content="Battery Doctor is a FREE battery saving app that can extend your battery life up to 50% by finding apps and settings that drain power on your device." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.aryausa.com/blog/battery-doctor-battery-saver" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Battery Doctor (Battery Saver)" />
+	<meta property="og:description" content="Battery Doctor is a FREE battery saving app that can extend your battery life up to 50% by finding apps and settings that drain power on your device." />
+	<meta property="og:url" content="https://www.aryausa.com/blog/battery-doctor-battery-saver" />
+	<meta property="og:site_name" content="Aryavrat" />
+	<meta property="article:author" content="https://www.facebook.com/aryausa/" />
+	<meta property="article:published_time" content="2015-10-29T12:29:57+00:00" />
+	<meta property="article:modified_time" content="2021-02-24T05:00:18+00:00" />
+	<meta property="og:image" content="https://www.aryausa.com/blog/wp-content/uploads/2015/10/batterydoctor.jpg" />
+	<meta property="og:image:width" content="700" />
+	<meta property="og:image:height" content="400" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@aryavrat_01" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Admin">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.aryausa.com/blog/#organization","name":"Aryavrat Infotech","url":"https://www.aryausa.com/blog/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.aryausa.com/blog/#logo","inLanguage":"en-US","url":"https://www.aryausa.com/blog/wp-content/uploads/2021/07/arya-logo.png","width":339,"height":425,"caption":"Aryavrat Infotech"},"image":{"@id":"https://www.aryausa.com/blog/#logo"}},{"@type":"WebSite","@id":"https://www.aryausa.com/blog/#website","url":"https://www.aryausa.com/blog/","name":"Aryavrat","description":"Think Technology... Think Us...","publisher":{"@id":"https://www.aryausa.com/blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.aryausa.com/blog/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#primaryimage","inLanguage":"en-US","url":"https://www.aryausa.com/blog/wp-content/uploads/2015/10/batterydoctor.jpg","width":700,"height":400},{"@type":"WebPage","@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#webpage","url":"https://www.aryausa.com/blog/battery-doctor-battery-saver","name":"Battery Doctor (Battery Saver)","isPartOf":{"@id":"https://www.aryausa.com/blog/#website"},"primaryImageOfPage":{"@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#primaryimage"},"datePublished":"2015-10-29T12:29:57+00:00","dateModified":"2021-02-24T05:00:18+00:00","description":"Battery Doctor is a FREE battery saving app that can extend your battery life up to 50% by finding apps and settings that drain power on your device.","breadcrumb":{"@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.aryausa.com/blog/battery-doctor-battery-saver"]}]},{"@type":"BreadcrumbList","@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.aryausa.com/blog/","url":"https://www.aryausa.com/blog/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver","url":"https://www.aryausa.com/blog/battery-doctor-battery-saver","name":"Battery Doctor (Battery Saver)"}}]},{"@type":"Article","@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#article","isPartOf":{"@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#webpage"},"author":{"@id":"https://www.aryausa.com/blog/#/schema/person/ef4458979b3c5a64378d7ba2dece25a4"},"headline":"Battery Doctor (Battery Saver)","datePublished":"2015-10-29T12:29:57+00:00","dateModified":"2021-02-24T05:00:18+00:00","mainEntityOfPage":{"@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#webpage"},"publisher":{"@id":"https://www.aryausa.com/blog/#organization"},"image":{"@id":"https://www.aryausa.com/blog/battery-doctor-battery-saver#primaryimage"},"articleSection":"APP BULLETIN","inLanguage":"en-US"},{"@type":"Person","@id":"https://www.aryausa.com/blog/#/schema/person/ef4458979b3c5a64378d7ba2dece25a4","name":"Admin","image":{"@type":"ImageObject","@id":"https://www.aryausa.com/blog/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/e4eb8650c53622c778497796d9b5ce3e?s=96&d=mm&r=g","caption":"Admin"},"description":"Aryavrat is a provider of IT solutions to the Telecom, Mobile, Gaming, CRM and Business Analytics, etc. domains. Our offerings span business and technology consulting, application services, systems integration, product engineering, custom software development, maintenance, re-engineering, independent testing &amp; validation services, IT infrastructure services and business process outsourcing. Aryavrat has been built by a strong team of industry professionals with years of combined experience in mobile technology and solutions. At Aryavrat, with development centers in the US (San Francisco) &amp; India (Jaipur), we have partnered with some of the best companies in the world to deliver strategic software and mobile solutions to support expanding operations and maximize revenue.","sameAs":["https://www.aryausa.com/","https://www.facebook.com/aryausa/","https://www.instagram.com/aryavrat_infotech/","https://www.linkedin.com/company/aryavrat-infotech-pvt--ltd-/","https://www.pinterest.com/aryavratinfotech/","https://twitter.com/aryavrat_01","https://www.youtube.com/channel/UCSkYKgmg8Gp7CQcAaLLEg1w","https://arya-usa.tumblr.com/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Aryavrat &raquo; Feed" href="https://www.aryausa.com/blog/feed" />
+<link rel="alternate" type="application/rss+xml" title="Aryavrat &raquo; Comments Feed" href="https://www.aryausa.com/blog/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Aryavrat &raquo; Battery Doctor (Battery Saver) Comments Feed" href="https://www.aryausa.com/blog/battery-doctor-battery-saver/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.aryausa.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='frontend.popup-css'  href='https://www.aryausa.com/blog/wp-content/plugins/popup-by-supsystic/modules/popup/css/frontend.popup.css?ver=1.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate.styles-css'  href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css?ver=1.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.aryausa.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.aryausa.com/blog/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-share-buttons-adder-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=5.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='https://www.aryausa.com/blog/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-content/plugins/popup-by-supsystic/js/common.min.js?ver=1.10.2' id='commonPps-js'></script>
+<script type='text/javascript' id='corePps-js-extra'>
+/* <![CDATA[ */
+var PPS_DATA = {"siteUrl":"https:\/\/www.aryausa.com\/blog\/","imgPath":"https:\/\/www.aryausa.com\/blog\/wp-content\/plugins\/popup-by-supsystic\/img\/","cssPath":"https:\/\/www.aryausa.com\/blog\/wp-content\/plugins\/popup-by-supsystic\/css\/","loader":"https:\/\/www.aryausa.com\/blog\/wp-content\/plugins\/popup-by-supsystic\/img\/loading.gif","close":"https:\/\/www.aryausa.com\/blog\/wp-content\/plugins\/popup-by-supsystic\/img\/cross.gif","ajaxurl":"https:\/\/www.aryausa.com\/blog\/wp-admin\/admin-ajax.php","options":{"add_love_link":"0","disable_autosave":"0","love_link_html":"<a title=\"WordPress PopUp Plugin\" style=\"color: #26bfc1 !important; font-size: 9px; position: absolute; bottom: 15px; right: 15px;\" href=\"https:\/\/supsystic.com\/plugins\/popup-plugin\/?utm_source=plugin&utm_medium=love_link&utm_campaign=popup\" target=\"_blank\">WordPress PopUp Plugin<\/a>"},"PPS_CODE":"pps","jsPath":"https:\/\/www.aryausa.com\/blog\/wp-content\/plugins\/popup-by-supsystic\/js\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-content/plugins/popup-by-supsystic/js/core.min.js?ver=1.10.2' id='corePps-js'></script>
+<script type='text/javascript' id='frontend.popup-js-extra'>
+/* <![CDATA[ */
+var ppsPopups = [{"id":"100","label":"Blog Detail popup","active":"1","original_id":"33","params":{"main":{"show_on":"page_load","show_on_page_load_delay":"","show_on_click_on_el_delay":"0","show_on_scroll_window_delay":"0","show_on_scroll_window_perc_scroll":"0","show_on_link_follow_delay":"0","visit_page_cnt":"","close_on":"user_close","show_pages":"all","show_time_from":"12:00am","show_time_to":"12:00am","show_date_from":"","show_date_to":"","show_to":"first_time_visit","show_to_first_time_visit_days":"7","show_to_until_make_action_days":"30","count_times_num":"1","count_times_mes":"day","hide_for_devices_show":"0","hide_for_post_types_show":"1","hide_for_post_types":["post"],"hide_for_ips_show":"0","hide_for_ips":"","hide_for_countries_show":"0","hide_for_languages_show":"0","hide_search_engines_show":"0","hide_preg_url_show":"0","hide_preg_url":"","hide_for_user_roles_show":"0"},"tpl":{"width":"","width_measure":"px","bg_overlay_opacity":"0.5","bg_overlay_type":"color","bg_overlay_color":"#000","bg_overlay_img":"","bg_overlay_img_pos":"stretch","bg_type_0":"color","bg_img_0":"","bg_color_0":"#ffffff","bg_type_1":"none","bg_img_1":"","bg_color_1":"#006dc1","responsive_mode":"def","reidrect_on_close":"","close_btn":"close-black-in-white-circle","layered_pos":"","enb_txt_0":"1","anim_key":"slide_up","anim_close_key":"","anim_duration":1000,"anim_close_duration":"","stat_ga_code":"","txt_0":"<p style=\"text-align: left;\"><a href=\"https:\/\/supsystic-42d7.kxcdn.com\/_assets\/popup\/img\/assets\/beautiful-blonde-flower-flowers-girl-Favim.com-143635-150x150.jpg\"><img class=\"wp-image-17 size-thumbnail alignleft\" src=\"https:\/\/supsystic-42d7.kxcdn.com\/_assets\/popup\/img\/assets\/beautiful-blonde-flower-flowers-girl-Favim.com-143635-150x150.jpg\" alt=\"\" width=\"176\" height=\"176\" \/><\/a>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p><p style=\"text-align: left;\"><strong>Ut enim ad minim veniam<\/strong>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <em>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<\/em> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>","sub_fields":{"email":{"label":"E-Mail","html":"text","enb":true,"mandatory":true,"name":"email"},"name":{"label":"Name","html":"text","enb":false,"name":"name"}},"reg_fields":{"name":{"label":"Name","html":"text","enb":1,"name":"name"},"email":{"label":"E-Mail","html":"text","enb":true,"mandatory":true,"name":"email"}},"anim":{"label":"Slide Up","show_class":"slideInUp","hide_class":"slideOutUp"}},"opts_attrs":{"bg_number":"2","txt_block_number":"1"}},"img_preview":"simple-html.jpg","show_on":"1","show_to":"2","show_pages":"1","type_id":"5","views":"14782","unique_views":"14782","actions":"7","date_created":"2015-01-10 18:59:43","sort_order":"0","show_in_admin_area":"0","img_preview_url":"https:\/\/supsystic-42d7.kxcdn.com\/_assets\/popup\/img\/preview\/simple-html.jpg","view_id":"100_370451","type":"simple_html","rendered_html":"<span style=\"display: none;\" id=\"ppsPopupStylesHidden_100_370451\">#ppsPopupShell_100_370451 {\n\twidth: px;\n  \tpadding: 15px;\n  \tfont-family: 'Helvetica', arial;\n\tfont-size: 14px;\n\tline-height: 21px;\n\tfont-weight: normal;\n\tcolor: #000;\n}\n#ppsPopupShell_100_370451, #ppsPopupShell_100_370451 * {\n\t-webkit-box-sizing: content-box;\n\t-moz-box-sizing:    content-box;\n\tbox-sizing:         content-box;\n}\n#ppsPopupShell_100_370451 p {\n\tmargin: 14px 0;\n}\n#ppsPopupShell_100_370451 .ppsInnerTblContent {\n\theight: 100%;  \tborder-radius: 5px;\n  \tpadding: 10px;  \tbackground-color: #ffffff;}\n.newsletter-modal{\n  width:30%\n   text-align: center;\n}\n.newsletter-modal img {\n    margin: auto;\n    text-align: center;\n    display: block;\n}\n.newsletter-modal h3 {\n    font-size: 20px;\n    text-align: center;\n    font-weight: 600;\n    margin-bottom: 25px;\n}\n.newsletter-modal form input {\n    border-top-left-radius: 6px;\n    border-bottom-left-radius: 5px;\n}\n.newsletter-modal form input.sbutton {\n    border-top-right-radius: 6px;\n    border-bottom-right-radius: 6px;\n    border-top-left-radius: 0 !important;\n    border-bottom-left-radius: 0 !important;\n}\n.newsletter-modal strong {\n    text-align: center;\n    display: block;\n}\n.newsletter-modal .ppsInnerTblContent {\n    padding: 20px 30px !important;\n}#ppsPopupShell_100_370451 .ppsPopupClose { position:absolute;background-image:url(\"https:\/\/www.aryausa.com\/blog\/wp-content\/plugins\/popup-by-supsystic\/modules\/popup\/img\/assets\/close_btns\/close-black-in-white-circle.png\");background-repeat:no-repeat;top:16px;right:16px;width:32px;height:32px; }<\/span><div id=\"ppsPopupShell_100_370451\" class=\"ppsPopupShell ppsPopupListsShell newsletter-modal\">\n\t<a href=\"#\" class=\"ppsPopupClose ppsPopupClose_close-black-in-white-circle\"><\/a>\n\t<div class=\"ppsInnerTblContent\">\n      <img src=\"https:\/\/www.aryausa.com\/blog\/wp-content\/uploads\/2020\/10\/newsletter.png\" \/>\n      <h3>Subscribe to the Aryausa Blog<\/h3>\n\t  <form style=\"float:left; width:100%; margin-bottom:10px;\" action=\"https:\/\/feedburner.google.com\/fb\/a\/mailverify\" method=\"post\" target=\"popupwindow\">\n        <input style=\"width:calc(100% - 168px); float: left;\" name=\"email\" type=\"text\" placeholder=\"Email\" required\/>\n        <input name=\"uri\" type=\"hidden\" value=\"AryavratInfotechInc\" \/>\n        <input name=\"loc\" type=\"hidden\" value=\"en_US\" \/>\n        <input type=\"submit\" class=\"sbutton\" value=\"Yes, I want to get it\" style=\"height:19px; float:left; color:#fff;\" \/>\n      <\/form>\n      <strong>No spam. We guarantee 100% privacy<\/strong>\n\n\t<\/div>\n<\/div>","connect_hash":"da160c3056073971a1864967f322ee06"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-content/plugins/popup-by-supsystic/modules/popup/js/frontend.popup.js?ver=1.10.2' id='frontend.popup-js'></script>
+<script id='st_insights_js' type='text/javascript' src='https://ws.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&#038;product=simpleshare' id='ssba-sharethis-js'></script>
+<link rel="https://api.w.org/" href="https://www.aryausa.com/blog/wp-json/" /><link rel="alternate" type="application/json" href="https://www.aryausa.com/blog/wp-json/wp/v2/posts/185" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.aryausa.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.aryausa.com/blog/wp-includes/wlwmanifest.xml" /> 
+<!--Theme by MyThemeShop.com-->
+<link rel='shortlink' href='https://www.aryausa.com/blog/?p=185' />
+<link rel="alternate" type="application/json+oembed" href="https://www.aryausa.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.aryausa.com%2Fblog%2Fbattery-doctor-battery-saver" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.aryausa.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.aryausa.com%2Fblog%2Fbattery-doctor-battery-saver&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.35.0" />		<style type="text/css" id="wp-custom-css">
+			i.fa.fa-rss.twicon {
+    background: #1da1f2;
+}
+
+.textwidget span a {
+    color: #ffa800;
+    font-size: 18px;
+    text-decoration: none!important;
+	line-height: 25px;
+}		</style>
+		                    <link rel="pingback" href="https://www.aryausa.com/blog/xmlrpc.php" />
+                    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+                    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+                    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+                                                                        <!--[if lt IE 9]>		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>	<![endif]-->
+                            <script src="https://www.aryausa.com/blog/wp-content/themes/aryablog/js/modernizr.min.js"></script>
+                            <script src="https://www.aryausa.com/blog/wp-content/themes/aryablog/js/customscript.js" type="text/javascript"></script>
+                            <style type="text/css">
+                                                                                                                                    .mts-subscribe input[type="submit"],
+                                    #navigation > ul > li > a:hover,
+                                    #navigation ul li li:hover > a,
+                                    .sbutton {
+                                        background-color: #FFA800;
+                                    }
+                                    <!-- a,
+                                    .single_post a,
+                                    #logo a,
+                                    .textwidget a,
+                                    #commentform a,
+                                    .copyrights a:hover,
+                                    .readMore a,
+                                    .authorColumn a,
+                                    #tabber ul.tabs li a.selected,
+                                    #tabber ul.tabs li.tab-recent-posts a.selected {
+                                                                            } -->
+                                    <!--a:hover {
+                                                                            } -->
+                                                                                            </style>
+                            		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118364211-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-118364211-1');
+</script>
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "7ft3ae4fsl");
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    </head>
+    
+        <body id="blog" class="post-template-default single single-post postid-185 single-format-standard main cat-4-id">
+<div class="g-recaptcha" data-sitekey="6LfPyEoaAAAAAICHuvVfTgNkNGSnT7QalqxE_nXg" data-badge="bottomleft" data-callback="onSubmit" data-size="invisible"></div>
+            <div class="main-navigation">
+                <div class="container-fluid">
+                    <nav id="navigation1" class="navbar navbar-fixed-top animated fadeIn">
+                        <div class="row">
+                                                                    <div class="col-lg-4 col-md-2 col-sm-2">
+                                            <div class="navbar-header logoblg">
+                                                <a href="https://www.aryausa.com/"><img src="https://www.aryausa.com/images/arya-logo.png" title="arya" alt="Aryausa-Logo" /></a>
+                                                <div class="responsivemenu">
+                                                    <button id="menuicon" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                                                    <div class="iosbutton2">
+                                                        <a href="https://www.iso.org/about-us.html" target="_blank"><img src="https://www.aryausa.com/images/iosimg.png" alt="International-Organization-for-Standardization"> </a>
+                                                    </div>
+                                                    <div class="outerbox2">
+                                                        <div class="locaphoneicon" id="phoneicon"><a href="javascript:void(0);"><i class="fa fa-phone"></i><i class="fa fa-caret-down"></i></a>
+                                                            <div class="contactmodal responmodal" id="modalresponsive">
+                                                                <div class="row">
+                                                                    <div class="col-md-12">
+                                                                        <div class="infomationbox">
+                                                                            <ul>
+                                                                                <li>
+                                                                                    <p class="contleftimg indiaflag"><img src="https://www.aryausa.com/images/us-flag.png" alt="US-Flag"></p>
+                                                                                    <p class="descrp1"><a href="callto:16502428260">+1-650-242-8260,</a></p>
+                                                                                    <p class="descrp2"><a href="callto:16502126127">+1-650-212-6127</a></p>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <p class="contleftimg indiaflag"><img src="https://www.aryausa.com/images/indiaflag.png" alt="India-Flag"></p>
+                                                                                    <p class="desrpright"><a href="callto:911412812458">+91-141-2812458</a></p>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <p class="contleftimg indiaflag"><img src="https://www.aryausa.com/images/neth-flag.png" alt="Netherland-Flag"></p>
+                                                                                    <p class="descrp1"><a href="callto:31104666611">+31 10 466 66 11,</a></p>
+                                                                                    <p class="descrp2"><a href="callto:31638327276"> +31 638 32 72 76</a></p>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <p class="contleftimg"><i class="fa fa-skype"></i></p>
+                                                                                    <p class="desrpright"><a href="#">marketing_aryavrat</a></p>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <p class="contleftimg"><i class="fa fa-whatsapp"></i></p>
+                                                                                    <p class="desrpright"><a href="callto:919829529848">+91-9829529848</a></p>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <p class="contleftimg"><img src="https://www.aryausa.com/images/mailhangout.png" alt="Mail-Hangout"></p>
+                                                                                    <p class="desrpright"><a href="mailto:sales@aryausa.com">sales@aryausa.com</a></p>
+                                                                                </li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-8 col-md-10 col-sm-10">
+                                            <div class="colmdwidth8">
+                                                <div id="navbar" class="collapse navbar-collapse rightnavbar">
+                                                    <ul class="menu">
+                                                        <li><a href="https://www.aryausa.com/expertise">EXPERTISE</a></li>
+                                                        <li><a href="https://www.aryausa.com/success-stories">SUCCESS STORIES </a></li>
+                                                        <li><a href="https://www.aryausa.com/free-tools">FREE TOOLS</a></li>
+                                                        <li><a href="https://www.aryausa.com/blog">BLOG</a></li>
+                                                        <li class="locaphoneicon"><a href="javascript:void(0);"><i class="fa fa-phone"></i><i class="fa fa-caret-down"></i></a>
+                                                            <div class="outerbox">
+                                                                <div class="contactmodal">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <div class="infomationbox">
+                                                                                <ul>
+                                                                                    <li>
+                                                                                        <p class="contleftimg indiaflag"><img src="https://www.aryausa.com/images/us-flag.png" alt="US-Flag"></p>
+                                                                                        <p class="descrp1"><a href="callto:16502428260">+1-650-242-8260,</a></p>
+                                                                                        <p class="descrp2"><a href="callto:16502126127">+1-650-212-6127</a></p>
+                                                                                    </li>
+                                                                                    <li>
+                                                                                        <p class="contleftimg indiaflag"><img src="https://www.aryausa.com/images/indiaflag.png" alt="India-Flag"></p>
+                                                                                        <p class="desrpright"><a href="callto:911412812458">+91-141-2812458</a></p>
+                                                                                    </li>
+                                                                                    <li>
+                                                                                        <p class="contleftimg indiaflag"><img src="https://www.aryausa.com/images/neth-flag.png" alt="Netherland-Flag"></p>
+                                                                                        <p class="descrp1"><a href="callto:31104666611">+31 10 466 66 11,</a></p>
+                                                                                        <p class="descrp2"><a href="callto:31638327276"> +31 638 32 72 76</a></p>
+                                                                                    </li>
+                                                                                    <li>
+                                                                                        <p class="contleftimg"><i class="fa fa-skype"></i></p>
+                                                                                        <p class="desrpright"><a href="#">marketing_aryavrat</a></p>
+                                                                                    </li>
+                                                                                    <li>
+                                                                                        <p class="contleftimg"><i class="fa fa-whatsapp"></i></p>
+                                                                                        <p class="desrpright"><a href="callto:919829529848">+91-9829529848</a></p>
+                                                                                    </li>
+                                                                                    <li>
+                                                                                        <p class="contleftimg"><img src="https://www.aryausa.com/images/mailhangout.png" alt="Mail-Hangout"></p>
+                                                                                        <p class="desrpright"><a href="mailto:sales@aryausa.com">sales@aryausa.com</a></p>
+                                                                                    </li>
+                                                                                </ul>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li><a href="https://www.aryausa.com/get-in-touch" class="getintouch">GET IN TOUCH</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                </div>
+                    </nav>
+                </div>
+            </div>
+            <header class="main-header">
+                <div class="container">
+                    <div id="header">
+                                                        <h2 id="logo">								<a href="https://www.aryausa.com/blog">Aryavrat</a>							</h2>
+                                <!-- END #logo -->
+                                                                                                                                </div>
+                    <!--#header-->
+                    <div class="secondary-navigation">
+                        <nav id="navigation">
+                                                                                                                        </nav>
+                    </div>
+                </div>
+                <!--.container-->
+            </header>
+                            <div class="blogcontent">
+                    <div class="container">
+                        
+<div id="page" class="single">
+
+	<div class="content">
+
+		<article class="article">
+
+			<div id="content_box" class="sticky-social-outer">
+
+			  <div class="blog-social-group"><div class="blog-outer"><!-- Simple Share Buttons Adder (8.1.2) simplesharebuttons.com --><div class="ssba-classic-2 ssba ssbp-wrap left ssbp--theme-1"><div style="text-align:left"><span class="ssba-share-text">Share this...</span><br/><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=https://www.aryausa.com/blog/battery-doctor-battery-saver"  target="_blank" ><img src="https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" style="width: 42px;" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" /><div title="Facebook" class="ssbp-text">Facebook</div></a><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://www.aryausa.com/blog/battery-doctor-battery-saver&amp;text=Battery%20Doctor%20%28Battery%20Saver%29%20"  target=&quot;_blank&quot; ><img src="https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" style="width: 42px;" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /><div title="Twitter" class="ssbp-text">Twitter</div></a><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.aryausa.com/blog/battery-doctor-battery-saver"  target=&quot;_blank&quot; ><img src="https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/buttons/simple/linkedin.png" style="width: 42px;" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" /><div title="Linkedin" class="ssbp-text">Linkedin</div></a></div></div></div></div>
+
+				
+					<div id="post-185" class="g post post-185 type-post status-publish format-standard has-post-thumbnail hentry category-app-bulletin cat-4-id has_thumb">
+
+                    <div class="single_post">
+
+						<header>
+
+						<h1 class="title single-title">Battery Doctor (Battery Saver)</h1>
+
+                        <span class="theauthor single-postmeta">October 29, 2015  <!--Posted by  <a href="javascript:void()" title="Posts by Admin" rel="author">Admin</a>--></span>
+
+						</header><!--.headline_area-->
+
+						
+						<img width="700" height="400" src="https://www.aryausa.com/blog/wp-content/uploads/2015/10/batterydoctor.jpg" class="attachment-slider size-slider wp-post-image" alt="" loading="lazy" title="" srcset="https://www.aryausa.com/blog/wp-content/uploads/2015/10/batterydoctor.jpg 700w, https://www.aryausa.com/blog/wp-content/uploads/2015/10/batterydoctor-300x171.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />
+						
+						<div class="post-single-content box mark-links">
+
+						
+							<p><b>Battery Doctor is a FREE battery saving app that can extend your battery life up to 50% by finding apps and settings that drain power on your device.</b></p>
+<p><b>Key Features</b><br />
+&#8211; Disable unnecessary apps that drain your battery!<br />
+&#8211; Task Killer kills tasks with one click!<br />
+&#8211; Kill apps when screen is off!<br />
+&#8211; Accurate battery remaining time!<br />
+&#8211; Accurate charging remaining time!<br />
+&#8211; Schedule power saving modes for work/class/sleep and more!<br />
+&#8211; Unique 3 Stage Charging system!<br />
+&#8211; Wifi/Data/Bluetooth toggle!<br />
+&#8211; Brightness control!<br />
+&#8211; CPU Management (for rooted phones)!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+							
+						
+						
+							</div>
+
+						</div><!--.post-content box mark-links-->
+
+						  
+
+						
+					</div><!--.g post-->
+
+					
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are closed. -->
+		<p class="nocomments">Comments are closed.</p>
+
+	
+
+				
+			</div>
+
+</article>
+
+<aside class="sidebar c-4-12">
+<div id="sidebars" class="g">
+	<div class="sidebar">
+	<ul class="sidebar_list">
+		<li class="widget widget-sidebar"><h3>Search Posts</h3><form method="get" id="searchform" class="search-form" action="https://www.aryausa.com/blog" _lpchecked="1">
+	<fieldset> 
+		<input type="text" name="s" id="s" value="Search this Site..." onfocus="if(this.value=='Search this Site...')this.value='';" x-webkit-speech onwebkitspeechchange="transcribe(this.value)"> 
+		<input id="search-image" class="sbutton" type="submit" style="border:0; vertical-align: top;" value="Search">
+	</fieldset>
+	</fieldset>
+</form></li><li class="widget widget-sidebar"><h3>Join Our e-List to Get Updates! It&#8217;s FREE</h3>			<div class="textwidget"><form style="padding: 3px;text-align: left;float: left;width: 100%;padding: 0;margin-bottom: 10px;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow"><input style="width: calc(100% - 134px);" name="email" type="text" placeholder="Email"/><input name="uri" type="hidden" value="AryavratInfotechInc" /><input name="loc" type="hidden" value="en_US" /><input type="submit" class="sbutton" value="Yes, I want to get it" style="height: 36px;"/></form>
+<p><strong>No Spam Guaranteed</strong></p>
+</div>
+		</li><li class="widget widget-sidebar">
+<div id="rpwwt-recent-posts-widget-with-thumbnails-2" class="rpwwt-widget">
+<h3>Recent Posts</h3>
+	<ul>
+		<li><a href="https://www.aryausa.com/blog/7-critical-elements-of-modern-web-design-to-focus-on-today"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2021/08/7-150x150.png" class="attachment-75x60 size-75x60 wp-post-image" alt="7 Critical Elements of Modern Web Design to Focus on Today" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2021/08/7-150x150.png 150w, https://www.aryausa.com/blog/wp-content/uploads/2021/08/7-200x200.png 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">7 Critical Elements of Modern Web Design to Focus on Today</span></a><div class="rpwwt-post-date">August 7, 2021</div></li>
+		<li><a href="https://www.aryausa.com/blog/how-to-successfully-outsource-for-your-small-business"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2021/02/why-small-businesses-needed-outsourcing_--150x150.jpg" class="attachment-75x60 size-75x60 wp-post-image" alt="What are the steps to successful outsourcing for your small business?" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2021/02/why-small-businesses-needed-outsourcing_--150x150.jpg 150w, https://www.aryausa.com/blog/wp-content/uploads/2021/02/why-small-businesses-needed-outsourcing_--200x200.jpg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">How to successfully outsource for your small business?</span></a><div class="rpwwt-post-date">February 2, 2021</div></li>
+		<li><a href="https://www.aryausa.com/blog/top-custom-software-solutions-for-the-travel-hospitality-industry"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/11/Travel2-150x150.jpeg" class="attachment-75x60 size-75x60 wp-post-image" alt="Travel Technology Solution" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/11/Travel2-150x150.jpeg 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/11/Travel2-200x200.jpeg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">Top Custom Software Solutions For The Travel &#038; Hospitality Industry</span></a><div class="rpwwt-post-date">December 1, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/it-solutions-for-growing-staffing-recruiting-businesses"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/11/flexforce2_1024x576-150x150.jpg" class="attachment-75x60 size-75x60 wp-post-image" alt="Staffing &amp; Recruiting IT Solutions" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/11/flexforce2_1024x576-150x150.jpg 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/11/flexforce2_1024x576-200x200.jpg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">IT Solutions for Growing Staffing &#038; Recruiting Businesses</span></a><div class="rpwwt-post-date">November 10, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/pharmacy-management-software-development"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/10/pharmacy_software_10_Zg7Ry-150x150.jpg" class="attachment-75x60 size-75x60 wp-post-image" alt="Pharmacy Management Software" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/10/pharmacy_software_10_Zg7Ry-150x150.jpg 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/10/pharmacy_software_10_Zg7Ry-200x200.jpg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">How To Develop A Pharmacy Management Software?</span></a><div class="rpwwt-post-date">October 17, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/chatbots-development-for-airline-industry"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/10/AI-Chatbot-1024x576-1-150x150.png" class="attachment-75x60 size-75x60 wp-post-image" alt="How Chatbots Are Reshaping The Future Of Airline Industry? | Chatbot Development Company USA" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/10/AI-Chatbot-1024x576-1-150x150.png 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/10/AI-Chatbot-1024x576-1-200x200.png 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">How Chatbots Are Reshaping The Future Of Airline Industry?</span></a><div class="rpwwt-post-date">October 8, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/how-digital-marketing-will-help-your-business-to-grow"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/09/digital_marketing_so_2t2QI-150x150.jpg" class="attachment-75x60 size-75x60 wp-post-image" alt="How Digital Marketing Will Help Businesses To Grow In Pandemic Time? | Digital Marketing Company in USA" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/09/digital_marketing_so_2t2QI-150x150.jpg 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/09/digital_marketing_so_2t2QI-200x200.jpg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">How Digital Marketing Will Help Businesses To Grow In Pandemic Time?</span></a><div class="rpwwt-post-date">September 23, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/healthcare-app-development-essential-things-you-need-to-know"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/09/health_care_app_deve_ANCXz-150x150.jpg" class="attachment-75x60 size-75x60 wp-post-image" alt="Healthcare App Development: Everything You Need To Know" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/09/health_care_app_deve_ANCXz-150x150.jpg 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/09/health_care_app_deve_ANCXz-200x200.jpg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">Healthcare App Development: Essential Things You Need To Know</span></a><div class="rpwwt-post-date">September 11, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/how-artificial-intelligence-is-changing-digital-marketing-industry"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/09/AI-in-Digital-Marketing-1024x576-1-150x150.png" class="attachment-75x60 size-75x60 wp-post-image" alt="How Artificial Intelligence is Changing Digital Marketing Industry?" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/09/AI-in-Digital-Marketing-1024x576-1-150x150.png 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/09/AI-in-Digital-Marketing-1024x576-1-200x200.png 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">How Artificial Intelligence is Changing Digital Marketing Industry?</span></a><div class="rpwwt-post-date">September 4, 2020</div></li>
+		<li><a href="https://www.aryausa.com/blog/is-flutter-the-future-of-mobile-app-development"><img width="60" height="60" src="https://www.aryausa.com/blog/wp-content/uploads/2020/09/flutterappdevelopmen_eyvBl-150x150.jpg" class="attachment-75x60 size-75x60 wp-post-image" alt="is-flutter-the-future-of-mobile-app-development" loading="lazy" srcset="https://www.aryausa.com/blog/wp-content/uploads/2020/09/flutterappdevelopmen_eyvBl-150x150.jpg 150w, https://www.aryausa.com/blog/wp-content/uploads/2020/09/flutterappdevelopmen_eyvBl-200x200.jpg 200w" sizes="(max-width: 60px) 100vw, 60px" /><span class="rpwwt-post-title">Is Flutter The Future Of Mobile App Development?</span></a><div class="rpwwt-post-date">September 3, 2020</div></li>
+	</ul>
+</div><!-- .rpwwt-widget -->
+</li>	</ul>
+	</div>
+</div><!--sidebars-->
+</aside>
+	</div><!--#page-->
+</div><!--.container-->
+
+</div>
+<div class="blog_footer"><div class="wave-bottom"></div></div>
+</div>
+
+
+	<footer class="wave animated fadeIn">
+		<div class="container">
+			<div class="footer-widgets">
+            <div class="row">
+						<div class="col-lg-3 col-md-3 col-sm-3">
+			<div class="widget">			<div class="textwidget">      <div class="technology">
+          <h3>Other Info</h3>
+          <span></span>
+          <ul>
+            <li><a href="https://www.aryausa.com/blog/career" target="_blank" rel="noopener">We are Hiring?</a> </li>
+            <li><a href="https://www.aryausa.com/blog/" target="_blank" rel="noopener">Blog </a> </li>
+<li><a href="https://www.aryausa.com/events">Events </a></li>
+            <li><a href="https://www.aryausa.com/engagement-models">Engagement Models </a> </li>
+            <li><a href="https://www.aryausa.com/knowledge-base">Knowledge Base</a> </li>
+            <li><a href="https://www.aryausa.com/terms-condition">Terms &amp; Condition </a> </li>
+            <li><a href="https://www.aryausa.com/privacy-policy">Privacy Policy </a> </li>
+          </ul>
+        </div></div>
+		</div>		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3">
+			<div class="widget">			<div class="textwidget"><div class="technology">
+          <h3>Services</h3>
+          <span></span>
+          <ul>
+            <li><a href="https://www.aryausa.com/Iot-solution"> AI & IoT Solution</a></li>
+            <li><a href="https://www.aryausa.com/blockchain-development-company" target="_blank" rel="noopener">Blockchain Development </a> </li>
+            <li><a href="https://www.aryausa.com/bot-development" target="_blank" rel="noopener">Bot Development</a> </li>
+            <li><a href="https://www.aryausa.com/custom-software-development" target="_blank" rel="noopener">Custom Software Development</a> </li>
+            <li><a href="https://www.aryausa.com/mobile-app-development">Mobile App Development</a> </li>
+            <li><a href="https://www.aryausa.com/digital-marketing-solutions">Digital Marketing Solutions</a> </li>
+           
+          </ul>
+        </div>
+<div class="technology">
+  <h3>Products</h3>
+  <span></span>
+  <ul>
+	<li><a href="https://timentask.com/" title="TimenTask" target="_blank" rel="noopener">TimenTask</a> </li>
+	<li><a href="https://desktrack.timentask.com/" title="DeskTrack" target="_blank" rel="noopener">DeskTrack</a> </li>
+  </ul>
+</div></div>
+		</div>		</div>
+
+    <div class="col-lg-3 col-md-3 col-sm-3">
+			<div class="widget">			<div class="textwidget">  <div class="technology">
+    <h3>Get In Touch</h3>
+    <span></span>
+    <div class="address-detail">
+      <span><img src="https://www.aryausa.com/images/us.png" alt="US-Flag"></span>
+      <div class="right-address">
+        <div class="inner-address">
+          <p class="ustext"><strong>US</strong>: 1291 E. Hillsdale Blvd. Ste 205,
+            Foster City, CA 94404 </p>
+        </div>
+        <div class="inner-address">
+          <p class="adress"><a href="callto:16502428260">+1-650-242-8260</a> </p>
+        </div>
+      </div>
+    </div>
+    <div class="address-detail">
+      <span><img src="https://www.aryausa.com/images/india.png" alt="India-Flag"></span>
+      <div class="right-address">
+        <div class="inner-address">
+          <p> <strong>India</strong>: 217 Metropolis Tower, Ajmer Road,
+            Jaipur -302019</p>
+        </div>
+        <div class="inner-address">
+          <p class="adress"><a href="callto:911412812458">+91-141-2812458</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="address-detail netherlandflag">
+      <span><img src="https://www.aryausa.com/images/netherlands.png" alt="Netherland-Flag"></span>
+      <div class="right-address">
+        <div class="inner-address">
+          <p style="margin-bottom:5px;"> <strong> Netherlands</strong>: AFM State of the Art 4 Millions P.O. Box 1111
+            3000 BC Rotterdam Netherlands </p>
+          <p><strong class="contactnumb">Austria</strong> +43 650 717 33 65<br /><strong class="contactnumb">Spain
+            </strong>+34 691 78 53 60</p>
+        </div>
+      </div>
+      <!---<div class="inner-address">
+          <p><strong>India</strong>: <a href="callto:911412812458">+91-141-2812458</a>, <br>
+            <a href="callto:919636140177">+91-9636140177</a></p>
+        </div> --->
+    </div>
+
+  </div></div>
+		</div>		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3">
+		 <div class="widget">			<div class="textwidget"><div class="technology">
+<h3>Connect with Us</h3>
+<span></span>
+<ul class="addressul">
+<li class="social-icon"><a href="https://www.facebook.com/aryausa/" target="_blank" title="Facebook" rel="noopener"><i class="fa fa-facebook fbicon"></i></a></li>
+<li class="social-icon"><a href="https://twitter.com/aryavrat_01" target="_blank" title="Twitter" rel="noopener"><i class="fa fa-twitter twicon"></i></a></li>
+<li class="social-icon"><a href="https://plus.google.com/u/0/117988383423314089791" target="_blank" title="Google Plus" rel="noopener"><i class="fa fa-google-plus googleplus"></i></a></li>
+<li class="social-icon"><a href="https://www.linkedin.com/company/aryavrat-infotech-pvt--ltd-/" target="_blank" title="Linkedin" rel="noopener"><i class="fa fa-linkedin linicon"></i></a></li>
+<li class="social-icon"><a href="https://feeds.feedburner.com/Aryavrat" target="_blank" title="RssFeed" rel="noopener"><i class="fa fa-rss twicon"></i></a></li>
+<!--<li class="social-icon footerimg1"><a href="https://clutch.co/profile/aryavrat-infotech" target="_blank" title="Clucth" rel="noopener"><img src="https://www.aryausa.com/images/clutch.png" alt="Aryavrat-Infotech"></a></li>-->
+</ul>
+<!--<ul class="footerlogo">
+<li class="social-icon footerimg2 goodfirmsimg"><a href="https://www.goodfirms.co/companies/view/5189/aryavrat-infotech-inc" target="_blank" title="Goodfirm" rel="noopener"><img class="goldlogo" src="https://www.aryausa.com/images/goodfirms.png" alt="Goodfirms"></a></li>
+<li class="social-icon footerimg2 goodfirmsimg"><a href="https://www.nexmo.com/" target="_blank" title="Nexmo" rel="noopener"><img class="nexmologo" src="https://www.aryausa.com/images/nexmo-logo.png" alt="Nexmo"></a></li>
+</ul>-->
+<div class="address-detail mail12box">
+<span><i class="ion-ios-email-outline"></i></span>
+<div class="inner-address email-address">
+<p><a href="mailto:sales@aryausa.com" class="mail-info">sales@aryausa.com</a><br><a href="mailto:salesuae@aryausa.com" class="mail-info">salesuae@aryausa.com</a></p>
+</div>
+</div>
+</div>
+<div class="iosbutton"><a href="https://www.aryausa.com/images/iso-certificate.pdf" target="_blank" rel="noopener"><img src="https://www.aryausa.com/images/iosimg.png" alt="International-Organization-for-Standardization" /></a></div>
+<div class="iosbutton"><a href="https://www.aryausa.com/images/iso-certificate_9001.pdf" target="_blank" rel="noopener"><img src="https://www.aryausa.com/images/iosimg_9001.png" alt="black-ioslogo"></a></div>
+</div>
+		</div>	 </div>
+                </div>
+			</div>
+		
+				<div class="copyright">
+				<div class="row" >
+                                 <div class="col-md-12">
+                                <div class="" id="copyright-note">
+
+<span>Copyright © 2022 <a href="https://www.aryausa.com/blog/../" title="Think Technology&#8230; Think Us&#8230;">Aryavrat Infotech</a> . All rights reserved.</span>
+<!--<div class="top"><a href="#top" class="toplink">Back to Top ↑</a>-->
+</div></div>
+</div>
+			</div>
+			</div></div>
+             <div class="wave-bottom"></div>
+	</footer>
+
+
+<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+	$('#thanks').modal('show');
+    $("#noFile").text("No file chosen...");
+    ga( 'send', 'event', 'Contact Form', 'submit' );
+}, false );
+</script>
+<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+if ( '671' == event.detail.contactFormId ) {
+	$('#submitForm').modal('hide');
+	$('#thanks').modal('show');
+    $("#noFile2").text("No file chosen...");
+    ga( 'send', 'event', 'Contact Form', 'submit' );
+}
+}, false );
+</script>
+<link rel='stylesheet' id='simple-share-buttons-adder-ssba-css'  href='https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/css/ssba.css?ver=5.6.8' type='text/css' media='all' />
+<style id='simple-share-buttons-adder-ssba-inline-css' type='text/css'>
+	.ssba {
+									
+									
+									
+									-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;  border-radius: 10px; -o-border-radius: 10px;
+								}
+								.ssba img
+								{
+									width: 42px !important;
+									padding: 8px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+									box-sizing: unset;
+								}
+
+								.ssba-classic-2 .ssbp-text {
+									display: none!important;
+								}
+
+								.ssba .fb-save
+								{
+								padding: 8px;
+								line-height: 37px; }
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									background: none;
+									
+									font-size: 0px;
+									
+									font-weight: normal;
+								}
+								.ssba-share-text{display:none}
+
+			   #ssba-bar-2 .ssbp-bar-list {
+					max-width: 48px!important;;
+			   }
+			   #ssba-bar-2 .ssbp-bar-list li a {height: 48px!important; width: 48px!important; 
+				}
+				#ssba-bar-2 .ssbp-bar-list li a:hover {
+				}
+
+				#ssba-bar-2 .ssbp-bar-list li a::before {line-height: 48px!important;; font-size: 18px;}
+				#ssba-bar-2 .ssbp-bar-list li a:hover::before {}
+				#ssba-bar-2 .ssbp-bar-list li {
+				margin: 0px 0!important;
+				}@media only screen and ( max-width: 750px ) {
+				#ssba-bar-2 {
+				display: block;
+				}
+			}
+@font-face {
+				font-family: 'ssbp';
+				src:url('https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?xj3ol1');
+				src:url('https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?#iefixxj3ol1') format('embedded-opentype'),
+					url('https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.woff?xj3ol1') format('woff'),
+					url('https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.ttf?xj3ol1') format('truetype'),
+					url('https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.svg?xj3ol1#ssbp') format('svg');
+				font-weight: normal;
+				font-style: normal;
+
+				/* Better Font Rendering =========== */
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+</style>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.aryausa.com\/blog\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=5.6.8' id='simple-share-buttons-adder-ssba-js'></script>
+<script type='text/javascript' id='simple-share-buttons-adder-ssba-js-after'>
+Main.boot( [] );
+</script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-includes/js/wp-embed.min.js?ver=5.6.8' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.aryausa.com/blog/wp-includes/js/comment-reply.min.js?ver=5.6.8' id='comment-reply-js'></script>
+<!--Twitter Button Script------>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!--Facebook Like Button Script------>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/all.js#xfbml=1&appId=136911316406581";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#phoneicon").click(function() {
+        $("#modalresponsive").toggle();
+    });
+	
+	$("#menuicon").click(function(){
+		$("#navbar").slideToggle();
+	});
+});
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e15b37a7e39ea1242a39a40/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<!--Start of Zopim Live Chat Script 
+<script type="text/javascript">
+
+    window.$zopim||(function(d,s){var z=$zopim=function(c){
+
+        z._.push(c)},$=z.s=
+
+        d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+
+    _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+
+        $.src='//v2.zopim.com/?2Ckq4QDm5W8Znj5q5oUvvJDvml7cS4SZ';z.t=+new Date;$.
+
+            type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script> -->
+<!--End of Zopim Live Chat Script-->
+
+</body>
+</html>
+<script type="text/javascript">
+
+$('#commentform').submit(function() {
+
+  if (grecaptcha.getResponse() == ""){
+    alert('Please verify your are not bot.');
+    return false;
+  } else {
+    alert("Thank you for submit");
+    return true;
+  }
+
+});
+
+</script>
