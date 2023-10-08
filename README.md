@@ -43,7 +43,7 @@ Before using the app, make sure you have the following:
 
 ### Installation
 
-1. Open [My GitHub Profile](https://github.com/yourusername)
+1. Open [My GitHub Profile](https://habibaahmedm-002-site1.atempurl.com)
  and create your user profile.
 2. Start swiping and matching with potential dates!
 
