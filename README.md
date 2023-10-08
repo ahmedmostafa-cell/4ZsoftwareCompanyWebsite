@@ -37,7 +37,7 @@ To get started with our Dating App, follow these steps:
 
 Before using the app, make sure you have the following:
 
-- Android/iOS device
+
 - A modern web browser
 - Internet connection
 
